@@ -1,0 +1,61 @@
+
+[Thread Link](https://twitter.com/WifeyAlpha/status/1489222447949877251)
+#WifeyAlpha 
+
+## <u>Simple Asset Allocation</u>
+
+- [ ] Global Growth Cycle: Identifying Economic Turning Points, a Market Timing Strategy ([link](https://grzegorz.link/growth))
+- [ ] Lazy Momentum with Growth-Trend timing: Resilient Asset Allocation (RAA) (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3752294))
+- [ ] Growth-Trend Timing and 60-40 Variations: Lethargic Asset Allocation (LAA) (2020) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3498092)) ([notes](onenote:../Academic%20Papers/Asset%20Allocation.one#Growth-Trend%20Timing%20and%2060-40%20Variations%20Lethargic%20Asset%20Allocation%20(LAA)&section-id={25900A54-5D28-4A38-8D9F-38A0AA95D262}&page-id={1393E671-7AA3-4B0F-9943-070633A2ED97}&base-path=https://d.docs.live.net/6d94afbf51158917/Documents))
+- [ ] Simple and Effective Market Timing with Tactical Asset Allocation (2014) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2437049))
+- [ ] Simple and Effective Market Timing with Tactical Asset Allocation Part 2 - Choices ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3129098))
+- [ ] Is the Permanent Portfolio Broken ([link](https://movement.capital/is-the-permanent-portfolio-broken/))
+- [ ] A Quantitative Approach to Tactical Asset Allocation (2014) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=962461))
+- [ ] Predictive Asset Allocation (PAA): A Simple Momentum-Based Alternative for Term Deposits (2016) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2759734))
+- [ ] The Argument for Bonds in Strategic Asset Allocation (2020) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3640268))
+- [ ] Buy-and-Hold and Constant-Mix May Be Better Allocation Strategies Than You Think (2020) ([link](https://jpm.pm-research.com/content/46/6/159.abstract))
+- [ ] Global Tactical Asset Allocation (2005) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=795376))
+- [ ] A Modern, Behavoir-Aware Approach to Asset Allocation and Portfolio Construction (2017) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2881609))
+- [ ] Global Tactical Cross-Asset Allocation: Applying Value and Momentum Across Asset Classes ([link](https://www.robeco.com/media/e/9/4/e944d4bbd23da77c1606adf565e30b94_global-tactical-cross-asset-allocation-applying-value-and-momentum-across-asset-classes-2008_tcm17-18745.pdf))
+- [ ] Market Timing Using Aggregate Equity Allocation Signals (2021) ([link](https://alphaarchitect.com/2021/04/29/market-timing-using-aggregate-equity-allocation-signals/))
+- [ ] Market Timing: Opportunities and Risks (2017) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2983997))
+- [ ] The 60/40 Problem: Examining the Traditional 60/40 Portfolio in an Uncertain Rate Environment (2017) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959015))
+- [ ] Stoken's Active Combined Asset (ACA) ([link](https://portfoliodb.co/portfolios/stokens-active-combined-asset/))
+- [ ] Ivy Portfolio - Rotation ([link](https://portfoliodb.co/portfolios/ivy-portfolio-rotation/))
+- [ ] Ivy Portfolio - Timing ([link](https://portfoliodb.co/portfolios/ivy-portfolio-timing/))
+- [ ] Global Tactical Asset Allocation 5 (GTAA 5) by Meb Faber ([link](https://portfoliodb.co/portfolios/global-tactical-asset-allocation-5-gtaa-5-meb-faber/))
+- [ ] Mama Bear Portfolio ([link](https://muscularportfolios.com/mama-bear/))
+- [ ] Papa Bear Portfolio ([link](https://muscularportfolios.com/papa-bear/))
+- [ ] Minimum Correlation Algorithm Paper Release (2012) ([link](https://cssanalytics.wordpress.com/2012/09/21/minimum-correlation-algorithm-paper-release/))
+- [ ] A Simple Tactical Asset Allocation Portfolio with Percentile Channels (2015) ([link](https://cssanalytics.wordpress.com/2015/01/26/a-simple-tactical-asset-allocation-portfolio-with-percentile-channels/))
+- [ ] Percentile Channel Strategy Replication (2015) ([link](https://cssanalytics.wordpress.com/2015/02/16/percentile-channel-strategy-replication/))
+
+## <u>Short-Term / Intraday</u>
+
+- [ ] Re-Appraising Intraday Trading Patterns: What You Didn't Know You Didn't Know (2018) ([link](https://www.researchgate.net/publication/326472346_Re-Appraising_Intraday_Trading_Patterns_What_You_Didn't_Know_You_Didn't_Know))
+- [ ] The Greenspan Effect on Equity Markets: An Intraday Examination of U.S. Monetary Policy Announcements (2005) ([link](https://research.cbs.dk/en/publications/the-greenspan-effect-on-equity-markets-an-intraday-examination-of))
+- [ ] Withdrawal of High-Frequency Traders and Intraday ETF Volatility during the COVID-19 Crisis (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3992113))
+- [ ] When Does the Fed Care About Stock Prices? (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3234977))
+- [ ] The FOMC Risk Shift (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3072912))
+- [ ] What Drives Intraday Reversal? Illiquidity or Liquidity Oversupply? (2022) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3756630))
+- [ ] The Intraday Impact of Macroeconomic News on Price Moves of Financial Instruments (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3798844))
+- [ ] Hedging Demand and Market Intraday Momentum (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3760365))
+- [ ] Intraday Return Predictability in the Crude Oil Market: The Role of EIA Inventory Announcements (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3822093))
+- [ ] Disentangling Auto-correlated Intraday Returns (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857785))
+- [ ] When Do Informed Short Sellers Trade? Evidence from Intraday Data and Implications for Informed Trading Models (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3761523))
+- [ ] Explaining GameStop Short Squeeze using Intraday Data and Google Searches (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805630))
+
+## <u>Machine Intelligence</u>
+
+- [ ] Supervised Portfolios (2022) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3954109))
+- [ ] Early Bird Catches the Intraday Trend (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3922814))
+- [ ] Machine Learning for Predicting Stock Return Volatility (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3995529))
+- [ ] Decisions making using fuzzy logic for stock trading (2010) ([link](https://www.researchgate.net/publication/251944336_Decision_making_using_fuzzy_logic_for_stock_trading))
+- [ ] Fuzzy logic, trading uncertainty and technical trading (2013) ([link](https://www.bracil.net/Guests/Nikola.Gradojevic/Gradojevic-FuzzyTTR-JBankingFinance.pdf))
+- [ ] A Financial Decision Supporting System Based on Fuzzy Candlestick Patterns ([link](https://t.co/eiMKL4axzU))
+- [ ] Investigating candlestick patterns using fuzzy logic in the stock trading system ([link](https://t.co/aZUaIz8AOi))
+- [ ] Stock Reversal Pattern Mining Based on Fuzzy Candlestick Lines (2020) ([link](https://ieeexplore.ieee.org/document/9182613))
+- [ ] Combining Reinforcement Learning and Inverse Reinforcement Learning for Asset Allocation Recommendations (2022) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4002715))
+- [ ] Machine Learning for Active Portfolio Management (2021) ([link](https://jfds.pm-research.com/content/early/2021/07/12/jfds.2021.1.071))
+- [ ] Using Machine Learning to Predict Out-of-Sample Performance of Trading Algorithms (2016) ([link](https://www.datarobot.com/blog/using-machine-learning-to-predict-out-of-sample-performance-of-trading-algorithms/))
+- [ ] Intraday Market Predictability: A Machine Learning Approach (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726765))

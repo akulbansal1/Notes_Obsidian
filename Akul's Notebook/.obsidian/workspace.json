@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "ff834d38ff71019a",
+    "type": "split",
+    "children": [
+      {
+        "id": "43f13f40673fc385",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1915b85625526a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitHub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5b8f9bfd9b2f8bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "354369d20a30afae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2adedcb865912155",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c61566ce3c11210",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83865d7b283f8e7f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9a37c3e4a7cfba4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fa0e6ffcf73d5e3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2a799e4d9818694",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7b0b4d25ad9823c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GitHub.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc46b845e212c9f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GitHub.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb7004a0e0cc813a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "983458e4b31cfd56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GitHub.md"
+              }
+            }
+          },
+          {
+            "id": "0526509fd44848ac",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1915b85625526a4d",
+  "lastOpenFiles": [
+    "Notebook/Appraisal '23.md",
+    "GitHub.md",
+    "GitHub.md",
+    "Obsidian Practice Rough Work/whatever.md",
+    "Obsidian Practice Rough Work/Obsidian Experiment.md",
+    "Obsidian Practice Rough Work",
+    "Notebook/Newsletter/Appendix/Screenshot 2023-04-04 at 10.57.38 PM.png",
+    "Notebook/Newsletter/Appendix/Pasted image 20230403115701.png",
+    "Notebook/Newsletter/Appendix/Pasted image 20230403114902.png",
+    "Notebook/Newsletter/Appendix",
+    "Notebook/Newsletter/Annual Newsletter Rough Draft.md",
+    "Notebook/Important Links/Ideas.md",
+    "Notebook/Important Links/Idea Sourcing.md",
+    "Notebook/Important Links/Global Factor Data Documentation.pdf",
+    "Notebook/Important Links/General.md",
+    "Notebook/Appendix/Screenshot 2023-05-18 at 1.36.55 PM.png",
+    "Notebook/Newsletter",
+    "Notebook/Important Links",
+    "Notebook/Appendix",
+    "Notebook",
+    "Twitter/Pumpamentals/Books Recommendations.md",
+    "Twitter/WifeyAlpha/Research Thread 1.md",
+    "Notebook/Personal/Git Token.md",
+    "Blogs/MacroSynergy/Academic Papers.md",
+    "Untitled",
+    "Library_Personal/journals,magazines/SSRN Papers/Macro-Based Factors for the Cross-Section of Currency Returns (2023).pdf",
+    "Notebook_Personal/Personal/Appraisal '23.md",
+    "Library_Personal/journals,magazines/SSRN Papers/The Response of Equity Yields to a Long-Run Shock (2023).pdf",
+    "Twitter/Pumpamentals/Appendix/Pasted image 20230516110903.png",
+    "Twitter/Quantseeker/Big Data Asset Pricing.md",
+    "Blogs/MacroSynergy/ForEx/FX trend following and macro headwinds.md",
+    "Research Papers/Macro/Macro Trends and Factor Timing.md",
+    "Research Papers/Macro/Alternative Data and ML for Macro Nowcasting.md",
+    "Twitter/WifeyAlpha/Un-'threaded'.md",
+    "Twitter/WifeyAlpha/Research Thread 2.md",
+    "Twitter/Pumpamentals/Chat with Pumpamentals.md",
+    "Notebook_Personal/Personal/Letters to Nidhi.md",
+    "Podcasts/Top Traders Unplugged/TTU/Ep 141, Douglas Greenig.md",
+    "Research Papers/Macro/Economic Trend.md",
+    "Research Papers/Asset Allocation/Investing in Interesting Times.md",
+    "Notebook_Personal/Appendix/Screenshot 2023-05-18 at 1.36.55 PM.png",
+    "Blogs/AllocateSmartly/Appendix/Screenshot 2023-05-16 at 2.26.30 PM.png",
+    "Research Papers/Asset Allocation/Appendix/Screenshot 2023-05-16 at 2.17.55 PM.png",
+    "Research Papers/Asset Allocation/Appendix/Screenshot 2023-05-16 at 2.16.49 PM.png",
+    "Research Papers/Asset Allocation/Appendix/Screenshot 2023-05-16 at 2.15.57 PM.png"
+  ]
+}

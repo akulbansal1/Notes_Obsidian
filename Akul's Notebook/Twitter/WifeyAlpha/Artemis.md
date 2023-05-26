@@ -1,0 +1,10 @@
+
+[Thread Link](https://twitter.com/wifeyalpha/status/1481171929750982658?s=61&t=JkdXvPmVyFrbU1bizYR9ug)
+#WifeyAlpha 
+
+- [ ] You Want to Diversify Based on How Asset Perform In Different Market Regimes
+	- Summary: "In today's episode, we cover the optimal portfolio to help you grow and protect your wealth for the next 100 years. Chris shares why recency bias has led investors to be poorly positions for secular change. We cover the issues with the 60/40 portfolio and then walk through the five asset classes that he believes belong in your portfolio at all times. Then Chris explains who investors should think about diversification, and his new metric to help you do so. And of course, we talk some long volatility!".
+- [ ] Rise of the Dragon - From Deflation to Reflation 2020 Case Study for the Artemis Dragon Portfolio. ([notes](onenote:..\Artemis.one#Rise%20of%20the%20Dragon%20-%20From%20Deflation%20to%20Reflation%202020&section-id={744F0341-5BD4-A440-A87B-06F757E691C1}&page-id={E8D46C14-207A-5C48-B9B0-5EA0EA743027}&end&base-path=https://d.docs.live.net/6d94afbf51158917/Documents/Markets))
+- [ ] Money ball for Modern Portfolio Theory - The Sharpe ratio problem and Cole wins above replacement portfolio solution ([notes](onenote:..\Artemis.one#Moneyball%20for%20Modern%20Portfolio%20Theory&section-id={744F0341-5BD4-A440-A87B-06F757E691C1}&page-id={21218B44-F95E-5A4E-976F-3A8B525A50C5}&end&base-path=https://d.docs.live.net/6d94afbf51158917/Documents/Markets))
+- [ ] The Allegory of the Hawk and Serpent ([notes](onenote:..\Artemis.one#The%20Allegory%20of%20the%20Hawk%20and%20Serpent&section-id={744F0341-5BD4-A440-A87B-06F757E691C1}&page-id={CB690DB3-99BB-A34D-A0FF-1C101E2FE4F7}&end&base-path=https://d.docs.live.net/6d94afbf51158917/Documents/Markets))
+- [ ] Volatility and Allegory of the Prisoner's Dilemma ([notes](onenote:..\Artemis.one#Volatility%20and%20Allegory%20of%20the%20Prisoner's%20Dilemma&section-id={744F0341-5BD4-A440-A87B-06F757E691C1}&page-id={3AD1A960-600E-3E47-99F3-F1CA5452ACE4}&end&base-path=https://d.docs.live.net/6d94afbf51158917/Documents/Markets))

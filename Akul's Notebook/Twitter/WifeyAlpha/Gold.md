@@ -1,0 +1,32 @@
+#WifeyAlpha 
+
+- [ ] Start [here](https://www.kitco.com/) (Kitco Gold Index)
+- "When the US Dollar gets stronger, it takes fewer dollars to buy any commodity that is priced in $USD. […] The price of all US Dollar denominated commodities, like gold, will change to reflect that it will take fewer or more dollars to buy that commodity. So it's quite possible, in fact it's almost always the case that a portion of the change in the price of gold is really just a reflection of a change in the value of the US Dollar. […] That accounts for part of the fluctuations that we see in the value of gold".
+- "The other part is an actual increase in the supply or demand for gold. If the price is higher when being measured not only in US Dollar, but also in Euros, Pounds Sterling, Japanese Yen, and every other major currency, then we know the gold demand is higher and it has actually increased in value".
+- "Interestingly, whatever changes happen to the price of gold as result of US Dollar strength/weakness also occurs to every other US Dollar denominated commodity by the exact same proportion".
+- [ ] Gold's Value as an Investment (2021) ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3934052))
+- [ ] Gold, the Golden Constant, COVID-19, 'Massive Passives' and déjà vu (2021) ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3667789))
+- [ ] Investing in Gold - Market Timing or Buy-and-Hold? (2018) ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3202658))
+- [ ] Gold as a hedge against the dollar (2005) ([paper](https://www.sciencedirect.com/science/article/abs/pii/S1042443104000794))
+- [ ] The Effect of Inflation on the Prices of Land and Gold (2006) ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=403380))
+- [ ] The Golden Dilemma (2013) ([paper](https://www.nber.org/system/files/working_papers/w18706/w18706.pdf))
+	- "equity volatility and cash (USD)/cash eq. (US T-Bills) are the only true safe havens. Other assets can sometimes provide protection but not always all in limit-down times. Even in deflationary busts bonds can fail".
+	- "Gold is good before shit hits the fan, after shit hits the fan but nor during the hitting of the fan. […] Gold is not a safe haven when it is limit-down equities". Reason:
+		-   USD inverse relationship to Gold. When there is market panic, bid in USD
+		-   Gold = currency to pay for margin calls
+- Correlation b/w gold and real interest rates = -0.82. "This correlation explains why inflation is gold's best friends while rate hikes are its worst enemy"
+- [ ] Gold vs. real yields ([link](https://www.longtermtrends.net/gold-vs-real-yields/))
+- [ ] "Inverse correlation to real rates not inflation". Listen to [this](https://pca.st/ke1sdyej#t=3206) podcast from 53:00 onwards
+
+- [ ] When to Own Stocks and When to Own Gold (2020) ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3535152)) ([notes](onenote:https://d.docs.live.net/6d94afbf51158917/Documents/Academic%20Papers/Regime.one#When%20to%20Own%20Stocks%20and%20When%20to%20Own%20Gold&section-id={1FF0E95D-C274-4DC9-99C2-E3CDADA084AF}&page-id={8B4F022B-998B-8D47-A3C8-0AF579FCDB8D}&end))
+- [ ] Tactical Asset Allocation to Gold (2005) ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=783187))
+- [ ] The Golden Constant (2019) ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2639284))
+- [ ] The Dollar During the Great Recession: US Monetary Policy Signaling and the Flight to Safety (2019) ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465746))
+- [ ] The Federal Reserve and the 2020 Economic and Financial Crisis (2020) ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3602740))
+- [ ] The Impact of Monetary Policy on the Specialness of U.S. Treasuries (2020) ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3682897))
+- [ ] The US Dollar and Fed's Tightening Cycles (2021) ([paper](https://corporate.nordea.com/article/71847/week-ahead-the-us-dollar-and-feds-tightening-cycles))
+- [ ] What is the Fed? ([link](https://www.frbsf.org/education/teacher-resources/what-is-the-fed/monetary-policy/))
+- [ ] The Role of U.S. Monetary Policy in Global Banking Crisis (2019) ([paper](https://www.federalreserve.gov/econres/feds/files/2019039pap.pdf))
+- [ ] Historical Approaches to Monetary Policy ([link](https://www.federalreserve.gov/monetarypolicy/historical-approaches-to-monetary-policy.htm))
+- [ ] The Dollar During the Global Recession: US Monetary Policy and the Exorbitant Duty (2018) ([link](https://www.bostonfed.org/publications/research-department-working-paper/2018/the-dollar-during-the-global-recession-us-monetary-policy-and-the-exorbitant-duty.aspx))
+- [ ] The Long-Run Relationship of Gold and Silver and the Influence of Bubbles and Financial Crises (2012) ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2016631))

@@ -1,0 +1,13 @@
+[Thread link](https://twitter.com/ChiefQuant/status/1476711189216382982?s=20)
+#WifeyAlpha 
+
+- [ ] Momentum Turning Point (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3489539)) ([notes](onenote:Academic%20Papers.one#Momentum%20Turning%20Points&section-id={4D9D8288-AC01-4E84-B901-8ABAF48AAA2B}&page-id={6FCAF5D5-F1C5-4D3C-BB85-097377F35602}&end&base-path=https://d.docs.live.net/6d94afbf51158917/Documents/Markets))
+- [ ] Slow Momentum with Fast Reversion: A Trading Strategy Using Deep Learning and Change-point Detection (2021) ([link](https://jfds.pm-research.com/content/iijjfds/early/2021/12/30/jfds.2021.1.081.full.pdf)) ([notes](onenote:Academic%20Papers.one#Slow%20Momentum%20with%20Fast%20Reversion%20A%20Trading%20Strategy%20Using%20Deep%20Learning%20and%20Changepoint%20Detection&section-id={4D9D8288-AC01-4E84-B901-8ABAF48AAA2B}&page-id={5BD8A9E6-E662-4838-A771-123CF88094DF}&end&base-path=https://d.docs.live.net/6d94afbf51158917/Documents/Markets))
+- [ ] Breaking Bad Trends (2020) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3594888)) ([notes](onenote:Academic%20Papers.one#Breaking%20Bad%20Trends&section-id={4D9D8288-AC01-4E84-B901-8ABAF48AAA2B}&page-id={69ED559D-6C0E-43E6-A1C6-7C05FC4D5ABC}&base-path=https://d.docs.live.net/6d94afbf51158917/Documents/Markets))
+- [ ] A test of Momentum Turning Points and Breaking Bad Trends ([link](https://allocatesmartly.com/momentum-turning-points/)) ([notes](onenote:#Momentum%20Turning%20Points&section-id={20880D00-700B-49EA-B4E7-A8F410B35580}&page-id={EB8C44AC-CFDD-47BB-A518-21C1A3675BCD}&end&base-path=https://d.docs.live.net/6d94afbf51158917/Documents/Markets/Papers%5eJ%20Journals%5eJ%20Articles%5eJ%20Blogs.one))
+- Long-term momentum = 9-12 months; short-term momentum = 1-3 months
+	- These two will "often produce very different results during periods of market stress, like we saw [in 2020] with the Covid pullback. Whipsaw massacre"
+- "short-term trend preference could be a temporary state driven by an activist Fed. As the effectiveness of Fed intervention wanes, markets could return to a healthier state where long-term momentum prevails"
+	- "Healthier state could be a long-term downward trend in risk prices"
+	- "precise timing of that shift from short to long-term is impossible predict"
+- "a multi-timing trend portfolio seems like good risk and drawdown management. It might make the backtest look worse" but that's not a problem because the portfolio is now more robust.
