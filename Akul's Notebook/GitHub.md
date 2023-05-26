@@ -12,7 +12,7 @@
 ## Section 4: Basic of Git: Adding and Committing
 - Create a new file in Git Bash:
 	```
-	touch *file name*
+	touch <file_name>
 	```
 	- for example: if you want to create a new .py file by the name *Hello_World*:
 		```
@@ -20,7 +20,7 @@
 		```
 - To create a new folder:
 	```
-	mkdir *folder name*
+	mkdir <folder_name>
 	```
 - Create a repository by using the command:
 	```
@@ -295,4 +295,23 @@ git clone <url>
 
 
 ## Section 12: Fetching & Pulling
-- 
+- To view the branches on the remote:
+	```
+	git branch -r
+	```
+- To clone a branch:
+	```
+	# copy the cloning link from GitHub and run this command:
+	git clone <url>
+	
+	# to switch to a branch that exits on the remote but you didn't clone into your local repo:
+	git switch <branch> # this will automatically link the local and remote branches
+	```
+- git commands diagram:![[Pasted image 20230526170059.png]]
+- git fetch doesn't integrate the changes into working directory, while git pull puts the changes into your local working repository.
+	```
+	git fetch <remote>
+	
+	git pull <remote>
+	```
+	- 
