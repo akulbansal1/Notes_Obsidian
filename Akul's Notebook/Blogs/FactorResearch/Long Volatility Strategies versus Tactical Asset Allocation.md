@@ -14,4 +14,4 @@ Tags: #idea_tactical_asset_allocation #Global_Macro
 - "TAA strategies aim at generating higher risk-adjusted and not necessarily higher absolute returns than the stock market"
 
 - "The difference between long volatility and TAA strategies is that they provide different diversification benefits. TAA strategies are ideal for long and slow bear markets as they exit equities and preserve capital"
-	- "long volatility strategies benefit from sharp increases in volatility. […] TAA strategies tend to have long lookback periods and do not exit quickly enough"
+	- "long volatility strategies benefit from sharp increases in volatility. […] TAA strategies tend to have long lookback periods and do not exit quickly enough"![[Screenshot 2023-05-26 at 7.37.35 PM.png]]
