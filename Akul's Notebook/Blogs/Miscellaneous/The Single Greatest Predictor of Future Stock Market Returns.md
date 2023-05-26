@@ -1,0 +1,1 @@
+[Link](obsidian://open?vault=Akul's%20Notebook&file=Library_Personal%2Fjournals%2Cmagazines%2FThe%20Single%20Greatest%20Predictor%20of%20Future%20Stock%20Market%20Returns%20%7C%20PHILOSOPHICAL%20ECONOMICS.pdf)

@@ -1,0 +1,1 @@
+[Link](https://macro-ops.com/wp-content/uploads/2019/02/Who-Is-On-the-Other-Side.pdf)

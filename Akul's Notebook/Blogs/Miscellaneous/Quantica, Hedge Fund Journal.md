@@ -1,0 +1,23 @@
+[Article](https://thehedgefundjournal.com/quantica-capital-a-differentiated-trend-following-cta/) on Quantica, the Swiss quantitative fund
+#idea_trend_following 
+Published on 1 June 2021
+
+- "Quantica's return profile is recognizably that of a trend following CTA, with a long-term correlation of around 0.70 to the SG Trend Index"
+- "Its outperformance of larger trend following peers present in the SG Trend Index has averaged almost 5% p.a. since inception 16 years ago and has been almost 10% p.a. over the past five years - a period that was lacklustre for some trend following approaches that have been approximately flat"![[Screenshot 2023-05-26 at 8.27.04 PM.png]]
+- "It [Quantica Managed Futures] has generated cumulatively more than $450 million in gross P&L for its investors since inception in 2005, yet assets remain below $1 billion, illustrating how performance is prioritized over asset gathering"
+- "Quantica believes that a gross Sharpe ratio target of close to one is realistic for a medium-term strategy trading in liquid markets, and this has been achieved"
+- "Quantica measures trends on a risk adjusted and relative basis within its investment universe, which entails ranking trends for its 60 markets on a matrix of about 3,600 coefficients. Each instrument is considered in the multi-dimensional context of its performance relative to the other 59 markets, rather than in isolation"
+	- "Quantica reverse to a short stance in US Treasuries already in September 2020, since in relative terms they were underperforming European government bonds and other asset classes such as equities, FX, and commodities as the correlation structures were changing. In absolute terms, bond yields were only a month away from their all-time lows"
+	- "Quantica has a small short in some US and European equity indices in March 2021. […] this might sound like a countertrend or mean reversion trade, and it would be classified as such in a traditional framework of absolute trend following. But in Quantica's worldview of relative trends, the fact that relative volatility equity markets had started to show weaker risk-adjusted trends than commodities, currencies or bonds, was enough to warrant a small short position.![[Screenshot 2023-05-26 at 8.27.40 PM.png]]
+- "Following relative risk adjusted trends also means that cross-instrument and cross-asset correlations feed into signal generation at the start of the process, rather than the more typical approach of considering them in portfolio construction later; Quantica is not carrying out mean variance optimisation"
+	- There are risk limits on the portfolio level
+	- Portfolio construction is bottom up; asset class and instrument weights fluctuate considerably according to the strength of the special trend signals
+	- "Quantica has found that this dynamic approach adds to performance by underweighting exposure to sideways markets and overweighting those with the strongest trends. For instance, in 2016-2020, an overweight stance in US equities versus European and Asian equities added to outperformance, though this has shifted towards Asian and emerging markets equities since November 2020x" `Perry Kaufman has been a proponent of this as well`
+- "efficient implementation process, minimising portfolio turnover and transactions costs, partly through trading only liquid markets, but also through lower turnover"
+	- "Quantica exponentially weighted methodology detects trends over periods of 6-8 weeks, though holding periods can years in some cases"
+	- "When correlations are more stable, we trade less and pick up medium term and long-terms premia rather than getting whipsawed, and this is when our biggest outperformance occurs. This is important because markets are in this normal regime about 65% of the time"
+
+- "Quantica has stayed style consistent in capturing relative trend inefficiencies in liquid markets over medium term time frames"
+- "The strategy is still - to a large degree - the same as when it was launched back in 2005"
+- Firm started out as a to staff. Key hire in 2020 was Mirjolet, the current CEO. "Yet Quantica is still a relatively lean team of 13"
+- "over one third of the return from owning bond futures between 2005 and 2020 has come from rolling down an upward sloping yield curve. Quantica's relative risk-adjusted return forecasts consider carry or term structure, which can be particularly important in fixed income" `Sounds a lot like the methodology Rob Carver uses. The only difference being Quantica is building its portfolio bottom up while Rob decides allocation between different assets on a top down basis.`
