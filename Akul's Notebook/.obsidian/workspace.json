@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1915b85625526a4d",
+            "id": "d8045ee405947eb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "faca181dd002d0c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blogs/Artemis/Volatility and Allegory of the Prisoner's Dillema.md",
+                "file": "Blogs/MacroSynergy/Equities/Inflation as equity trading signal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogs/Artemis/Volatility and Allegory of the Prisoner's Dillema.md",
+                "file": "Blogs/MacroSynergy/Equities/Inflation as equity trading signal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogs/Artemis/Volatility and Allegory of the Prisoner's Dillema.md",
+                "file": "Blogs/MacroSynergy/Equities/Inflation as equity trading signal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blogs/Artemis/Volatility and Allegory of the Prisoner's Dillema.md"
+                "file": "Blogs/MacroSynergy/Equities/Inflation as equity trading signal.md"
               }
             }
           },
@@ -177,27 +164,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2adedcb865912155",
+  "active": "d8045ee405947eb9",
   "lastOpenFiles": [
+    "Blogs/MacroSynergy/Equities/Appendix/Screenshot 2023-05-26 at 8.07.49 PM.png",
+    "Blogs/MacroSynergy/Equities/Appendix/Screenshot 2023-05-26 at 8.06.08 PM.png",
+    "Blogs/MacroSynergy/Equities/Appendix",
+    "Blogs/MacroSynergy/Academic Papers.md",
+    "GitHub.md",
+    "Blogs/MacroSynergy/Commodities/Forecasting energy markets with macro data.md",
+    "Blogs/MacroSynergy/Equities/Inflation as equity trading signal.md",
+    "Blogs/MacroSynergy/Commodities/Predicting base metal futures returns with economic data.md",
+    "Library_Personal/journals,magazines/MacroSynergy/Inflation as equity trading signal | Macrosynergy Research.pdf",
+    "Library_Personal/journals,magazines/MacroSynergy/Predicting base metal futures returns with economic data | Macrosynergy Research.pdf",
+    "Blogs/MacroSynergy/Equities",
+    "Blogs/Artemis/Volatility and Allegory of the Prisoner's Dillema.md",
     "Blogs/Grzegor/The Yield Game.md",
     "Blogs/Grzegor/A Couple of New Interesting Developments Concerning the Global Growth Cycle Strategy.md",
     "Library_Personal/journals,magazines/A Couple of New Interesting Developments Concerning the Global Growth Cycle Strategy.pdf",
     "Blogs/Grzegor/Global Growth Cycle Identifying Economic Turning Points, a Market Timing Strategy.md",
     "Library_Personal/journals,magazines/The Yield Game.pdf",
     "Library_Personal/journals,magazines/Global Growth Cycle: Identifying Economic Turning Points, a Market Timing Strategy.pdf",
-    "Blogs/Artemis/Volatility and Allegory of the Prisoner's Dillema.md",
     "Blogs/Artemis/Moneyball for Modern Portfolio Theory.md",
     "Blogs/Artemis/Rise of the Dragon - From Deflation to Reflation 2020 Case Study for the Artemis Dragon Portfolio.md",
     "Blogs/Artemis/The Allegory of the Hawk and Serpent.md",
-    "GitHub.md",
     "Blogs/FactorResearch/Long Volatility Strategies versus Tactical Asset Allocation.md",
     "Library_Personal/Fintwit/VolqVault/Se7en/The Long Good Buy - Oppenheimer/The Long Good Buy Analysing Cycles in Markets by Peter C. Oppenheimer (z-lib.org).pdf",
     "Library_Personal/Fintwit/VolqVault/Se7en/The Long Good Buy - Oppenheimer/The Long Good Buy Analysing Cycles in Markets by Peter C. Oppenheimer (z-lib.org).epub",
     "Library_Personal/Fintwit/VolqVault/Se7en/Strategic Risk Management/Strategic Risk Management_ Designing Portfolios and Managing Risk -- Campbell R. Harvey, Sandy Rattray, Otto Van Hemert -.epub",
-    "Library_Personal/Fintwit/VolqVault/Se7en/Strategic Risk Management/Strategic Risk Management_ Designing Portfolios and Managing Risk -- Campbell R. Harvey, Sandy Rattray, Otto Van Hemert -.pdf",
-    "Library_Personal/Fintwit/VolqVault/Se7en/Safe Haven Investing For Financial Storms/Mark Spitznagel - Safe Haven_ Investing for Financial Storms-Wiley (2021).pdf",
-    "Library_Personal/Fintwit/VolqVault/Se7en/Geopolitical Alpha/Marko Papic - Geopolitical Alpha_ An Investment Framework for Predicting the Future-Wiley (2020).pdf",
-    "Library_Personal/Fintwit/VolqVault/Se7en/Safe Haven Investing For Financial Storms/Mark Spitznagel - Safe Haven_ Investing for Financial Storms-Wiley (2021).epub",
     "Library_Personal/Fintwit/VolqVault/Se7en/Geopolitical Alpha/Geopolitical Alpha page 89.jpg",
     "Library_Personal/Fintwit/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/9.jpeg",
     "Library_Personal/Fintwit/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/7.jpeg",
@@ -207,23 +200,17 @@
     "Library_Personal/Fintwit/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/5.jpeg",
     "Library_Personal/Fintwit/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/4.jpeg",
     "Library_Personal/Fintwit/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/21.jpeg",
-    "Library_Personal/Fintwit/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/20.jpeg",
     "Blogs/Artemis/Ep 317, You Want To Diversify Based on How Asset Perform in Different Market Regimes.md",
     "Blogs/AQR/Talks at GS, Cliff Asness.md",
     "Blogs/AQR/Is (Systematic) Value Investing Dead?.md",
     "Blogs/AQR/Is Value Just an Interest Rate Bet?.md",
     "Blogs/AQR/We Are Not Just Value! Except, You Know, When We Are....md",
-    "Blogs/MacroSynergy/Commodities/Forecasting energy markets with macro data.md",
     "Opinion/What's the Yield Curve in India Signalling?.md",
     "Research Papers/Asset Allocation/Building a Beta Portfolio in an Environment That Looks Difficult for Assets.md",
     "Research Papers/Asset Allocation/Dual and Canary Momentum with Rising Yield Inflation Hybrid Asset Allocation (HAA).md",
     "Research Papers/Risk Management/Allocating Assets in Climates of Extreme Risk.md",
     "Research Papers/Risk Management/Drawdowns.md",
     "Research Papers/Risk Management/Portfolio Protection? It's a Long (Term) Story.md",
-    "Research Papers/Risk Management/Strategic Risk Management Out-Of-Sample Evidence From the COVID-19 Equity Selloff.md",
-    "Research Papers/Risk Management/Systemic Risk and Bank Business Models.md",
-    "Research Papers/Risk Management/Tail Risk Hedging Contrasting Put and Trend Strategies.md",
-    "Research Papers/Macro/Political Risk in Emerging and Developed Markets.md",
-    "Research Papers/Macro/Runs to Banks The Role of Cash Sweeps During Market Downturns.md"
+    "Research Papers/Risk Management/Strategic Risk Management Out-Of-Sample Evidence From the COVID-19 Equity Selloff.md"
   ]
 }

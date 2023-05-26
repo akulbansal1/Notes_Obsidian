@@ -1,4 +1,4 @@
-
+#MacroSynergy 
 # <u>Fixed Income</u>
 - [ ] [Factors Explaining Long-Term Government Bond Yields in the OECD Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4407123)
 - [ ] [Inflation-Adjusted Bonds, Swaps and Derivatives](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4338914)
