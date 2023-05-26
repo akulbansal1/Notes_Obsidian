@@ -310,8 +310,24 @@ git clone <url>
 - git commands diagram:![[Pasted image 20230526170059.png]]
 - git fetch doesn't integrate the changes into working directory, while git pull puts the changes into your local working repository.
 	```
-	git fetch <remote>
+	git fetch <remote> # will get all changes across all branches
 	
-	git pull <remote>
+	git fetch <remote> <branch> # will get all changes in a single branch
+	
+	# to see all the new branch that you just fetched:
+	git checkout <remote>/<branch>
 	```
-	- 
+- To update the head branch in your local repo:
+	```
+	git pull <remote>
+	# "download data from GitHub and immediately update my local repo with those changes"
+	
+	git pull <remote> <branch>
+	```
+	- NOTE: wherever you run this command from, matters. Whichever branch you are on, that is where the changes will be merged into.
+
+
+## Section 13: GitHub Grab Bag: Odds and Ends
+- To give collaborator privileges of a GitHub repo to someone:
+	- repo -> settings -> Manage access -> Invite a collaborator
+- 
