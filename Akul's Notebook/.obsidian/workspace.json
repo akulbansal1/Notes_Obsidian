@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "903b58429d6a8405",
+            "id": "4f41282775add394",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Opinion/Appendix/Difference in correlations of Gold(INR)-Nifty and Gold(USD)-Nifty.png"
+                "file": "Blogs/AQR/Is Value Just an Interest Rate Bet?.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Opinion/Appendix/Difference in correlations of Gold(INR)-Nifty and Gold(USD)-Nifty.png",
+                "file": "Blogs/AQR/Is (Systematic) Value Investing Dead?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Opinion/Appendix/Difference in correlations of Gold(INR)-Nifty and Gold(USD)-Nifty.png",
+                "file": "Blogs/AQR/Is (Systematic) Value Investing Dead?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Opinion/Appendix/Difference in correlations of Gold(INR)-Nifty and Gold(USD)-Nifty.png"
+                "file": "Blogs/AQR/Is (Systematic) Value Investing Dead?.md"
               }
             }
           },
@@ -175,8 +177,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "903b58429d6a8405",
+  "active": "2adedcb865912155",
   "lastOpenFiles": [
+    "Library_Personal/journals,magazines/AQR/Is Systematic Value Investing Dead.pdf",
+    "Blogs/AQR/Talks at GS, Cliff Asness.md",
+    "Blogs/AQR/Is (Systematic) Value Investing Dead?.md",
+    "Blogs/AQR/Is Value Just an Interest Rate Bet?.md",
+    "Blogs/AQR/Appendix/Screenshot 2023-05-26 at 7.21.07 PM.png",
+    "Blogs/AQR/Appendix/Screenshot 2023-05-26 at 7.19.45 PM.png",
+    "Blogs/AQR/Appendix",
+    "Blogs/AQR/We Are Not Just Value! Except, You Know, When We Are....md",
+    "Library_Personal/journals,magazines/AQR/Value is Just Not an Interest Rate Bet_.pdf",
+    "Blogs/MacroSynergy/Commodities/Forecasting energy markets with macro data.md",
+    "Library_Personal/journals,magazines/AQR/We Are Not Just Value Except You Know When We Are.pdf",
+    "Opinion/Appendix/Difference in correlations of Gold(INR)-Nifty and Gold(USD)-Nifty.png",
+    "Blogs/Rob Carver",
+    "Twitter/Prometheus",
+    "Blogs/Miscellaneous",
+    "Blogs/Newfound",
+    "Blogs/Grzegor",
+    "Blogs/FactorResearch",
+    "Blogs/Artemis",
     "Opinion/Appendix/Rolling 24-month correlation between Nifty and Gold (INR).png",
     "Opinion/Appendix/Screenshot 2023-05-26 at 7.05.26 PM.png",
     "Opinion/Appendix/Screenshot 2023-05-26 at 7.05.06 PM.png",
@@ -186,8 +207,6 @@
     "Opinion/Appendix/Screenshot 2023-05-26 at 7.03.29 PM.png",
     "Opinion/Appendix/Screenshot 2023-05-26 at 7.02.56 PM.png",
     "GitHub.md",
-    "Appendix/Pasted image 20230526170059.png",
-    "Appendix",
     "Research Papers/Asset Allocation/Building a Beta Portfolio in an Environment That Looks Difficult for Assets.md",
     "Research Papers/Asset Allocation/Dual and Canary Momentum with Rising Yield Inflation Hybrid Asset Allocation (HAA).md",
     "Research Papers/Risk Management/Allocating Assets in Climates of Extreme Risk.md",
@@ -205,23 +224,6 @@
     "Research Papers/Macro/Alternative Data and ML for Macro Nowcasting.md",
     "Research Papers/Macro/Building a Better Commodities Portfolio.md",
     "Research Papers/Macro/Carry Trades and Currency Crashes.md",
-    "Research Papers/Factor-Investing/Will Your Factor Deliver.md",
-    "Research Papers/Factor-Investing/Value and Momentum Everywhere.md",
-    "Research Papers/Factor-Investing/The Quant Cycle.md",
-    "Research Papers/Factor-Investing/The Link Between Macro-economic Factors and Style Returns.md",
-    "Research Papers/Factor-Investing/The Death of Diversification Has Been Greatly Exaggerated.md",
-    "Research Papers/Factor-Investing/How Do Factor Premia Vary Over Time? A Century of Evidence.md",
-    "Obsidian Practice Rough Work",
-    "Notebook/Newsletter/Appendix/Screenshot 2023-04-04 at 10.57.38 PM.png",
-    "Notebook/Newsletter/Appendix/Pasted image 20230403115701.png",
-    "Notebook/Newsletter/Appendix/Pasted image 20230403114902.png",
-    "Notebook/Newsletter/Appendix",
-    "Notebook/Important Links/Global Factor Data Documentation.pdf",
-    "Notebook/Newsletter",
-    "Notebook/Important Links",
-    "Notebook/Appendix",
-    "Notebook",
-    "Untitled",
-    "Library_Personal/journals,magazines/SSRN Papers/Macro-Based Factors for the Cross-Section of Currency Returns (2023).pdf"
+    "Research Papers/Factor-Investing/Will Your Factor Deliver.md"
   ]
 }
