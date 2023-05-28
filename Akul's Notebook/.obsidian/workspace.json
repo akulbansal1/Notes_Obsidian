@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fa0e6ffcf73d5e3b",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogs/Newfound/Diversifying the What, How, and When of Trend Following.md",
+                "file": "Podcasts/Market Huddle/Ep.213, Jim Leitner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogs/Newfound/Diversifying the What, How, and When of Trend Following.md",
+                "file": "Podcasts/Market Huddle/Ep.213, Jim Leitner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blogs/Newfound/Diversifying the What, How, and When of Trend Following.md"
+                "file": "Podcasts/Market Huddle/Ep.213, Jim Leitner.md"
               }
             }
           },
@@ -177,11 +177,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05345d83ac588198",
+  "active": "2adedcb865912155",
   "lastOpenFiles": [
-    "Trend Filtering Methods for Momentum Strategies.md",
-    "Library_Personal/journals,magazines/SSRN Papers/Trend Filtering Methods for Momentum Strategies.pdf",
+    "Library/Fintwit_Personal/VolqVault/Se7en/The Long Good Buy - Oppenheimer/The Long Good Buy Analysing Cycles in Markets by Peter C. Oppenheimer (z-lib.org).pdf",
+    "Library/Fintwit_Personal/VolqVault/Se7en/The Long Good Buy - Oppenheimer/The Long Good Buy Analysing Cycles in Markets by Peter C. Oppenheimer (z-lib.org).epub",
+    "Library/Fintwit_Personal/VolqVault/Se7en/Strategic Risk Management/Strategic Risk Management_ Designing Portfolios and Managing Risk -- Campbell R. Harvey, Sandy Rattray, Otto Van Hemert -.pdf",
+    "Library/Fintwit_Personal/VolqVault/Se7en/Strategic Risk Management/Strategic Risk Management_ Designing Portfolios and Managing Risk -- Campbell R. Harvey, Sandy Rattray, Otto Van Hemert -.epub",
+    "Library/Fintwit_Personal/VolqVault/Se7en/Safe Haven Investing For Financial Storms/Mark Spitznagel - Safe Haven_ Investing for Financial Storms-Wiley (2021).pdf",
+    "Library/Fintwit_Personal/VolqVault/Se7en/Safe Haven Investing For Financial Storms/Mark Spitznagel - Safe Haven_ Investing for Financial Storms-Wiley (2021).epub",
+    "Library/Fintwit_Personal/VolqVault/Se7en/Geopolitical Alpha/Marko Papic - Geopolitical Alpha_ An Investment Framework for Predicting the Future-Wiley (2020).pdf",
+    "Library/Fintwit_Personal/VolqVault/Se7en/Geopolitical Alpha/Marko Papic - Geopolitical Alpha_ An Investment Framework for Predicting the Future-Wiley (2020).epub",
+    "Library/Fintwit_Personal/VolqVault/Se7en/Geopolitical Alpha/Geopolitical Alpha page 89.jpg",
+    "Library/Fintwit_Personal/VolqVault/Se7en/Beyond Diversificaiton/Sebastien Page - Beyond Diversification-McGraw-Hill Education (2020).pdf",
+    "Library/Fintwit_Personal/VolqVault/Se7en/Beyond Diversificaiton/Sebastien Page - Beyond Diversification-McGraw-Hill Education (2020).epub",
+    "Library/Fintwit_Personal/VolqVault/Se7en/Efficiently Inefficient/Lasse Heje Pedersen - Efficiently Inefficient_ How Smart Money Invests and Market Prices Are Determined-Princeton University Press (2015).pdf",
+    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/9.jpeg",
+    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/8.jpeg",
+    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/7.jpeg",
+    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/6.jpeg",
+    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/5.jpeg",
+    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/4.jpeg",
+    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/3.jpeg",
+    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/21.jpeg",
+    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/20.jpeg",
+    "Library/books_Personal/quant/Auquan blog/Tutorials-master/README.md",
+    "Library/books/quant/Auquan blog/Tutorials-master/README.md",
     "Blogs/Newfound/Diversifying the What, How, and When of Trend Following.md",
+    "Trend Filtering Methods for Momentum Strategies.md",
     "Podcasts/Market Huddle/Ep.213, Jim Leitner.md",
     "Podcasts/Market Huddle/Ep.179, Jim Leitner.md",
     "Blogs/Newfound/What the Trend.md",
@@ -202,27 +224,6 @@
     "Podcasts/Flirting With Models/S4E15, Russel Korgaonkar.md",
     "Podcasts/Flirting With Models/S5E12, Kevin Cole.md",
     "Blogs/MacroSynergy/Equities/Inflation as equity trading signal.md",
-    "Blogs/Miscellaneous/Quantica, Hedge Fund Journal.md",
-    "Blogs/Miscellaneous/Who Is On The Other Side?.md",
-    "Blogs/Miscellaneous/What Would Milton Friedman Say about the Recent Surge in Money Growth?.md",
-    "Blogs/Miscellaneous/Appendix/Screenshot 2023-05-26 at 8.50.44 PM.png",
-    "Blogs/Miscellaneous/Appendix/Screenshot 2023-05-26 at 8.48.41 PM.png",
-    "Blogs/Miscellaneous/Appendix/Screenshot 2023-05-26 at 8.48.30 PM.png",
-    "Blogs/Miscellaneous/Appendix/Screenshot 2023-05-26 at 8.47.10 PM.png",
-    "Blogs/Miscellaneous/Appendix/Screenshot 2023-05-26 at 8.46.58 PM.png",
-    "Blogs/Miscellaneous/Appendix/Screenshot 2023-05-26 at 8.46.09 PM.png",
-    "Blogs/Miscellaneous/Appendix/Screenshot 2023-05-26 at 8.45.14 PM.png",
-    "Blogs/Miscellaneous/Appendix/Screenshot 2023-05-26 at 8.44.58 PM.png",
-    "Blogs/Miscellaneous/Appendix/Screenshot 2023-05-26 at 8.43.55 PM.png",
-    "Blogs/Miscellaneous/Appendix/Screenshot 2023-05-26 at 8.38.29 PM.png",
-    "Library_Personal/journals,magazines/Transtrend/Portable alpha - Transtrend.pdf",
-    "Library_Personal/journals,magazines/Transtrend/Crisis beta - Transtrend.pdf",
-    "Library_Personal/journals,magazines/Transtrend/Alpha and beta - Transtrend.pdf",
-    "Library_Personal/journals,magazines/Transtrend",
-    "Library_Personal/journals,magazines/untitled folder",
-    "Library_Personal/journals,magazines/Crisis beta - Transtrend.pdf",
-    "Library_Personal/journals,magazines/Portable alpha - Transtrend.pdf",
-    "Library_Personal/journals,magazines/Alpha and beta - Transtrend.pdf",
-    "Library_Personal/journals,magazines/The Single Greatest Predictor of Future Stock Market Returns | PHILOSOPHICAL ECONOMICS.pdf"
+    "Blogs/Miscellaneous/Quantica, Hedge Fund Journal.md"
   ]
 }
