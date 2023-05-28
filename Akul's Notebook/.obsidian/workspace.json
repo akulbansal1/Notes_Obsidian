@@ -8,43 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8045ee405947eb9",
+            "id": "05345d83ac588198",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogs/MacroSynergy/Equities/Inflation as equity trading signal.md",
+                "file": "Blogs/Newfound/Diversifying the What, How, and When of Trend Following.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c92ab9cb99a87bc8",
+            "id": "48a798c47765b9ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogs/Miscellaneous/Quantica, Hedge Fund Journal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8879728b3f68048",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blogs/Miscellaneous/Who Is On The Other Side?.md",
+                "file": "Podcasts/Market Huddle/Ep.213, Jim Leitner.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fa0e6ffcf73d5e3b",
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogs/Miscellaneous/Who Is On The Other Side?.md",
+                "file": "Blogs/Newfound/Diversifying the What, How, and When of Trend Following.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogs/Miscellaneous/Who Is On The Other Side?.md",
+                "file": "Blogs/Newfound/Diversifying the What, How, and When of Trend Following.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blogs/Miscellaneous/Who Is On The Other Side?.md"
+                "file": "Blogs/Newfound/Diversifying the What, How, and When of Trend Following.md"
               }
             }
           },
@@ -189,8 +177,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8879728b3f68048",
+  "active": "05345d83ac588198",
   "lastOpenFiles": [
+    "Trend Filtering Methods for Momentum Strategies.md",
+    "Library_Personal/journals,magazines/SSRN Papers/Trend Filtering Methods for Momentum Strategies.pdf",
+    "Blogs/Newfound/Diversifying the What, How, and When of Trend Following.md",
+    "Podcasts/Market Huddle/Ep.213, Jim Leitner.md",
+    "Podcasts/Market Huddle/Ep.179, Jim Leitner.md",
+    "Blogs/Newfound/What the Trend.md",
+    "Blogs/Newfound/\"Well, you... No, you gotta do more than that\".md",
+    "Blogs/Newfound/One Hedge to Rule Them All.md",
+    "Blogs/Newfound/Quantifying Timing Luck.md",
+    "Blogs/Newfound/Big Little Details.md",
+    "Blogs/Newfound/Fragility Case Study Dual Momentum GEM.md",
+    "Podcasts/Flirting With Models/S5E11, Hari Krishnan.md",
+    "Podcasts/Market Huddle/Ep.164, Jim Leitner.md",
+    "Podcasts/Market Huddle/Ep.101 Nick Givanovic.md",
+    "Podcasts/Nick Givanovic/2020_05_06.md",
+    "Podcasts/Flirting With Models/S5E13, Adam Butler.md",
+    "Podcasts/Flirting With Models/S5E9, Andrew Beer.md",
+    "Podcasts/Flirting With Models/S5E8, Anti Illmanen.md",
+    "Podcasts/Flirting With Models/S5E5, David Sun.md",
+    "Podcasts/Flirting With Models/S5E3, Moritz Seibert & Moritz Heiden.md",
+    "Podcasts/Flirting With Models/S4E15, Russel Korgaonkar.md",
+    "Podcasts/Flirting With Models/S5E12, Kevin Cole.md",
+    "Blogs/MacroSynergy/Equities/Inflation as equity trading signal.md",
+    "Blogs/Miscellaneous/Quantica, Hedge Fund Journal.md",
+    "Blogs/Miscellaneous/Who Is On The Other Side?.md",
     "Blogs/Miscellaneous/What Would Milton Friedman Say about the Recent Surge in Money Growth?.md",
     "Blogs/Miscellaneous/Appendix/Screenshot 2023-05-26 at 8.50.44 PM.png",
     "Blogs/Miscellaneous/Appendix/Screenshot 2023-05-26 at 8.48.41 PM.png",
@@ -201,8 +214,6 @@
     "Blogs/Miscellaneous/Appendix/Screenshot 2023-05-26 at 8.45.14 PM.png",
     "Blogs/Miscellaneous/Appendix/Screenshot 2023-05-26 at 8.44.58 PM.png",
     "Blogs/Miscellaneous/Appendix/Screenshot 2023-05-26 at 8.43.55 PM.png",
-    "Blogs/Miscellaneous/Who Is On The Other Side?.md",
-    "Blogs/Miscellaneous/Transtrend Why to Avoid Alpha.md",
     "Blogs/Miscellaneous/Appendix/Screenshot 2023-05-26 at 8.38.29 PM.png",
     "Library_Personal/journals,magazines/Transtrend/Portable alpha - Transtrend.pdf",
     "Library_Personal/journals,magazines/Transtrend/Crisis beta - Transtrend.pdf",
@@ -212,29 +223,6 @@
     "Library_Personal/journals,magazines/Crisis beta - Transtrend.pdf",
     "Library_Personal/journals,magazines/Portable alpha - Transtrend.pdf",
     "Library_Personal/journals,magazines/Alpha and beta - Transtrend.pdf",
-    "Blogs/Miscellaneous/Traders' Interview.md",
-    "Blogs/Miscellaneous/The Single Greatest Predictor of Future Stock Market Returns.md",
-    "Blogs/Miscellaneous/RBC TMOC Total FX.md",
-    "Library_Personal/journals,magazines/The Single Greatest Predictor of Future Stock Market Returns | PHILOSOPHICAL ECONOMICS.pdf",
-    "Blogs/Miscellaneous/Quantica, Hedge Fund Journal.md",
-    "Blogs/Miscellaneous/Appendix",
-    "Blogs/MacroSynergy/Equities/Inflation as equity trading signal.md",
-    "Blogs/MacroSynergy/Academic Papers.md",
-    "GitHub.md",
-    "Blogs/MacroSynergy/Commodities/Forecasting energy markets with macro data.md",
-    "Blogs/MacroSynergy/Commodities/Predicting base metal futures returns with economic data.md",
-    "Blogs/Artemis/Volatility and Allegory of the Prisoner's Dillema.md",
-    "Blogs/Grzegor/The Yield Game.md",
-    "Blogs/Grzegor/A Couple of New Interesting Developments Concerning the Global Growth Cycle Strategy.md",
-    "Blogs/Grzegor/Global Growth Cycle Identifying Economic Turning Points, a Market Timing Strategy.md",
-    "Blogs/Artemis/Moneyball for Modern Portfolio Theory.md",
-    "Blogs/Artemis/Rise of the Dragon - From Deflation to Reflation 2020 Case Study for the Artemis Dragon Portfolio.md",
-    "Blogs/Artemis/The Allegory of the Hawk and Serpent.md",
-    "Blogs/FactorResearch/Long Volatility Strategies versus Tactical Asset Allocation.md",
-    "Blogs/Artemis/Ep 317, You Want To Diversify Based on How Asset Perform in Different Market Regimes.md",
-    "Blogs/AQR/Talks at GS, Cliff Asness.md",
-    "Blogs/AQR/Is (Systematic) Value Investing Dead?.md",
-    "Blogs/AQR/Is Value Just an Interest Rate Bet?.md",
-    "Blogs/AQR/We Are Not Just Value! Except, You Know, When We Are....md"
+    "Library_Personal/journals,magazines/The Single Greatest Predictor of Future Stock Market Returns | PHILOSOPHICAL ECONOMICS.pdf"
   ]
 }
