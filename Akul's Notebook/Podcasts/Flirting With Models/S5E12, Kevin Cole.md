@@ -16,7 +16,7 @@ Recording Date: 29 August, 2022
 	- Team of 60 people.
 	- $3.5B AUM.
 	- Flagship program: Campbell Absolute Return (CAR)
-		- Systematic multi-strat fund; doing short term statistical models, quant equity market neutral, quant macro, and trend-following.
+		- Systematic multi-strategy fund; doing short term statistical models, quant equity market neutral, quant macro, and trend-following.
 		- 130 individual models, or alphas
 		- 130 derivative markets
 		- 5000 cash equities
@@ -37,7 +37,7 @@ Recording Date: 29 August, 2022
 	- "In any given year, we typically add about 5-10 new models to portfolio and that's what gets us to 130 alphas and CAR today".
 - "we can take advantage of the embedded in these markets we trade to really create a portfolio that […] can actually get a lot of the upside benefits of trend but also have some of the benefits other approaches".
 	- "We wrote a paper a few years back on using the idea of embedded leverage"
-	- For example: you allocate to 4 managers specializing in each of the investment styles we have, i.e. trend-following, equity market neutral, short term trading, and quant macro.
+	- For example: you allocate to 4 managers specialising in each of the investment styles we have, i.e. trend-following, equity market neutral, short term trading, and quant macro.
 		- Let's say each of those delivered a 0 correlation, and 10% vol and 0.5 Sharpe.
 		- "The combined allocation would have a Sharpe of 1, and that's pretty attractive. But the combined vol would drop to 5%".
 		- Because we're running all of these in a single portfolio, we can manage the underlying leverage of the strategies and make sure we hit the target vol on the portfolio level.
@@ -67,9 +67,9 @@ Recording Date: 29 August, 2022
 -   Risk management
 	- "The vast majority of our risk management process is systematic"
 	- Three layers of risk:
-		1.  Day-to-day variations: can be well modeled with statistical distributions
+		1.  Day-to-day variations: can be well modelled with statistical distributions
 		2.  Tail-risk: things that involve outsized moves; we can set CVaR limits, and those kinds of things, again that's systematic
-		3.  Unknown risks: can't be modeled, for example: Brexit, the early day of Covid, Russia-Ukraine crisis.
+		3.  Unknown risks: can't be modelled, for example: Brexit, the early day of Covid, Russia-Ukraine crisis.
 - Post-2008, we had risk-on, risk-off risk factors. Post-Covid, it changed the way different markets traded with each other, and there were this Covid-on, Covid-off factors.
 - "Talk to me a little bit more about how you're identifying these emerging risk factors at anytime and working with the team to try to capture them quantitatively? And how that flows through the risk management process"?
 	- "We're working with our trading desk, with our counter-parties, with the research team, thinking about what risks might be emerging. What might we be missing".
@@ -77,8 +77,8 @@ Recording Date: 29 August, 2022
 - "Campbell's flagship program is offered as a managed account; it's offered in a pooled vehicle structure as well as within a mutual fund"
 - A lot of the managed futures firms were expanding into researching different types of signals during 2010s. Where did a lot of those firms that didn't do so well go wrong?
 	- "they weren't experienced in looking into those new areas"
-	- "The first place to look would be all the research that was coming out of the time on alt-risk-premia. They may have been looking at standard carry or standard value type factors, and some of those got pretty commoditized because there's a lot of money chasing them. I think if you were just looking in those well-defined areas, that might not have been the most fruitful"
+	- "The first place to look would be all the research that was coming out of the time on alt-risk-premia. They may have been looking at standard carry or standard value type factors, and some of those got pretty commoditised because there's a lot of money chasing them. I think if you were just looking in those well-defined areas, that might not have been the most fruitful"
 
-- "There is an inherent tension in that the ideas that have the most robust empirical support probably are also at the most risk of being commoditized, and perhaps the concepts that have the greatest opportunities are those that can't be validated across long backtests and across broad set of markets".
+- "There is an inherent tension in that the ideas that have the most robust empirical support probably are also at the most risk of being commoditised, and perhaps the concepts that have the greatest opportunities are those that can't be validated across long backtests and across broad set of markets".
 	- "might be an emerging phenomenon", etc.
 	- "these models don't represent a major allocation of portfolios today"

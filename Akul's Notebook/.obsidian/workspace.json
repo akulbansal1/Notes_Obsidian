@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Podcasts/Flirting With Models/S6E5, Macrocephalopod.md",
+                "file": "Podcasts/Flirting With Models/S5E13, Adam Butler.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19ffa064cf880eff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Factor Investing/Expected Returns.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Trend_Following",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fa0e6ffcf73d5e3b",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Podcasts/Flirting With Models/S6E5, Macrocephalopod.md",
+                "file": "Podcasts/Flirting With Models/S5E13, Adam Butler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Podcasts/Flirting With Models/S6E5, Macrocephalopod.md",
+                "file": "Podcasts/Flirting With Models/S5E13, Adam Butler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Podcasts/Flirting With Models/S6E5, Macrocephalopod.md"
+                "file": "Podcasts/Flirting With Models/S5E13, Adam Butler.md"
               }
             }
           },
@@ -159,38 +170,44 @@
   },
   "active": "940e960b6559c9aa",
   "lastOpenFiles": [
+    "Podcasts/Flirting With Models/S5E11, Hari Krishnan.md",
     "Podcasts/Flirting With Models/S5E13, Adam Butler.md",
+    "Podcasts/Flirting With Models/S5E12, Kevin Cole.md",
+    "Books/Global Macro/Market Tremors.md",
+    "Books/Factor Investing/Expected Returns.md",
+    "Podcasts/Flirting With Models/S5E9, Andrew Beer.md",
+    "Podcasts/Flirting With Models/S5E5, David Sun.md",
+    "Podcasts/Flirting With Models/S5E8, Anti Illmanen.md",
+    "Research Papers/Momentum Trend Following/You Can't Always Trend When You Want.md",
+    "Books/Factor Investing",
+    "Library/journals,magazines/AQR/You Can't Always Trend When You Want.pdf",
+    "Podcasts/Flirting With Models/S5E3, Moritz Seibert & Moritz Heiden.md",
+    "Podcasts/Flirting With Models/S4E15, Russel Korgaonkar.md",
+    "Blogs/Newfound/Diversifying the What, How, and When of Trend Following.md",
+    "Blogs/Newfound/Appendix/Screenshot 2023-05-29 at 3.04.31 PM.png",
+    "Blogs/Newfound/Appendix/Screenshot 2023-05-29 at 3.04.09 PM.png",
+    "Blogs/Newfound/Appendix/Screenshot 2023-05-29 at 3.03.37 PM.png",
+    "Blogs/Newfound/Appendix/Screenshot 2023-05-29 at 3.03.20 PM.png",
+    "Blogs/Newfound/Appendix/Screenshot 2023-05-29 at 3.02.10 PM.png",
+    "Blogs/Newfound/Appendix/Screenshot 2023-05-29 at 3.01.56 PM.png",
+    "Blogs/Newfound/Appendix",
+    "Library/journals,magazines/SSRN Papers/Uncovering Trend Rules.pdf",
+    "Library/journals,magazines/SSRN Papers/Market Timing with Moving Averages Anatomy and Performance of Trading Rules.pdf",
+    "Podcasts/Flirting With Models/S6E5, Macrocephalopod.md",
     "Blogs/MacroSynergy/Alternative Risk Premia Primer.md",
     "Blogs/MacroSynergy/ForEx/FX trend following and macro headwinds.md",
     "Blogs/MacroSynergy/Academic Papers.md",
     "Library/journals,magazines/MacroSynergy/Alternative Risk Premia Primer.pdf",
-    "Blogs/Newfound/Diversifying the What, How, and When of Trend Following.md",
-    "Podcasts/Flirting With Models/S6E5, Macrocephalopod.md",
     "Research Papers/Macro/Economic Trend.md",
     "Research Papers/Momentum Trend Following/A Half Century of Macro Momentum.md",
-    "Podcasts/Flirting With Models/S5E9, Andrew Beer.md",
-    "Podcasts/Flirting With Models/S5E5, David Sun.md",
-    "Podcasts/Flirting With Models/S5E3, Moritz Seibert & Moritz Heiden.md",
-    "Podcasts/Flirting With Models/S4E15, Russel Korgaonkar.md",
     "Library/Fintwit_Personal/VolqVault/Se7en/The Long Good Buy - Oppenheimer/The Long Good Buy Analysing Cycles in Markets by Peter C. Oppenheimer (z-lib.org).pdf",
     "Library/Fintwit_Personal/VolqVault/Se7en/The Long Good Buy - Oppenheimer/The Long Good Buy Analysing Cycles in Markets by Peter C. Oppenheimer (z-lib.org).epub",
     "Library/Fintwit_Personal/VolqVault/Se7en/Strategic Risk Management/Strategic Risk Management_ Designing Portfolios and Managing Risk -- Campbell R. Harvey, Sandy Rattray, Otto Van Hemert -.pdf",
     "Library/Fintwit_Personal/VolqVault/Se7en/Strategic Risk Management/Strategic Risk Management_ Designing Portfolios and Managing Risk -- Campbell R. Harvey, Sandy Rattray, Otto Van Hemert -.epub",
-    "Library/Fintwit_Personal/VolqVault/Se7en/Safe Haven Investing For Financial Storms/Mark Spitznagel - Safe Haven_ Investing for Financial Storms-Wiley (2021).pdf",
-    "Library/Fintwit_Personal/VolqVault/Se7en/Safe Haven Investing For Financial Storms/Mark Spitznagel - Safe Haven_ Investing for Financial Storms-Wiley (2021).epub",
-    "Library/Fintwit_Personal/VolqVault/Se7en/Geopolitical Alpha/Marko Papic - Geopolitical Alpha_ An Investment Framework for Predicting the Future-Wiley (2020).pdf",
-    "Library/Fintwit_Personal/VolqVault/Se7en/Geopolitical Alpha/Marko Papic - Geopolitical Alpha_ An Investment Framework for Predicting the Future-Wiley (2020).epub",
     "Library/Fintwit_Personal/VolqVault/Se7en/Geopolitical Alpha/Geopolitical Alpha page 89.jpg",
-    "Library/Fintwit_Personal/VolqVault/Se7en/Beyond Diversificaiton/Sebastien Page - Beyond Diversification-McGraw-Hill Education (2020).pdf",
     "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/9.jpeg",
     "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/8.jpeg",
     "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/7.jpeg",
-    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/6.jpeg",
-    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/5.jpeg",
-    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/4.jpeg",
-    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/3.jpeg",
-    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/21.jpeg",
-    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/20.jpeg",
     "Library/books_Personal/quant/Auquan blog/Tutorials-master/README.md",
     "Library/books/quant/Auquan blog/Tutorials-master/README.md",
     "Trend Filtering Methods for Momentum Strategies.md",
@@ -198,12 +215,6 @@
     "Podcasts/Market Huddle/Ep.179, Jim Leitner.md",
     "Blogs/Newfound/What the Trend.md",
     "Blogs/Newfound/\"Well, you... No, you gotta do more than that\".md",
-    "Blogs/Newfound/One Hedge to Rule Them All.md",
-    "Blogs/Newfound/Quantifying Timing Luck.md",
-    "Blogs/Newfound/Big Little Details.md",
-    "Blogs/Newfound/Fragility Case Study Dual Momentum GEM.md",
-    "Podcasts/Flirting With Models/S5E11, Hari Krishnan.md",
-    "Podcasts/Market Huddle/Ep.164, Jim Leitner.md",
-    "Podcasts/Market Huddle/Ep.101 Nick Givanovic.md"
+    "Blogs/Newfound/One Hedge to Rule Them All.md"
   ]
 }
