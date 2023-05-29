@@ -20,10 +20,10 @@ A lot of the notes in the folder will be empty, because either:
 ## FAQs
 
 1. Some texts are highlighted `like this. Are these typos?`
-	- No, they are not. Although backticks are used to denote `code` in Markdown, I use them to denote my thoughts. I have tried to keep the notes as unbiased as possible and so `texts that look like this` denotes my annotations.
+	- No, they are not. Although backticks are used to denote `code` in Markdown, I use them to denote my thoughts. I have tried to keep the notes as unbiased as possible and so `texts that look like this` denote my annotations.
 
 2. There are a lot of links that I am unable to open. How do I open those?
-	- I save PDFs of most papers/books I read and insert a link to them in the notes file. Unfortunately, my "Library" is 5 Gigabytes and so difficult to upload on GitHub since GitHub doesn't allow uploads of >2 Gb. Also, I don't want to get sued by Wiley!
+	- I save PDFs of most papers/books I read and insert a link to them in the notes file. Unfortunately, my "Library" is 5 Gigabytes therefore, difficult to upload on GitHub since GitHub doesn't allow single push of >2 Gb. Also, I don't want to get sued by Wiley!
 
 3. How do I get in touch with you, if I need any help or just to chat?
-	- [Twitter](https://twitter.com/AkulBansal1); [LinkedIn](https://www.linkedin.com/in/akul-bansal-6b4952177/)
+	- [Twitter](https://twitter.com/AkulBansal1) | [LinkedIn](https://www.linkedin.com/in/akul-bansal-6b4952177/)
