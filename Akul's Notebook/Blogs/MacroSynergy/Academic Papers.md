@@ -23,3 +23,4 @@
 # <u>Overall Trading</u>
 - [ ] [An Introduction to Arbitrage Trading Strategies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4420232)
 - [ ] [[Economic Trend]]
+- [ ] [[Alternative Risk Premia Primer]]
