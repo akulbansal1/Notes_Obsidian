@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "940e960b6559c9aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Podcasts/Flirting With Models/S5E13, Adam Butler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "19ffa064cf880eff",
             "type": "leaf",
             "state": {
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Podcasts/Flirting With Models/S5E13, Adam Butler.md",
+                "file": "Books/Factor Investing/Expected Returns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Podcasts/Flirting With Models/S5E13, Adam Butler.md",
+                "file": "Books/Factor Investing/Expected Returns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Podcasts/Flirting With Models/S5E13, Adam Butler.md"
+                "file": "Books/Factor Investing/Expected Returns.md"
               }
             }
           },
@@ -168,10 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "940e960b6559c9aa",
+  "active": "19ffa064cf880eff",
   "lastOpenFiles": [
-    "Podcasts/Flirting With Models/S5E11, Hari Krishnan.md",
+    "Research Papers/Momentum Trend Following/Trend Filtering Methods for Momentum Strategies.md",
     "Podcasts/Flirting With Models/S5E13, Adam Butler.md",
+    "Podcasts/Flirting With Models/S5E11, Hari Krishnan.md",
     "Podcasts/Flirting With Models/S5E12, Kevin Cole.md",
     "Books/Global Macro/Market Tremors.md",
     "Books/Factor Investing/Expected Returns.md",
@@ -210,7 +199,6 @@
     "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/7.jpeg",
     "Library/books_Personal/quant/Auquan blog/Tutorials-master/README.md",
     "Library/books/quant/Auquan blog/Tutorials-master/README.md",
-    "Trend Filtering Methods for Momentum Strategies.md",
     "Podcasts/Market Huddle/Ep.213, Jim Leitner.md",
     "Podcasts/Market Huddle/Ep.179, Jim Leitner.md",
     "Blogs/Newfound/What the Trend.md",
