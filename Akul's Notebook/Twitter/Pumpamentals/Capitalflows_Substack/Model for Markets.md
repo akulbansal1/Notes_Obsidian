@@ -19,7 +19,7 @@ expanding on the previous article [[Research Drop + Framework]]
 		- "look at factor exposure and returns in equities". Read [[Strategic Risk Management]] book on this.
 	- "Once you have an idea of how all the different sector returns work as economic data is released and how different factor performances work in different regimes, you can then have a much clearer understanding of what the market is pricing in on a macro and even intraday basis"
 - Fixed Income
-	- Book recommendations:![[Books Recommendations#<u>Fixed Income:</u>]]
+	- Book recommendations:![[Twitter/Pumpamentals/Books Recommendations#<u>Fixed Income:</u>]]
 	- "short-term interest rate market is one of the most important things you can know when trading markets"
 	1. What is happening with duration?
 	2. What is happening with credit?

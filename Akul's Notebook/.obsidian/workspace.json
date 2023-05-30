@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b075b5e70fbe21f5",
+            "id": "9cbc2a21b6d57a75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Twitter/Volswan/How to hedge your tails efficiently.md",
+                "file": "Twitter/quant_arb/Books Recommendations.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 225.50390243530273
   },
   "right": {
     "id": "fa0e6ffcf73d5e3b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twitter/Volswan/How to hedge your tails efficiently.md",
+                "file": "Twitter/quant_arb/Books Recommendations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Twitter/Volswan/How to hedge your tails efficiently.md",
+                "file": "Twitter/quant_arb/Books Recommendations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Twitter/Volswan/How to hedge your tails efficiently.md"
+                "file": "Twitter/quant_arb/Books Recommendations.md"
               }
             }
           },
@@ -156,41 +156,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2adedcb865912155",
+  "active": "9cbc2a21b6d57a75",
   "lastOpenFiles": [
-    "Twitter/Volswan/How_to_build_a_successful_VRP_harvesting_strategy.md",
-    "Twitter/Volswan/How to hedge your tails efficiently.md",
-    "Twitter/Volswan/How to build a successful VRP harvesting strategy.md",
+    "Books/Statistics/Handbook on Semidefinite, Conic and Polynomial Optimization.md",
+    "Twitter/quant_arb/Books Recommendations.md",
+    "Books/Statistics/Convex Optimization.md",
+    "Books/Statistics/Regression Modeling Strategies.md",
+    "Books/Statistics/Regression Analysis with Python.md",
+    "Books/Statistics/Data-Driven Science and Engineering.md",
+    "Books/Statistics/Digital Signal Processing.md",
+    "Books/Statistics/Bayesian Data Analysis.md",
+    "Books/Statistics/Analysis of Financial Time Series.md",
+    "Books/Algorithmic_Trading,_System_Designing/Advanced Algorithmic Trading.md",
+    "Books/Algorithmic_Trading,_System_Designing/Advanced Futures Trading Strategies.md",
+    "Books/Machine_Learning/Advances In Financial Machine Learning.md",
+    "Twitter/Pumpamentals/Books Recommendations.md",
+    "Books/Statistics/An Introduction to Statistical Learning.md",
+    "Books/Statistics/The Elements of Statistical Learning.md",
+    "Books/Statistics",
+    "Books/Algorithmic_Trading,_System_Designing/Optimal Trading Strategies.md",
+    "Books/Algorithmic_Trading,_System_Designing/Quantitative Portfolio Management.md",
+    "Books/Algorithmic_Trading,_System_Designing/Finding Alpha.md",
+    "Twitter/Quantseeker/Paper recommendations.md",
     "Twitter/Quantseeker/Big Data Asset Pricing.md",
+    "Books/Algorithmic_Trading,_System_Designing/Machine Learning for Algorithmic Trading.md",
+    "Books/Machine_Learning",
+    "Twitter/quant_arb",
+    "Twitter/Volswan/How to hedge your tails efficiently.md",
+    "Twitter/Volswan/How_to_build_a_successful_VRP_harvesting_strategy.md",
+    "Twitter/Volswan/How to build a successful VRP harvesting strategy.md",
     "Twitter/Pumpamentals/Market Miscrostructure Research.md",
     "Twitter/Pumpamentals/Chat with Pumpamentals_Personal.md",
     "Twitter/Pumpamentals/Capitalflows_Substack/Appendix/Screenshot 2023-05-15 at 8.10.13 PM.png",
     "Twitter/Pumpamentals/Capitalflows_Substack/Appendix/Screenshot 2023-05-15 at 8.06.17 PM.png",
     "Twitter/Pumpamentals/Capitalflows_Substack/Appendix/Screenshot 2023-05-15 at 7.06.20 PM.png",
-    "Twitter/Pumpamentals/Capitalflows_Substack/Research Drop + Framework.md",
-    "Twitter/Pumpamentals/Capitalflows_Substack/Model for Markets.md",
-    "Twitter/Pumpamentals/Capitalflows_Substack/Innovating The Dollar and Global Financial System.md",
-    "Twitter/Pumpamentals/Capitalflows_Substack/Economic Data.md",
-    "Twitter/Pumpamentals/Capitalflows_Substack/Country Analysis.md",
     "Twitter/Pumpamentals/Capitalflows_Substack/Appendix",
     "Twitter/Pumpamentals/Capitalflows_Substack",
-    "Twitter/Pumpamentals/Books Recommendations.md",
-    "Templates/Paper Title.md",
-    "Templates/Book Name.md",
-    "Research_Papers/Risk_Management/The Impact of Volatility Targeting.md",
-    "Research_Papers/Risk_Management/Tail Risk Hedging Contrasting Put and Trend Strategies.md",
-    "Research_Papers/Risk_Management/Systemic Risk and Bank Business Models.md",
-    "Research_Papers/Risk_Management/Strategic Risk Management Out-Of-Sample Evidence From the COVID-19 Equity Selloff.md",
-    "Research_Papers/Risk_Management/Portfolio Protection? It's a Long (Term) Story.md",
-    "Research_Papers/Risk_Management/Drawdowns.md",
-    "Research_Papers/Risk_Management/Allocating Assets in Climates of Extreme Risk.md",
     "Research_Papers/Risk_Management",
-    "Research_Papers/Options_Vol_trading/A New Option Momentum Compensation for Risk.md",
     "Research_Papers/Options_Vol_trading",
-    "Research_Papers/Momentum_Trend_Following/You Can't Always Trend When You Want.md",
-    "Research_Papers/Momentum_Trend_Following/When Stock-Bond Diversification Fails.md",
-    "Research_Papers/Momentum_Trend_Following/Understanding Momentum and Reversals.md",
-    "Research_Papers/Momentum_Trend_Following/Trend Following Equity and Bond Crisis Alpha.md",
     "Research_Papers/Momentum_Trend_Following",
     "Research_Papers/Factor_Investing",
     "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 2.17.55 PM.png",
@@ -200,9 +203,6 @@
     "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 2.00.29 PM.png",
     "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 1.55.58 PM.png",
     "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 1.55.33 PM.png",
-    "Research_Papers/Asset_Allocation/Appendix",
-    "Research_Papers/Asset_Allocation",
-    "Library/books_Personal/quant/Ernest P. Chan - Machine Trading (2017).pdf",
-    "Library/books_Personal/quant/Ernest P. Chan - Algorithmic Trading (2013).pdf"
+    "Research_Papers/Asset_Allocation/Appendix"
   ]
 }
