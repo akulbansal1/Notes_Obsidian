@@ -5,7 +5,7 @@
 
 - [x] [[The Best of Strategies for the Worst of Times]]
 - [x] [[Strategic Rebalancing]]
-- [x] [[Research Papers/Asset Allocation/Rebalancing Risk]]
+- [x] [[Rebalancing Risk]]
 - [x] [[The Impact of Volatility Targeting]]
 - [x] [[Trend Following Equity and Bond Crisis Alpha]]
 - [x] [[Drawdowns]]

@@ -132,7 +132,7 @@ Tags: #WifeyAlpha #Global_Macro #Asset_Allocation
 		- "the yield ratio between emerging markets bonds and US investment-grade bonds has a 70% correlation with 12-month forward relative returns"
 		- "for US high yield versus US investment-grade bonds, the correlation is 61%"
 		- "for US high yield versus emerging market bonds, the correlation id 50%"
-	- #idea_bond_investing [[Research Papers/Asset Allocation/Factor Investing and Asset Allocation A Business Cycle Perspective]] "use a definition of carry that includes roll down, based on the difference between spot and 12-month forward swap rates"
+	- #idea_bond_investing [[Factor Investing and Asset Allocation A Business Cycle Perspective]] "use a definition of carry that includes roll down, based on the difference between spot and 12-month forward swap rates"
 		- "The strategy goes long the top three carry markets and short the bottom three. It generates a Sharpe ratio of 0.73 between 2002 and 2015"
 
 ## <u>Chapter 4: Shorter-Term Macro Signals</u>
@@ -152,7 +152,7 @@ Tags: #WifeyAlpha #Global_Macro #Asset_Allocation
 		- [[Regime Shifts Implications for Dynamic Strategies]] shows that GDP and inflation regime-switching models can be used for TAA.
 		- [[Macro-Based Parametric Asset Allocation]] shows that macro factors can be used to dynamically optimize investors' stock versus bonds allocations.
 		- Page (2013) shows a significant link between GDP and inflation surprises and bond, stock, and commodity returns.
-		- [[Research Papers/Asset Allocation/Factor Investing and Asset Allocation A Business Cycle Perspective]] relate the business cycle to returns, risks, and correlations for a broad list of risk factors.
+		- [[Factor Investing and Asset Allocation A Business Cycle Perspective]] relate the business cycle to returns, risks, and correlations for a broad list of risk factors.
 		- [[The Relationship Between Stocks and Oil Prices]] shows that oil and stocks have a common exposure to aggregate demand.
 		- [[Return Predictability and Market-Timing A One-Month Model]] build a stock market timing model with 20 factors, including oil, inflation, rates, and spreads.
 - Challenges with Practical Applications

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "43f13f40673fc385",
+        "id": "4a9a0f2f0ef52927",
         "type": "tabs",
         "children": [
           {
-            "id": "19ffa064cf880eff",
+            "id": "4f7f45ed22884866",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Factor Investing/Expected Returns.md",
+                "file": "Books/Algorithmic_Trading/Machine Trading Deploying Computer Algorithms to Conquer the Market.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Factor Investing/Expected Returns.md",
+                "file": "Library/books_Personal/quant/Ernest P. Chan - Machine Trading (2017).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Factor Investing/Expected Returns.md",
+                "file": "Library/books_Personal/quant/Ernest P. Chan - Machine Trading (2017).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Factor Investing/Expected Returns.md"
+                "file": "Library/books_Personal/quant/Ernest P. Chan - Machine Trading (2017).pdf"
               }
             }
           },
@@ -156,53 +156,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19ffa064cf880eff",
+  "active": "2adedcb865912155",
   "lastOpenFiles": [
-    "Research Papers/Momentum Trend Following/Trend Filtering Methods for Momentum Strategies.md",
-    "Podcasts/Flirting With Models/S5E13, Adam Butler.md",
-    "Podcasts/Flirting With Models/S5E11, Hari Krishnan.md",
-    "Podcasts/Flirting With Models/S5E12, Kevin Cole.md",
-    "Books/Global Macro/Market Tremors.md",
-    "Books/Factor Investing/Expected Returns.md",
-    "Podcasts/Flirting With Models/S5E9, Andrew Beer.md",
-    "Podcasts/Flirting With Models/S5E5, David Sun.md",
-    "Podcasts/Flirting With Models/S5E8, Anti Illmanen.md",
-    "Research Papers/Momentum Trend Following/You Can't Always Trend When You Want.md",
-    "Books/Factor Investing",
-    "Library/journals,magazines/AQR/You Can't Always Trend When You Want.pdf",
-    "Podcasts/Flirting With Models/S5E3, Moritz Seibert & Moritz Heiden.md",
-    "Podcasts/Flirting With Models/S4E15, Russel Korgaonkar.md",
-    "Blogs/Newfound/Diversifying the What, How, and When of Trend Following.md",
+    "Books/Algorithmic_Trading/Machine Trading Deploying Computer Algorithms to Conquer the Market.md",
+    "Twitter/WifeyAlpha/Normie Starter Pack.md",
+    "Books/Algorithmic_Trading/Algorithmic Trading Winning Strategies and Their Rationale.md",
+    "Library/books_Personal/quant/Ernest P. Chan - Machine Trading (2017).pdf",
+    "Library/books_Personal/quant/Ernest P. Chan - Algorithmic Trading (2013).pdf",
+    "Library/books_Personal/IITM/Calculus book .pdf",
+    "Library/books_Personal/IITM/maths W1-4.pdf",
+    "Library/books_Personal/IITM/Ross S.M. - Introductory statistics-ELSEVIER ACADEMIC PRESS (2017).pdf",
+    "Podcasts/Chat_With_Traders/Ep090, Michael Halls-Moore.md",
+    "Blogs/Quantopian_Lectures/Lecture 1, Introduction to Research.md",
+    "Books/Algorithmic_Trading/Intermarket Trading Strategies.md",
+    "Library/books_Personal/quant/quantstart blog/Michael Halls Moore - Successful Algorithmic Trading (2015).pdf",
+    "Blogs/Quantopian_Lectures",
+    "Twitter/WifeyAlpha/Collection of Threads for learning.md",
+    "Twitter/WifeyAlpha/Bear Market Rallies.md",
+    "Twitter/WifeyAlpha/Artemis.md",
+    "Twitter/WifeyAlpha/AQR Macro Research.md",
+    "Twitter/WifeyAlpha/Algorithmic and Advanced Programming in Python.md",
+    "Twitter/WifeyAlpha/1968-1982 Misery Index.md",
+    "Twitter/WifeyAlpha/4x4 Portfolio.md",
+    "Blogs/QuantStart",
+    "Podcasts/Chat_With_Traders",
+    "Notebook_Personal/Rob's framework.md",
+    "Books/Factor_Investing/Expected Returns.md",
+    "Research_Papers/Momentum Trend Following/Trend Filtering Methods for Momentum Strategies.md",
+    "Podcasts/Flirting_With_Models/S5E13, Adam Butler.md",
+    "Podcasts/Flirting_With_Models/S5E11, Hari Krishnan.md",
+    "Podcasts/Flirting_With_Models/S5E12, Kevin Cole.md",
+    "Books/Global_Macro/Market Tremors.md",
+    "Podcasts/Flirting_With_Models/S5E9, Andrew Beer.md",
+    "Podcasts/Flirting_With_Models/S5E5, David Sun.md",
+    "Podcasts/Flirting_With_Models/S5E8, Anti Illmanen.md",
+    "Research_Papers/Momentum Trend Following/You Can't Always Trend When You Want.md",
+    "Books/Factor_Investing",
+    "Podcasts/Flirting_With_Models/S5E3, Moritz Seibert & Moritz Heiden.md",
     "Blogs/Newfound/Appendix/Screenshot 2023-05-29 at 3.04.31 PM.png",
     "Blogs/Newfound/Appendix/Screenshot 2023-05-29 at 3.04.09 PM.png",
     "Blogs/Newfound/Appendix/Screenshot 2023-05-29 at 3.03.37 PM.png",
     "Blogs/Newfound/Appendix/Screenshot 2023-05-29 at 3.03.20 PM.png",
     "Blogs/Newfound/Appendix/Screenshot 2023-05-29 at 3.02.10 PM.png",
     "Blogs/Newfound/Appendix/Screenshot 2023-05-29 at 3.01.56 PM.png",
-    "Blogs/Newfound/Appendix",
-    "Library/journals,magazines/SSRN Papers/Uncovering Trend Rules.pdf",
-    "Library/journals,magazines/SSRN Papers/Market Timing with Moving Averages Anatomy and Performance of Trading Rules.pdf",
-    "Podcasts/Flirting With Models/S6E5, Macrocephalopod.md",
-    "Blogs/MacroSynergy/Alternative Risk Premia Primer.md",
-    "Blogs/MacroSynergy/ForEx/FX trend following and macro headwinds.md",
-    "Blogs/MacroSynergy/Academic Papers.md",
-    "Library/journals,magazines/MacroSynergy/Alternative Risk Premia Primer.pdf",
-    "Research Papers/Macro/Economic Trend.md",
-    "Research Papers/Momentum Trend Following/A Half Century of Macro Momentum.md",
-    "Library/Fintwit_Personal/VolqVault/Se7en/The Long Good Buy - Oppenheimer/The Long Good Buy Analysing Cycles in Markets by Peter C. Oppenheimer (z-lib.org).pdf",
-    "Library/Fintwit_Personal/VolqVault/Se7en/The Long Good Buy - Oppenheimer/The Long Good Buy Analysing Cycles in Markets by Peter C. Oppenheimer (z-lib.org).epub",
-    "Library/Fintwit_Personal/VolqVault/Se7en/Strategic Risk Management/Strategic Risk Management_ Designing Portfolios and Managing Risk -- Campbell R. Harvey, Sandy Rattray, Otto Van Hemert -.pdf",
-    "Library/Fintwit_Personal/VolqVault/Se7en/Strategic Risk Management/Strategic Risk Management_ Designing Portfolios and Managing Risk -- Campbell R. Harvey, Sandy Rattray, Otto Van Hemert -.epub",
     "Library/Fintwit_Personal/VolqVault/Se7en/Geopolitical Alpha/Geopolitical Alpha page 89.jpg",
     "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/9.jpeg",
     "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/8.jpeg",
-    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/7.jpeg",
-    "Library/books_Personal/quant/Auquan blog/Tutorials-master/README.md",
-    "Library/books/quant/Auquan blog/Tutorials-master/README.md",
-    "Podcasts/Market Huddle/Ep.213, Jim Leitner.md",
-    "Podcasts/Market Huddle/Ep.179, Jim Leitner.md",
-    "Blogs/Newfound/What the Trend.md",
-    "Blogs/Newfound/\"Well, you... No, you gotta do more than that\".md",
-    "Blogs/Newfound/One Hedge to Rule Them All.md"
+    "Library/Fintwit_Personal/VolqVault/JPM Multi-Asset Strategies March 2021/Turning Tail Risks into Tailwinds/7.jpeg"
   ]
 }
