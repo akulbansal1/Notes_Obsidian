@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Twitter/quant_arb/Books Recommendations.md",
+                "file": "Books/Algorithmic_Trading/Machine Trading Deploying Computer Algorithms to Conquer the Market.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfc45b15d179caa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Programming/Trading Systems Performance Unleashed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b74ea25d7ccff92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Programming/Rust Web Programming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twitter/quant_arb/Books Recommendations.md",
+                "file": "Books/Programming/Trading Systems Performance Unleashed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Twitter/quant_arb/Books Recommendations.md",
+                "file": "Books/Programming/Trading Systems Performance Unleashed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Twitter/quant_arb/Books Recommendations.md"
+                "file": "Books/Programming/Trading Systems Performance Unleashed.md"
               }
             }
           },
@@ -156,10 +181,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9cbc2a21b6d57a75",
+  "active": "2adedcb865912155",
   "lastOpenFiles": [
-    "Books/Statistics/Handbook on Semidefinite, Conic and Polynomial Optimization.md",
     "Twitter/quant_arb/Books Recommendations.md",
+    "Books/Programming/Trading Systems Performance Unleashed.md",
+    "Books/Programming/Rust Web Programming.md",
+    "Books/Programming/Rust High Performance.md",
+    "Books/Programming/Network Programming with Rust.md",
+    "Books/Programming/Hands-On Data Structures and Algorithms in Rust.md",
+    "Books/Programming/Ace the Trading Systems Developer Interview.md",
+    "Books/Programming/The Rust Programming Language.md",
+    "Books/Programming/Rust For Rustaceans.md",
+    "Books/Programming",
+    "Books/System_Designing/Professional Automated Trading.md",
+    "Books/Algorithmic_Trading/Machine Trading Deploying Computer Algorithms to Conquer the Market.md",
+    "Books/System_Designing",
+    "Books/Algorithmic_Trading/Machine Learning for Algorithmic Trading.md",
+    "Books/Algorithmic_Trading/Finding Alpha.md",
+    "Books/Algorithmic_Trading/Intermarket Trading Strategies.md",
+    "Books/Algorithmic_Trading/Optimal Trading Strategies.md",
+    "Books/Asset_Allocation,Portfolio_Management/Quantitative Portfolio Management.md",
+    "Books/Statistics/Handbook on Semidefinite, Conic and Polynomial Optimization.md",
     "Books/Statistics/Convex Optimization.md",
     "Books/Statistics/Regression Modeling Strategies.md",
     "Books/Statistics/Regression Analysis with Python.md",
@@ -167,26 +209,11 @@
     "Books/Statistics/Digital Signal Processing.md",
     "Books/Statistics/Bayesian Data Analysis.md",
     "Books/Statistics/Analysis of Financial Time Series.md",
-    "Books/Algorithmic_Trading,_System_Designing/Advanced Algorithmic Trading.md",
-    "Books/Algorithmic_Trading,_System_Designing/Advanced Futures Trading Strategies.md",
-    "Books/Machine_Learning/Advances In Financial Machine Learning.md",
-    "Twitter/Pumpamentals/Books Recommendations.md",
-    "Books/Statistics/An Introduction to Statistical Learning.md",
-    "Books/Statistics/The Elements of Statistical Learning.md",
+    "Books/Algorithmic_Trading/Advanced Algorithmic Trading.md",
+    "Books/Algorithmic_Trading/Advanced Futures Trading Strategies.md",
     "Books/Statistics",
-    "Books/Algorithmic_Trading,_System_Designing/Optimal Trading Strategies.md",
-    "Books/Algorithmic_Trading,_System_Designing/Quantitative Portfolio Management.md",
-    "Books/Algorithmic_Trading,_System_Designing/Finding Alpha.md",
-    "Twitter/Quantseeker/Paper recommendations.md",
-    "Twitter/Quantseeker/Big Data Asset Pricing.md",
-    "Books/Algorithmic_Trading,_System_Designing/Machine Learning for Algorithmic Trading.md",
     "Books/Machine_Learning",
     "Twitter/quant_arb",
-    "Twitter/Volswan/How to hedge your tails efficiently.md",
-    "Twitter/Volswan/How_to_build_a_successful_VRP_harvesting_strategy.md",
-    "Twitter/Volswan/How to build a successful VRP harvesting strategy.md",
-    "Twitter/Pumpamentals/Market Miscrostructure Research.md",
-    "Twitter/Pumpamentals/Chat with Pumpamentals_Personal.md",
     "Twitter/Pumpamentals/Capitalflows_Substack/Appendix/Screenshot 2023-05-15 at 8.10.13 PM.png",
     "Twitter/Pumpamentals/Capitalflows_Substack/Appendix/Screenshot 2023-05-15 at 8.06.17 PM.png",
     "Twitter/Pumpamentals/Capitalflows_Substack/Appendix/Screenshot 2023-05-15 at 7.06.20 PM.png",
@@ -195,14 +222,12 @@
     "Research_Papers/Risk_Management",
     "Research_Papers/Options_Vol_trading",
     "Research_Papers/Momentum_Trend_Following",
-    "Research_Papers/Factor_Investing",
     "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 2.17.55 PM.png",
     "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 2.16.49 PM.png",
     "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 2.15.57 PM.png",
     "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 2.13.59 PM.png",
     "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 2.00.29 PM.png",
     "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 1.55.58 PM.png",
-    "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 1.55.33 PM.png",
-    "Research_Papers/Asset_Allocation/Appendix"
+    "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 1.55.33 PM.png"
   ]
 }

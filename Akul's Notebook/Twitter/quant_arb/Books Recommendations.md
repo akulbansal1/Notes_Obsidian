@@ -51,6 +51,6 @@
 - [ ] [[Ace the Trading Systems Developer Interview]]
 - [ ] [[The Rust Programming Language]] and [[Rust For Rustaceans]] "are obviously a must"
 - [ ] [[Network Programming with Rust]] and [[Rust Web Programming]]. "I would also recommend getting good at networks / web programming if you want to deal with these exchange APIs"
-- [ ] [[Data Structures and Algorithms in Rust]] and [[Rust High Performance]] "are great reads to boost the quality of your Rust code / nail some easy ways to improve speed"
+- [ ] [[Hands-On Data Structures and Algorithms in Rust]] and [[Rust High Performance]] "are great reads to boost the quality of your Rust code / nail some easy ways to improve speed"
 - [ ] [[Trading Systems Performance Unleashed]]
 	- "This is really good but also read all of his [blog](https://sissoftwarefactory.com/blog/) articles on medium / on his website"
