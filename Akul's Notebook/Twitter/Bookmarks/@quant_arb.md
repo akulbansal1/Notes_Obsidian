@@ -1,10 +1,11 @@
 
+# Books recommendations
 [Thread link](https://twitter.com/quant_arb/status/1663555515287494665?s=61&t=_rdTxSF7pZRp9CdiEAYkMg)
 
 ## Research:
 - [ ] [[Machine Learning for Algorithmic Trading]]
 	- "try not to go too deep into the machine learning path. The way they thing about features as alphas in Chapter 4 is a really good framework "
-- [ ] [[Finding Alpha]]
+- [ ] [[Finding Alphas]]
 	- "continues the mental framework used in ML4T"
 - [ ] [[Quantitative Portfolio Management]]
 	- "Portfolio optimisation chapter is brilliant"

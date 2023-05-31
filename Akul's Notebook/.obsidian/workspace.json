@@ -13,38 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Algorithmic_Trading/Machine Trading Deploying Computer Algorithms to Conquer the Market.md",
+                "file": "Twitter/Bookmarks/@quant_arb.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cfc45b15d179caa7",
+            "id": "c0ea8f914fa6423d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Programming/Trading Systems Performance Unleashed.md",
+                "file": "Twitter/Bookmarks/@Vertox_DF.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5b74ea25d7ccff92",
+            "id": "0af977fea38ea270",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Programming/Rust Web Programming.md",
+                "file": "Courses/Math/Essence of Linear Algebra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Programming/Trading Systems Performance Unleashed.md",
+                "file": "Courses/Math/Essence of Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Programming/Trading Systems Performance Unleashed.md",
+                "file": "Courses/Math/Essence of Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Programming/Trading Systems Performance Unleashed.md"
+                "file": "Courses/Math/Essence of Linear Algebra.md"
               }
             }
           },
@@ -183,13 +183,24 @@
   },
   "active": "2adedcb865912155",
   "lastOpenFiles": [
-    "Twitter/quant_arb/Books Recommendations.md",
+    "Courses/Math",
+    "Twitter/Bookmarks/@Vertox_DF.md",
+    "Courses/Math/Essence of Linear Algebra.md",
+    "Courses",
+    "GitHub.md",
+    "Books/Asset_Allocation,Portfolio_Management/Advances in Active Portfolio Management.md",
+    "Books/Asset_Allocation,Portfolio_Management/Advanced Portfolio Management.md",
+    "Books/Signal_Processing",
+    "Twitter/Bookmarks/@quant_arb.md",
+    "Books/Algorithmic_Trading/Finding Alphas.md",
+    "Twitter/Pumpamentals/Books Recommendations.md",
+    "Twitter/Bookmarks",
+    "Books/Programming/Ace the Trading Systems Developer Interview.md",
+    "Books/Programming/Hands-On Data Structures and Algorithms in Rust.md",
     "Books/Programming/Trading Systems Performance Unleashed.md",
     "Books/Programming/Rust Web Programming.md",
     "Books/Programming/Rust High Performance.md",
     "Books/Programming/Network Programming with Rust.md",
-    "Books/Programming/Hands-On Data Structures and Algorithms in Rust.md",
-    "Books/Programming/Ace the Trading Systems Developer Interview.md",
     "Books/Programming/The Rust Programming Language.md",
     "Books/Programming/Rust For Rustaceans.md",
     "Books/Programming",
@@ -197,20 +208,12 @@
     "Books/Algorithmic_Trading/Machine Trading Deploying Computer Algorithms to Conquer the Market.md",
     "Books/System_Designing",
     "Books/Algorithmic_Trading/Machine Learning for Algorithmic Trading.md",
-    "Books/Algorithmic_Trading/Finding Alpha.md",
     "Books/Algorithmic_Trading/Intermarket Trading Strategies.md",
     "Books/Algorithmic_Trading/Optimal Trading Strategies.md",
     "Books/Asset_Allocation,Portfolio_Management/Quantitative Portfolio Management.md",
     "Books/Statistics/Handbook on Semidefinite, Conic and Polynomial Optimization.md",
     "Books/Statistics/Convex Optimization.md",
     "Books/Statistics/Regression Modeling Strategies.md",
-    "Books/Statistics/Regression Analysis with Python.md",
-    "Books/Statistics/Data-Driven Science and Engineering.md",
-    "Books/Statistics/Digital Signal Processing.md",
-    "Books/Statistics/Bayesian Data Analysis.md",
-    "Books/Statistics/Analysis of Financial Time Series.md",
-    "Books/Algorithmic_Trading/Advanced Algorithmic Trading.md",
-    "Books/Algorithmic_Trading/Advanced Futures Trading Strategies.md",
     "Books/Statistics",
     "Books/Machine_Learning",
     "Twitter/quant_arb",
@@ -219,9 +222,6 @@
     "Twitter/Pumpamentals/Capitalflows_Substack/Appendix/Screenshot 2023-05-15 at 7.06.20 PM.png",
     "Twitter/Pumpamentals/Capitalflows_Substack/Appendix",
     "Twitter/Pumpamentals/Capitalflows_Substack",
-    "Research_Papers/Risk_Management",
-    "Research_Papers/Options_Vol_trading",
-    "Research_Papers/Momentum_Trend_Following",
     "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 2.17.55 PM.png",
     "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 2.16.49 PM.png",
     "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 2.15.57 PM.png",
