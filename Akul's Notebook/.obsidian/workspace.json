@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cbc2a21b6d57a75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Twitter/Bookmarks/@quant_arb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0ea8f914fa6423d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Twitter/Bookmarks/@Vertox_DF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0af977fea38ea270",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.50390243530273
+    "width": 200
   },
   "right": {
     "id": "fa0e6ffcf73d5e3b",
@@ -181,53 +156,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2adedcb865912155",
+  "active": "0af977fea38ea270",
   "lastOpenFiles": [
-    "Courses/Math",
+    "Notebook_Personal/Important Links/General.md",
+    "Notebook_Personal/Important Links/Ideas.md",
+    "Notebook_Personal/Important Links/Idea Sourcing.md",
+    "Notebook_Personal/Important Links/Global Factor Data Documentation.pdf",
     "Twitter/Bookmarks/@Vertox_DF.md",
-    "Courses/Math/Essence of Linear Algebra.md",
-    "Courses",
-    "GitHub.md",
-    "Books/Asset_Allocation,Portfolio_Management/Advances in Active Portfolio Management.md",
-    "Books/Asset_Allocation,Portfolio_Management/Advanced Portfolio Management.md",
-    "Books/Signal_Processing",
-    "Twitter/Bookmarks/@quant_arb.md",
-    "Books/Algorithmic_Trading/Finding Alphas.md",
-    "Twitter/Pumpamentals/Books Recommendations.md",
-    "Twitter/Bookmarks",
-    "Books/Programming/Ace the Trading Systems Developer Interview.md",
-    "Books/Programming/Hands-On Data Structures and Algorithms in Rust.md",
-    "Books/Programming/Trading Systems Performance Unleashed.md",
-    "Books/Programming/Rust Web Programming.md",
-    "Books/Programming/Rust High Performance.md",
-    "Books/Programming/Network Programming with Rust.md",
-    "Books/Programming/The Rust Programming Language.md",
-    "Books/Programming/Rust For Rustaceans.md",
-    "Books/Programming",
-    "Books/System_Designing/Professional Automated Trading.md",
-    "Books/Algorithmic_Trading/Machine Trading Deploying Computer Algorithms to Conquer the Market.md",
-    "Books/System_Designing",
-    "Books/Algorithmic_Trading/Machine Learning for Algorithmic Trading.md",
-    "Books/Algorithmic_Trading/Intermarket Trading Strategies.md",
-    "Books/Algorithmic_Trading/Optimal Trading Strategies.md",
-    "Books/Asset_Allocation,Portfolio_Management/Quantitative Portfolio Management.md",
-    "Books/Statistics/Handbook on Semidefinite, Conic and Polynomial Optimization.md",
-    "Books/Statistics/Convex Optimization.md",
-    "Books/Statistics/Regression Modeling Strategies.md",
-    "Books/Statistics",
-    "Books/Machine_Learning",
-    "Twitter/quant_arb",
-    "Twitter/Pumpamentals/Capitalflows_Substack/Appendix/Screenshot 2023-05-15 at 8.10.13 PM.png",
-    "Twitter/Pumpamentals/Capitalflows_Substack/Appendix/Screenshot 2023-05-15 at 8.06.17 PM.png",
-    "Twitter/Pumpamentals/Capitalflows_Substack/Appendix/Screenshot 2023-05-15 at 7.06.20 PM.png",
-    "Twitter/Pumpamentals/Capitalflows_Substack/Appendix",
-    "Twitter/Pumpamentals/Capitalflows_Substack",
-    "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 2.17.55 PM.png",
-    "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 2.16.49 PM.png",
-    "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 2.15.57 PM.png",
-    "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 2.13.59 PM.png",
-    "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 2.00.29 PM.png",
-    "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 1.55.58 PM.png",
-    "Research_Papers/Asset_Allocation/Appendix/Screenshot 2023-05-16 at 1.55.33 PM.png"
+    "Blogs/MacroSynergy/Alternative Risk Premia Primer.md",
+    "Blogs/MacroSynergy/Academic Papers.md",
+    "Blogs/MacroSynergy/ForEx/An Integrated Approach to Currency Factor Investing.md",
+    "Library/journals,magazines/MacroSynergy/Alternative Risk Premia Primer.pdf",
+    "Blogs/MacroSynergy/ForEx/FX trend following and macro headwinds.md",
+    "Blogs/MacroSynergy/ForEx/Terms of trade as FX trading signal.md",
+    "Blogs/Rob_Carver/Skew and expected returns.md",
+    "Library/journals,magazines/MacroSynergy/An Intergrated Approach to Currency Factor Investing.pdf",
+    "Blogs/Rob_Carver/Kurtosis and expected returns.md",
+    "Blogs/Rob_Carver/Skew and kurtosis as trading rules.md",
+    "Blogs/Rob_Carver/Skew and trend following.md",
+    "Blogs/Rob_Carver/Forecasting linearity and forecasting mean reverting volatility.md",
+    "Blogs/Rob_Carver/Exogenous risk management.md",
+    "Blogs/Rob_Carver/Fit forecast weights by instrument, by group, or fit across all markets? Or all three?.md",
+    "Blogs/Rob_Carver/Appendix/Screenshot 2023-06-01 at 6.44.32 PM.png",
+    "Blogs/Rob_Carver/Using random data.md",
+    "Blogs/Rob_Carver/Should I run my trading system at a fixed expected volatility target?.md",
+    "Blogs/Rob_Carver/Dynamic Trend Following.md",
+    "Blogs/Rob_Carver/Does it make sense to change you trading behaviour in different periods of volatility?.md",
+    "Blogs/Rob_Carver/Do non binary forecasts work?.md",
+    "Blogs/Rob_Carver/Appendix/Screenshot 2023-06-01 at 6.22.20 PM.png",
+    "Blogs/Rob_Carver/Appendix/Screenshot 2023-06-01 at 6.25.24 PM.png",
+    "Blogs/Rob_Carver/Appendix/Screenshot 2023-06-01 at 6.21.49 PM.png",
+    "Blogs/Rob_Carver/Appendix/Screenshot 2023-06-01 at 6.14.47 PM.png",
+    "Blogs/Rob_Carver/Diversification and small account size.md",
+    "Appendix",
+    "Blogs/Rob_Carver/Clustering and Correlations.md",
+    "Podcasts/Top_Traders_Unplugged/Systematic/Ep 175, Rob Carver.md",
+    "Blogs/Rob_Carver/Capital Correction.md",
+    "Blogs/Rob_Carver/Appendix/Pasted image 20230601180352.png",
+    "Blogs/Rob_Carver/Appendix/Pasted image 20230601180231.png",
+    "Blogs/Rob_Carver/Appendix/Pasted image 20230601180144.png",
+    "Blogs/Rob_Carver/Appendix",
+    "Courses/Appendix/Pasted image 20230526170059.png",
+    "Appendix/Pasted image 20230601180050.png",
+    "YouTube/Ritvik_math/Appendix",
+    "YouTube/Ritvik_math",
+    "YouTube",
+    "Library/journals,magazines/SSRN Papers/Granular Information and Sectoral Movements.pdf",
+    "Courses/Math"
   ]
 }

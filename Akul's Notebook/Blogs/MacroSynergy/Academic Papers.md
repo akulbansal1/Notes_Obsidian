@@ -13,6 +13,7 @@
 
 # <u>Foreign Exchange</u>
 - [ ] [Macro-Based Factors for the Cross-Section of Currency Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4400205)
+- [ ] [[An Integrated Approach to Currency Factor Investing]]
 
 
 # <u>General</u>

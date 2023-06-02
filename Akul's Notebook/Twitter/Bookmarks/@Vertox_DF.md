@@ -9,7 +9,7 @@
 
 2. <u>Linear Algebra</u>. "quant involves working with a lot of data and transforming it in various ways. You won't get far without knowing lin alg."
 	- [Ritvik math youtube channel](https://www.youtube.com/@ritvikmath)
-	- [Essence of Linear Algebra, lectures](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+	- [[Essence of Linear Algebra]]
 	- [What's the big idea of Linear Algebra? **Course Intro**](https://www.youtube.com/watch?v=ZKUqtErZCiU&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
 	- [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
