@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Math/Essence of Linear Algebra.md",
+                "file": "Blogs/Rob_Carver/Diversification and small account size.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12b185db13858f5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notebook_Personal/Important Links/Idea Sourcing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Math/Essence of Linear Algebra.md",
+                "file": "Notebook_Personal/Important Links/Idea Sourcing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Math/Essence of Linear Algebra.md",
+                "file": "Notebook_Personal/Important Links/Idea Sourcing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Math/Essence of Linear Algebra.md"
+                "file": "Notebook_Personal/Important Links/Idea Sourcing.md"
               }
             }
           },
@@ -156,11 +169,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0af977fea38ea270",
+  "active": "2adedcb865912155",
   "lastOpenFiles": [
-    "Notebook_Personal/Important Links/General.md",
+    "Courses/Statistics/IITM Statistics 1 Formula Sheet.pdf",
+    "Courses/Statistics/Statistics 1 Formula Sheet.pdf",
+    "Courses/Statistics/IITM Stats 1",
+    "Courses/Statistics/untitled folder",
+    "Courses/Statistics",
+    "Courses/untitled folder",
     "Notebook_Personal/Important Links/Ideas.md",
     "Notebook_Personal/Important Links/Idea Sourcing.md",
+    "Courses/Math/Essence of Linear Algebra.md",
+    "Notebook_Personal/Important Links/General.md",
     "Notebook_Personal/Important Links/Global Factor Data Documentation.pdf",
     "Twitter/Bookmarks/@Vertox_DF.md",
     "Blogs/MacroSynergy/Alternative Risk Premia Primer.md",
@@ -191,17 +211,11 @@
     "Appendix",
     "Blogs/Rob_Carver/Clustering and Correlations.md",
     "Podcasts/Top_Traders_Unplugged/Systematic/Ep 175, Rob Carver.md",
-    "Blogs/Rob_Carver/Capital Correction.md",
     "Blogs/Rob_Carver/Appendix/Pasted image 20230601180352.png",
     "Blogs/Rob_Carver/Appendix/Pasted image 20230601180231.png",
     "Blogs/Rob_Carver/Appendix/Pasted image 20230601180144.png",
     "Blogs/Rob_Carver/Appendix",
     "Courses/Appendix/Pasted image 20230526170059.png",
-    "Appendix/Pasted image 20230601180050.png",
-    "YouTube/Ritvik_math/Appendix",
-    "YouTube/Ritvik_math",
-    "YouTube",
-    "Library/journals,magazines/SSRN Papers/Granular Information and Sectoral Movements.pdf",
-    "Courses/Math"
+    "Appendix/Pasted image 20230601180050.png"
   ]
 }
