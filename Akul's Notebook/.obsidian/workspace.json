@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0af977fea38ea270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Twitter/Volswan/How to hedge your tails efficiently.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "82bd8ae15351514b",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "options",
+                "query": "#idea_",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fa0e6ffcf73d5e3b",
@@ -94,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twitter/Volswan/How to hedge your tails efficiently.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Twitter/Volswan/How to hedge your tails efficiently.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Twitter/Volswan/How to hedge your tails efficiently.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +150,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c61566ce3c11210",
+  "active": "82bd8ae15351514b",
   "lastOpenFiles": [
+    "Courses/Math/IITM Math 1 Formula Sheet.pdf",
+    "Podcasts/Flirting_With_Models/S5E5, David Sun.md",
+    "Twitter/Volswan/Resources for beginners interested in options, vol trading.md",
+    "Twitter/WifeyAlpha/Research Thread 1.md",
+    "Twitter/WifeyAlpha/Macro Indicators.md",
+    "Books/Algorithmic_Trading/Machine Trading Deploying Computer Algorithms to Conquer the Market.md",
+    "Twitter/Volswan/How to hedge your tails efficiently.md",
     "Twitter/Pumpamentals/Market Miscrostructure Research.md",
     "Untitled.md",
     "Twitter/Pumpamentals/Chat with Pumpamentals_Personal.md",
@@ -184,15 +176,8 @@
     "Podcasts/Flirting_With_Models/S5E11, Hari Krishnan.md",
     "Podcasts/Flirting_With_Models/S5E9, Andrew Beer.md",
     "Podcasts/Flirting_With_Models/S5E8, Anti Illmanen.md",
-    "Podcasts/Flirting_With_Models/S5E5, David Sun.md",
     "Podcasts/Flirting_With_Models/S5E3, Moritz Seibert & Moritz Heiden.md",
     "Podcasts/Flirting_With_Models/S4E15, Russel Korgaonkar.md",
-    "Twitter/WifeyAlpha/Wars, Pandemics, and Inflation.md",
-    "Twitter/WifeyAlpha/Variance Premium.md",
-    "Twitter/WifeyAlpha/Un-'threaded'.md",
-    "Twitter/WifeyAlpha/Types of Asset Allocation.md",
-    "Twitter/WifeyAlpha/Trend, Momo & Reversals.md",
-    "Twitter/WifeyAlpha/Trend.md",
     "Courses/Statistics/IITM Statistics 1 Formula Sheet.pdf",
     "Courses/Statistics/Statistics 1 Formula Sheet.pdf",
     "Courses/Statistics/IITM Stats 1",

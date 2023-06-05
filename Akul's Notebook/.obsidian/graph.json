@@ -8,10 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "#Option",
+      "query": "#Options",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "#idea_vol_trading",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.44026944832128395,
+  "scale": 0.30155512073430546,
   "close": false
 }
