@@ -1,5 +1,6 @@
 
 [Thread Link](https://twitter.com/volatilityswan/status/1527818233738305537?s=21&t=rBPl52HCshup62keciDNQw)
+#Options 
 
 - [What is Volatility and How to Price Options](https://www.youtube.com/watch?v=U5LZ9O6FwiQ)
 - [The Only Volatility Video You Will Ever Need as Options Trader! Options Educational Series Part 2/3](https://youtu.be/VIZEJKMQQcg)

@@ -1,6 +1,6 @@
 
 [Thread link](https://twitter.com/volatilityswan/status/1538590525476986887?s=21&t=rBPl52HCshup62keciDNQw)
-#idea_vol_trading 
+#idea_vol_trading #Options 
 
 - "First you MUST identify vol regimes. Which ones pay the most/least relative to the risk you inventory.
 - Find a way to forecast realized volatility (HARQ/An average of all GARCH vol models).

@@ -1,6 +1,6 @@
 
 [Thread link](https://twitter.com/volatilityswan/status/1532912443529342976?s=21&t=rBPl52HCshup62keciDNQw)
-#idea_vol_trading #idea_risk_management #Risk_Management 
+#idea_vol_trading #idea_risk_management #Risk_Management #Options 
 
 -   "A VIXPlosion is an event/catalyst that causes weighted strip IVOL to accelerate the upside like it's no tomorrow.
 -   Why does this happen? Either it's due to players getting involved in overcrowded levered beta while thinking it's alpha. […]

@@ -108,6 +108,7 @@
 - [ ] The Diversity of Real Assets: Portfolio Construction for Institutional Investors (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3761183))
 
 ## <u>Tail Hedging</u> ([link](https://twitter.com/WifeyAlpha/status/1485196077980659714?s=20))
+#Options 
 
 - [ ] Turning Tail Risks Into Tailwinds (VolQ Vault)
 - [ ] Trend-Following Strategies for Tail-Risk Hedging and Alpha Generation (2018) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3167787))

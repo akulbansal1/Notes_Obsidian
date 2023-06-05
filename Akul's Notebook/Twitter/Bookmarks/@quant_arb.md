@@ -37,6 +37,7 @@
 
 
 ## Options:
+#Options 
 - [ ] [[Options Futures & Other Derivatives]]
 - [ ] [[Positional Option Trading]]
 - [ ] [[Trading Volatility]]

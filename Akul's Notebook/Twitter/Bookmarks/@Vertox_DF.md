@@ -30,7 +30,7 @@
 	2. [[Finding Alphas]]
 	3. Frequently Asked Questions in Quantitative Finance - Paul Wilmott
 
-2. <u>Options</u>
+2. <u>Options</u> #Options 
 	- [[Option Volatility and Pricing]]
 	- [[Options Futures & Other Derivatives]]
 	- All of Euan Sinclair books

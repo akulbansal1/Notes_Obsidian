@@ -148,6 +148,7 @@
 
 
 # <u>Volatility / Options</u>
+#Options 
 - [ ] [Future portfolio returns and the VIX term structure](https://www.risk.net/journal-of-risk/7952081/future-portfolio-returns-and-the-vix-term-structure)
 - [ ] [The Lead-Lag Relation between VIX Futures and the SPX Futures](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4003464)
 - [ ] [Gamma Positioning and Market Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4109301)

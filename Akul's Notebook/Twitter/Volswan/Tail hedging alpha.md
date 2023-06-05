@@ -1,6 +1,6 @@
 
 [Thread link](https://twitter.com/volatilityswan/status/1498712381316378628?s=21&t=rBPl52HCshup62keciDNQw)
-#idea_vol_trading #idea_risk_management 
+#idea_vol_trading #idea_risk_management #Options 
 
 - "Tail hedging alpha: If you want to structure almost a win, win tail hedging bet. Look for assets that are exhibiting higher relative momentum and place put ratio trades (short ATM, 2x long tails in the back-end of the curve).
 - 90-120 DTE (seems the sweet spot, manage 30-60 days in). I have also noticed that equities that exhibit higher relative momentum not only breach the implied move but often have much flatter put skew (thus causing the tails to be relatively cheaper).

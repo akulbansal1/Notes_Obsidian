@@ -97,6 +97,7 @@
 - [ ] Components of bull and bear markets: bull corrections and bear rallies (2010) [link](https://www.economics.utoronto.ca/workingPapers/tecipa-402.pdf)
 
 ## <u>Papers/research on The VIX</u>
+#Options 
 
 - [ ] Portfolio Diversification Potential of long VIX futures and options strategies (2020) [link](https://cdn.cboe.com/resources/education/research_publications/Szado_Portfolio_Diversification_LONG_VIX_fut_&_opt_June_15_2020.pdf)
 - [ ] VIX futures as a market timing indicator (2017) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189502)

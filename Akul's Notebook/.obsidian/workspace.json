@@ -13,26 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogs/Rob_Carver/Diversification and small account size.md",
+                "file": "Twitter/Volswan/How to hedge your tails efficiently.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "12b185db13858f5c",
+            "id": "82bd8ae15351514b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notebook_Personal/Important Links/Idea Sourcing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Trend_Following",
+                "query": "options",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook_Personal/Important Links/Idea Sourcing.md",
+                "file": "Twitter/Volswan/How to hedge your tails efficiently.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook_Personal/Important Links/Idea Sourcing.md",
+                "file": "Twitter/Volswan/How to hedge your tails efficiently.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook_Personal/Important Links/Idea Sourcing.md"
+                "file": "Twitter/Volswan/How to hedge your tails efficiently.md"
               }
             }
           },
@@ -169,52 +165,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2adedcb865912155",
+  "active": "3c61566ce3c11210",
   "lastOpenFiles": [
+    "Twitter/Pumpamentals/Market Miscrostructure Research.md",
+    "Untitled.md",
+    "Twitter/Pumpamentals/Chat with Pumpamentals_Personal.md",
+    "Twitter/Pumpamentals/Books Recommendations.md",
+    "Twitter/Bookmarks/@Vertox_DF.md",
+    "Twitter/Bookmarks/@quant_arb.md",
+    "Books/Risk_Management/Strategic Risk Management.md",
+    "Podcasts/Top_Traders_Unplugged/Systematic/Ep 175, Rob Carver.md",
+    "Podcasts/Top_Traders_Unplugged/Systematic/Ep 141, Douglas Greenig.md",
+    "Podcasts/Top_Traders_Unplugged/Systematic/Ep 135, Yao Hua Ooi.md",
+    "Podcasts/Top_Traders_Unplugged/Systematic/Ep 126, Kevin Cole.md",
+    "Podcasts/Flirting_With_Models/S6E5, Macrocephalopod.md",
+    "Podcasts/Flirting_With_Models/S5E13, Adam Butler.md",
+    "Podcasts/Flirting_With_Models/S5E12, Kevin Cole.md",
+    "Podcasts/Flirting_With_Models/S5E11, Hari Krishnan.md",
+    "Podcasts/Flirting_With_Models/S5E9, Andrew Beer.md",
+    "Podcasts/Flirting_With_Models/S5E8, Anti Illmanen.md",
+    "Podcasts/Flirting_With_Models/S5E5, David Sun.md",
+    "Podcasts/Flirting_With_Models/S5E3, Moritz Seibert & Moritz Heiden.md",
+    "Podcasts/Flirting_With_Models/S4E15, Russel Korgaonkar.md",
+    "Twitter/WifeyAlpha/Wars, Pandemics, and Inflation.md",
+    "Twitter/WifeyAlpha/Variance Premium.md",
+    "Twitter/WifeyAlpha/Un-'threaded'.md",
+    "Twitter/WifeyAlpha/Types of Asset Allocation.md",
+    "Twitter/WifeyAlpha/Trend, Momo & Reversals.md",
+    "Twitter/WifeyAlpha/Trend.md",
     "Courses/Statistics/IITM Statistics 1 Formula Sheet.pdf",
     "Courses/Statistics/Statistics 1 Formula Sheet.pdf",
     "Courses/Statistics/IITM Stats 1",
     "Courses/Statistics/untitled folder",
     "Courses/Statistics",
     "Courses/untitled folder",
-    "Notebook_Personal/Important Links/Ideas.md",
-    "Notebook_Personal/Important Links/Idea Sourcing.md",
-    "Courses/Math/Essence of Linear Algebra.md",
-    "Notebook_Personal/Important Links/General.md",
     "Notebook_Personal/Important Links/Global Factor Data Documentation.pdf",
-    "Twitter/Bookmarks/@Vertox_DF.md",
-    "Blogs/MacroSynergy/Alternative Risk Premia Primer.md",
-    "Blogs/MacroSynergy/Academic Papers.md",
-    "Blogs/MacroSynergy/ForEx/An Integrated Approach to Currency Factor Investing.md",
     "Library/journals,magazines/MacroSynergy/Alternative Risk Premia Primer.pdf",
-    "Blogs/MacroSynergy/ForEx/FX trend following and macro headwinds.md",
-    "Blogs/MacroSynergy/ForEx/Terms of trade as FX trading signal.md",
-    "Blogs/Rob_Carver/Skew and expected returns.md",
     "Library/journals,magazines/MacroSynergy/An Intergrated Approach to Currency Factor Investing.pdf",
-    "Blogs/Rob_Carver/Kurtosis and expected returns.md",
-    "Blogs/Rob_Carver/Skew and kurtosis as trading rules.md",
-    "Blogs/Rob_Carver/Skew and trend following.md",
-    "Blogs/Rob_Carver/Forecasting linearity and forecasting mean reverting volatility.md",
-    "Blogs/Rob_Carver/Exogenous risk management.md",
-    "Blogs/Rob_Carver/Fit forecast weights by instrument, by group, or fit across all markets? Or all three?.md",
     "Blogs/Rob_Carver/Appendix/Screenshot 2023-06-01 at 6.44.32 PM.png",
-    "Blogs/Rob_Carver/Using random data.md",
-    "Blogs/Rob_Carver/Should I run my trading system at a fixed expected volatility target?.md",
-    "Blogs/Rob_Carver/Dynamic Trend Following.md",
-    "Blogs/Rob_Carver/Does it make sense to change you trading behaviour in different periods of volatility?.md",
-    "Blogs/Rob_Carver/Do non binary forecasts work?.md",
     "Blogs/Rob_Carver/Appendix/Screenshot 2023-06-01 at 6.22.20 PM.png",
     "Blogs/Rob_Carver/Appendix/Screenshot 2023-06-01 at 6.25.24 PM.png",
     "Blogs/Rob_Carver/Appendix/Screenshot 2023-06-01 at 6.21.49 PM.png",
     "Blogs/Rob_Carver/Appendix/Screenshot 2023-06-01 at 6.14.47 PM.png",
-    "Blogs/Rob_Carver/Diversification and small account size.md",
     "Appendix",
-    "Blogs/Rob_Carver/Clustering and Correlations.md",
-    "Podcasts/Top_Traders_Unplugged/Systematic/Ep 175, Rob Carver.md",
     "Blogs/Rob_Carver/Appendix/Pasted image 20230601180352.png",
     "Blogs/Rob_Carver/Appendix/Pasted image 20230601180231.png",
     "Blogs/Rob_Carver/Appendix/Pasted image 20230601180144.png",
-    "Blogs/Rob_Carver/Appendix",
     "Courses/Appendix/Pasted image 20230526170059.png",
     "Appendix/Pasted image 20230601180050.png"
   ]
