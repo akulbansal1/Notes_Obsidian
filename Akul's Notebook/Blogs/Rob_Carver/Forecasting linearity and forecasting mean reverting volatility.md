@@ -1,5 +1,4 @@
 
-
 Published: 1 Sept, 2020
 Tags: #Risk_Management #Forecasting #Rob_Carver 
 [Link](https://qoppac.blogspot.com/2020/09/forecast-linearity-and-forecasting-mean.html)

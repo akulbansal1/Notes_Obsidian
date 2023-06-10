@@ -1,5 +1,4 @@
 
-
 Published: 
 Tags: #Risk_Management #Portfolio_Management #Rob_Carver 
 [Link](https://qoppac.blogspot.com/2020/10/should-i-run-my-trading-system-at-fixed.html)

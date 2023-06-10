@@ -7,9 +7,9 @@ Recording Date: 3 April, 2023
 CEO of Florin Court Capital, a trend follower with a track record of 6 years. ![[Screenshot 2023-04-16 at 5.06.50 PM.png]]
 
 - Trend Following on alternative markets.
-- There is a burt of volatility before a trend reverses, "that's a rapid vol scaling is so important".
+- There is a burst of volatility before a trend reverses, "that's why rapid vol scaling is so important".
 - examples of alternative markets:
-	- regional carbon emmissions in the U.S.
+	- regional carbon emissions in the U.S.
 	- Malaysian Palm Oil
 	- Emerging market Interest Rate Futures
 
@@ -20,7 +20,7 @@ CEO of Florin Court Capital, a trend follower with a track record of 6 years. ![
 - how do you pick markets?
 	- "We very much like interest rates swaps markets around the world"
 	- "we try to get as much exposure to power markets, globally"
-	- "We tend to not emphasize equities very much. It's our experience that CTAs that delve deeply into equities don't usually do as well as specialised equity managers"
+	- "We tend to not emphasise equities very much. It's our experience that CTAs that delve deeply into equities don't usually do as well as specialised equity managers"
 	- "very involved with the Chinese commodities markets. They're liquid, they're big."
 
 - "We have a whole range of smooth momentum and breakout, or jump momentum"

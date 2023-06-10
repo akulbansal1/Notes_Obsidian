@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Asset_Allocation,Portfolio_Management/Smart Portfolios.md",
+                "file": "Twitter/WifeyAlpha/Gold.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fa0e6ffcf73d5e3b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Asset_Allocation,Portfolio_Management/Smart Portfolios.md",
+                "file": "Twitter/WifeyAlpha/Gold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Asset_Allocation,Portfolio_Management/Smart Portfolios.md",
+                "file": "Twitter/WifeyAlpha/Gold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Asset_Allocation,Portfolio_Management/Smart Portfolios.md"
+                "file": "Twitter/WifeyAlpha/Gold.md"
               }
             }
           },
@@ -159,51 +158,51 @@
   },
   "active": "82bd8ae15351514b",
   "lastOpenFiles": [
-    "Courses/Math/IITM Math 1 Formula Sheet.pdf",
-    "Podcasts/Flirting_With_Models/S5E5, David Sun.md",
-    "Twitter/Volswan/Resources for beginners interested in options, vol trading.md",
-    "Twitter/WifeyAlpha/Research Thread 1.md",
-    "Twitter/WifeyAlpha/Macro Indicators.md",
-    "Books/Algorithmic_Trading/Machine Trading Deploying Computer Algorithms to Conquer the Market.md",
-    "Twitter/Volswan/How to hedge your tails efficiently.md",
-    "Twitter/Pumpamentals/Market Miscrostructure Research.md",
-    "Untitled.md",
-    "Twitter/Pumpamentals/Chat with Pumpamentals_Personal.md",
-    "Twitter/Pumpamentals/Books Recommendations.md",
-    "Twitter/Bookmarks/@Vertox_DF.md",
-    "Twitter/Bookmarks/@quant_arb.md",
-    "Books/Risk_Management/Strategic Risk Management.md",
-    "Podcasts/Top_Traders_Unplugged/Systematic/Ep 175, Rob Carver.md",
-    "Podcasts/Top_Traders_Unplugged/Systematic/Ep 141, Douglas Greenig.md",
-    "Podcasts/Top_Traders_Unplugged/Systematic/Ep 135, Yao Hua Ooi.md",
-    "Podcasts/Top_Traders_Unplugged/Systematic/Ep 126, Kevin Cole.md",
-    "Podcasts/Flirting_With_Models/S6E5, Macrocephalopod.md",
-    "Podcasts/Flirting_With_Models/S5E13, Adam Butler.md",
+    "Courses/Statistics/Stats 2 Notes.pdf",
     "Podcasts/Flirting_With_Models/S5E12, Kevin Cole.md",
-    "Podcasts/Flirting_With_Models/S5E11, Hari Krishnan.md",
-    "Podcasts/Flirting_With_Models/S5E9, Andrew Beer.md",
-    "Podcasts/Flirting_With_Models/S5E8, Anti Illmanen.md",
-    "Podcasts/Flirting_With_Models/S5E3, Moritz Seibert & Moritz Heiden.md",
-    "Podcasts/Flirting_With_Models/S4E15, Russel Korgaonkar.md",
-    "Courses/Statistics/IITM Statistics 1 Formula Sheet.pdf",
-    "Courses/Statistics/Statistics 1 Formula Sheet.pdf",
-    "Courses/Statistics/IITM Stats 1",
-    "Courses/Statistics/untitled folder",
-    "Courses/Statistics",
-    "Courses/untitled folder",
-    "Notebook_Personal/Important Links/Global Factor Data Documentation.pdf",
-    "Library/journals,magazines/MacroSynergy/Alternative Risk Premia Primer.pdf",
-    "Library/journals,magazines/MacroSynergy/An Intergrated Approach to Currency Factor Investing.pdf",
-    "Blogs/Rob_Carver/Appendix/Screenshot 2023-06-01 at 6.44.32 PM.png",
-    "Blogs/Rob_Carver/Appendix/Screenshot 2023-06-01 at 6.22.20 PM.png",
-    "Blogs/Rob_Carver/Appendix/Screenshot 2023-06-01 at 6.25.24 PM.png",
-    "Blogs/Rob_Carver/Appendix/Screenshot 2023-06-01 at 6.21.49 PM.png",
-    "Blogs/Rob_Carver/Appendix/Screenshot 2023-06-01 at 6.14.47 PM.png",
-    "Appendix",
-    "Blogs/Rob_Carver/Appendix/Pasted image 20230601180352.png",
-    "Blogs/Rob_Carver/Appendix/Pasted image 20230601180231.png",
-    "Blogs/Rob_Carver/Appendix/Pasted image 20230601180144.png",
-    "Courses/Appendix/Pasted image 20230526170059.png",
-    "Appendix/Pasted image 20230601180050.png"
+    "Podcasts/Top_Traders_Unplugged/Systematic/Ep 141, Douglas Greenig.md",
+    "Blogs/Rob_Carver/Do non binary forecasts work?.md",
+    "Blogs/Rob_Carver/Forecasting linearity and forecasting mean reverting volatility.md",
+    "Blogs/Rob_Carver/Should I run my trading system at a fixed expected volatility target?.md",
+    "Blogs/Rob_Carver/Exogenous risk management.md",
+    "Blogs/Rob_Carver/Dynamic Trend Following.md",
+    "Blogs/Rob_Carver/Fit forecast weights by instrument, by group, or fit across all markets? Or all three?.md",
+    "Blogs/Rob_Carver/Using random data.md",
+    "Blogs/Rob_Carver/Skew and trend following.md",
+    "Blogs/Rob_Carver/Skew and expected returns.md",
+    "Books/Asset_Allocation,Portfolio_Management/Smart Portfolios.md",
+    "Notebook_Personal copy/Newsletter/Appendix/Screenshot 2023-04-04 at 10.57.38 PM.png",
+    "Notebook_Personal copy/Newsletter/Appendix/Pasted image 20230403115701.png",
+    "Notebook_Personal copy/Newsletter/Appendix/Pasted image 20230403114902.png",
+    "Notebook_Personal copy/Newsletter/Appendix",
+    "Notebook_Personal copy/Newsletter/Annual Newsletter Rough Draft.md",
+    "Notebook_Personal copy/Newsletter",
+    "Notebook_Personal copy/Important Links/Ideas.md",
+    "Notebook_Personal copy/Important Links/Idea Sourcing.md",
+    "Notebook_Personal copy/Important Links/Global Factor Data Documentation.pdf",
+    "Notebook_Personal copy/Important Links/General.md",
+    "Notebook_Personal copy/Important Links",
+    "Notebook_Personal copy/Appendix/Screenshot 2023-05-18 at 1.36.55 PM.png",
+    "Notebook_Personal copy/Appendix",
+    "Notebook_Personal copy/Personal/Letters to Nidhi.md",
+    "Notebook_Personal copy/Personal/Appraisal '23.md",
+    "Notebook_Personal copy/Personal/Anusha's account.md",
+    "Notebook_Personal copy/Personal",
+    "Library copy/journals,magazines/Global Growth Cycle: Identifying Economic Turning Points, a Market Timing Strategy.pdf",
+    "Library copy/journals,magazines/Crisis beta - Transtrend.pdf",
+    "Library copy/journals,magazines/callibration_probabilities_lichtenstein_fischoff_philips.pdf",
+    "Library copy/journals,magazines/Quant newsletter",
+    "Library copy/journals,magazines/TAoS&C/Screenshot (117).png",
+    "Library copy/Fintwit_Personal/VolqVault/Asset Class Returns vs The Vix.png",
+    "Library copy/Fintwit_Personal/VolqVault/Predictably Unpredictable A Look at Autocorrelation in Market Variables/2.jpeg",
+    "Library copy/Fintwit_Personal/VolqVault/Predictably Unpredictable A Look at Autocorrelation in Market Variables/1.jpeg",
+    "Library copy/Fintwit_Personal/VolqVault/Wifey Investment Structure.png",
+    "Library copy/Fintwit_Personal/VolqVault/The Stock-Bond Correlation.jpeg",
+    "Library copy/books_Personal/quant/Auquan blog/Tutorials-master/README.md",
+    "Notebook_Personal/Important Links/Ideas.md",
+    "Notebook_Personal/Important Links/Idea Sourcing.md",
+    "Notebook_Personal/Important Links/General.md",
+    "Notebook_Personal/Personal/Letters to Nidhi.md",
+    "Notebook_Personal/Personal/Appraisal '23.md"
   ]
 }
