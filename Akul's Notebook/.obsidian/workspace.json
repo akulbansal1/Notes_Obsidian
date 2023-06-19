@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e8ac718ae6a0750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Podcasts/Miscellaneous/Eric Crittenden, Blockworks Macro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Programming/IITM Programming in Python.md",
+                "file": "Podcasts/Miscellaneous/Eric Crittenden, Blockworks Macro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Programming/IITM Programming in Python.md",
+                "file": "Podcasts/Miscellaneous/Eric Crittenden, Blockworks Macro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Programming/IITM Programming in Python.md"
+                "file": "Podcasts/Miscellaneous/Eric Crittenden, Blockworks Macro.md"
               }
             }
           },
@@ -180,14 +192,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2adedcb865912155",
+  "active": "0e8ac718ae6a0750",
   "lastOpenFiles": [
-    "Python notes.md",
+    "Podcasts/Market_Huddle/Ep.213, Jim Leitner.md",
+    "Podcasts/Market_Huddle/Ep.179, Jim Leitner.md",
+    "Podcasts/Market_Huddle/Ep.164, Jim Leitner.md",
+    "Podcasts/Market_Huddle/Ep.101 Nick Givanovic.md",
+    "Podcasts/Miscellaneous/Eric Crittenden, Blockworks Macro.md",
     "Courses/Programming/IITM Programming in Python.md",
+    "Podcasts/Miscellaneous",
+    "Blogs/MacroSynergy/Commodities/Forecasting energy markets with macro data.md",
+    "Library/journals,magazines/MacroSynergy/Forecasting energy markets with macro data | Macrosynergy Research.pdf",
+    "Python notes.md",
     "Courses/Programming",
     "Courses/Programming/IITM Python",
-    "Library/journals,magazines/MacroSynergy/Forecasting energy markets with macro data | Macrosynergy Research.pdf",
-    "Blogs/MacroSynergy/Commodities/Forecasting energy markets with macro data.md",
     "Blogs/AQR/Is Value Just an Interest Rate Bet?.md",
     "Research_Papers/Factor_Investing/How Do Factor Premia Vary Over Time? A Century of Evidence.md",
     "Twitter/WifeyAlpha/Un-'threaded'.md",
@@ -198,7 +216,6 @@
     "Blogs/MacroSynergy/Academic Papers.md",
     "Library/journals,magazines/SSRN Papers/WifeyAlpha papers/Avoid Equity Bear Markets with a Market Tiing Strategy.pdf",
     "Library/journals,magazines/MacroSynergy/Factor Momentum Versus Stock Price Momentum A Revisit.pdf",
-    "Library/journals,magazines/SSRN Papers/The Response of Equity Yields to a Long-Run Shock (2023).pdf",
     "Blogs/MacroSynergy/Commodities/Predicting base metal futures returns with economic data.md",
     "Notebook_Personal/Newsletter/Annual Newsletter Rough Draft.md",
     "Courses/GitHub.md",
@@ -213,11 +230,6 @@
     "Twitter/WifeyAlpha/Gold.md",
     "Podcasts/Flirting_With_Models/S5E12, Kevin Cole.md",
     "Podcasts/Top_Traders_Unplugged/Systematic/Ep 141, Douglas Greenig.md",
-    "Blogs/Rob_Carver/Do non binary forecasts work?.md",
-    "Blogs/Rob_Carver/Forecasting linearity and forecasting mean reverting volatility.md",
-    "Blogs/Rob_Carver/Should I run my trading system at a fixed expected volatility target?.md",
-    "Blogs/Rob_Carver/Exogenous risk management.md",
-    "Blogs/Rob_Carver/Dynamic Trend Following.md",
     "Notebook_Personal copy/Newsletter/Appendix/Screenshot 2023-04-04 at 10.57.38 PM.png",
     "Notebook_Personal copy/Newsletter/Appendix/Pasted image 20230403115701.png",
     "Notebook_Personal copy/Newsletter/Appendix/Pasted image 20230403114902.png",
