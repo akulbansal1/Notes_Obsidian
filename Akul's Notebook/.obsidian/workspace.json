@@ -8,18 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82bd8ae15351514b",
+            "id": "3497e59da79e81b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Twitter/WifeyAlpha/Gold.md",
+                "file": "Blogs/MacroSynergy/Commodities/Forecasting energy markets with macro data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "296bd6be874eff67",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Library/journals,magazines/MacroSynergy/Forecasting energy markets with macro data | Macrosynergy Research.pdf"
+              }
+            }
+          },
+          {
+            "id": "207a84ec895b42b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Programming/IITM Programming in Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,8 +71,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#idea_",
-                "matchingCase": false,
+                "query": "rcm",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twitter/WifeyAlpha/Gold.md",
+                "file": "Courses/Programming/IITM Programming in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Twitter/WifeyAlpha/Gold.md",
+                "file": "Courses/Programming/IITM Programming in Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Twitter/WifeyAlpha/Gold.md"
+                "file": "Courses/Programming/IITM Programming in Python.md"
               }
             }
           },
@@ -137,7 +160,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,10 +180,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "82bd8ae15351514b",
+  "active": "2adedcb865912155",
   "lastOpenFiles": [
-    "Courses/Math/Math 2 Notes.pdf",
-    "Courses/Statistics/Stats 2 Notes.pdf",
+    "Python notes.md",
+    "Courses/Programming/IITM Programming in Python.md",
+    "Courses/Programming",
+    "Courses/Programming/IITM Python",
+    "Library/journals,magazines/MacroSynergy/Forecasting energy markets with macro data | Macrosynergy Research.pdf",
+    "Blogs/MacroSynergy/Commodities/Forecasting energy markets with macro data.md",
+    "Blogs/AQR/Is Value Just an Interest Rate Bet?.md",
+    "Research_Papers/Factor_Investing/How Do Factor Premia Vary Over Time? A Century of Evidence.md",
+    "Twitter/WifeyAlpha/Un-'threaded'.md",
+    "Library/journals,magazines/SSRN Papers/WifeyAlpha papers/Optimal Trend-Following With Transaction Costs.pdf",
+    "Library/journals,magazines/SSRN Papers/WifeyAlpha papers/Long-only multi-asset momentum searching for absolute returns.pdf",
+    "Library/journals,magazines/AQR/International Diversification Still Not Crazy after All These Years.pdf",
+    "Library/journals,magazines/SSRN Papers/WifeyAlpha papers/The Complementarity of Trend Following and Relative Sentiment.pdf",
+    "Blogs/MacroSynergy/Academic Papers.md",
+    "Library/journals,magazines/SSRN Papers/WifeyAlpha papers/Avoid Equity Bear Markets with a Market Tiing Strategy.pdf",
+    "Library/journals,magazines/MacroSynergy/Factor Momentum Versus Stock Price Momentum A Revisit.pdf",
+    "Library/journals,magazines/SSRN Papers/The Response of Equity Yields to a Long-Run Shock (2023).pdf",
+    "Blogs/MacroSynergy/Commodities/Predicting base metal futures returns with economic data.md",
+    "Notebook_Personal/Newsletter/Annual Newsletter Rough Draft.md",
+    "Courses/GitHub.md",
+    "Twitter/WifeyAlpha/AQR Macro Research.md",
+    "Research_Papers/Macro/Macro Trends and Factor Timing.md",
+    "Research_Papers/Momentum_Trend_Following/Understanding Momentum and Reversals.md",
+    "Podcasts/Flirting_With_Models/S5E8, Anti Illmanen.md",
+    "Research_Papers/Asset_Allocation/Factor Investing and Asset Allocation A Business Cycle Perspective.md",
+    "Blogs/AQR/Is (Systematic) Value Investing Dead?.md",
+    "Research_Papers/Factor_Investing/The Quant Cycle.md",
+    "Blogs/AQR/We Are Not Just Value! Except, You Know, When We Are....md",
+    "Twitter/WifeyAlpha/Gold.md",
     "Podcasts/Flirting_With_Models/S5E12, Kevin Cole.md",
     "Podcasts/Top_Traders_Unplugged/Systematic/Ep 141, Douglas Greenig.md",
     "Blogs/Rob_Carver/Do non binary forecasts work?.md",
@@ -167,42 +218,15 @@
     "Blogs/Rob_Carver/Should I run my trading system at a fixed expected volatility target?.md",
     "Blogs/Rob_Carver/Exogenous risk management.md",
     "Blogs/Rob_Carver/Dynamic Trend Following.md",
-    "Blogs/Rob_Carver/Fit forecast weights by instrument, by group, or fit across all markets? Or all three?.md",
-    "Blogs/Rob_Carver/Using random data.md",
-    "Blogs/Rob_Carver/Skew and trend following.md",
-    "Blogs/Rob_Carver/Skew and expected returns.md",
-    "Books/Asset_Allocation,Portfolio_Management/Smart Portfolios.md",
     "Notebook_Personal copy/Newsletter/Appendix/Screenshot 2023-04-04 at 10.57.38 PM.png",
     "Notebook_Personal copy/Newsletter/Appendix/Pasted image 20230403115701.png",
     "Notebook_Personal copy/Newsletter/Appendix/Pasted image 20230403114902.png",
-    "Notebook_Personal copy/Newsletter/Appendix",
-    "Notebook_Personal copy/Newsletter/Annual Newsletter Rough Draft.md",
-    "Notebook_Personal copy/Newsletter",
-    "Notebook_Personal copy/Important Links/Ideas.md",
-    "Notebook_Personal copy/Important Links/Idea Sourcing.md",
-    "Notebook_Personal copy/Important Links/Global Factor Data Documentation.pdf",
-    "Notebook_Personal copy/Important Links/General.md",
-    "Notebook_Personal copy/Important Links",
     "Notebook_Personal copy/Appendix/Screenshot 2023-05-18 at 1.36.55 PM.png",
-    "Notebook_Personal copy/Appendix",
-    "Notebook_Personal copy/Personal/Letters to Nidhi.md",
-    "Notebook_Personal copy/Personal/Appraisal '23.md",
-    "Notebook_Personal copy/Personal/Anusha's account.md",
-    "Notebook_Personal copy/Personal",
-    "Library copy/journals,magazines/Global Growth Cycle: Identifying Economic Turning Points, a Market Timing Strategy.pdf",
-    "Library copy/journals,magazines/Crisis beta - Transtrend.pdf",
-    "Library copy/journals,magazines/callibration_probabilities_lichtenstein_fischoff_philips.pdf",
     "Library copy/journals,magazines/TAoS&C/Screenshot (117).png",
     "Library copy/Fintwit_Personal/VolqVault/Asset Class Returns vs The Vix.png",
     "Library copy/Fintwit_Personal/VolqVault/Predictably Unpredictable A Look at Autocorrelation in Market Variables/2.jpeg",
     "Library copy/Fintwit_Personal/VolqVault/Predictably Unpredictable A Look at Autocorrelation in Market Variables/1.jpeg",
     "Library copy/Fintwit_Personal/VolqVault/Wifey Investment Structure.png",
-    "Library copy/Fintwit_Personal/VolqVault/The Stock-Bond Correlation.jpeg",
-    "Library copy/books_Personal/quant/Auquan blog/Tutorials-master/README.md",
-    "Notebook_Personal/Important Links/Ideas.md",
-    "Notebook_Personal/Important Links/Idea Sourcing.md",
-    "Notebook_Personal/Important Links/General.md",
-    "Notebook_Personal/Personal/Letters to Nidhi.md",
-    "Notebook_Personal/Personal/Appraisal '23.md"
+    "Library copy/Fintwit_Personal/VolqVault/The Stock-Bond Correlation.jpeg"
   ]
 }

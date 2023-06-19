@@ -44,6 +44,7 @@
 - [ ] A Better Alternative: Diversify Your Diversifiers (2022) ([link](https://www.aqr.com/Insights/Research/White-Papers/A-Better-Alternative-Diversify-Your-Diversifiers))
 - [ ] New Rules of Diversification: How to Prep Your Portfolio for a different Kind of Recession Risk (2020) ([link](https://www.aqr.com/Insights/Research/Alternative-Thinking/New-Rules-of-Diversification))
 - [ ] Hedging vs. Diversification: Comparing the Cost of Hedging to the Cost of Diversification (2022) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4114927)) ([notes](onenote:https://d.docs.live.net/6d94afbf51158917/Documents/Academic%20Papers/Risk%20Management.one#Comparing%20the%20Cost%20of%20Hedging%20to%20the%20Cost%20of%20Diversification&section-id={7F02F37E-24FE-4569-92CB-013FAE82E359}&page-id={417AF150-E2A5-3A45-A2CC-434A5731F32D}&end))
+- [ ] [International Diversification Still Not Crazy after All These Years](obsidian://open?vault=Akul's%20Notebook&file=Library%2Fjournals%2Cmagazines%2FAQR%2FInternational%20Diversification%20Still%20Not%20Crazy%20after%20All%20These%20Years.pdf)
 
 
 # <u>Bubbles</u>
@@ -225,6 +226,9 @@
 - [ ] Multi-Asset Seasonality and Trend-Following Strategies (2016) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2710334))
 - [ ] Keep up the Momentum (2017) ([link](http://www.thierry-roncalli.com/download/Keep_Up_The_Momentum.pdf))
 - [ ] Design and analysis of momentum trading strategies (2023) ([link](https://arxiv.org/pdf/2101.01006.pdf))
+- [ ] [The Complementarity of Trend Following and Relative Sentiment](obsidian://open?vault=Akul's%20Notebook&file=Library%2Fjournals%2Cmagazines%2FSSRN%20Papers%2FWifeyAlpha%20papers%2FThe%20Complementarity%20of%20Trend%20Following%20and%20Relative%20Sentiment.pdf)
+- [ ] [Long-only multi asset momentum searching for absolute returns](obsidian://open?vault=Akul's%20Notebook&file=Library%2Fjournals%2Cmagazines%2FSSRN%20Papers%2FWifeyAlpha%20papers%2FLong-only%20multi-asset%20momentum%20searching%20for%20absolute%20returns.pdf)
+- [ ] [Optimal Trend-Following With Transaction Costs](obsidian://open?vault=Akul's%20Notebook&file=Library%2Fjournals%2Cmagazines%2FSSRN%20Papers%2FWifeyAlpha%20papers%2FOptimal%20Trend-Following%20With%20Transaction%20Costs.pdf)
 
 
 # <u>Regime</u>
@@ -306,3 +310,5 @@
 - [ ] Autoregressive short-term prediction of turning points using support vector regression (2019) ([link](https://arxiv.org/abs/1209.0127))
 - [ ] Understanding intra-day price formation process by agent-based financial market simulation: calibrating the extended chiarella model (2022) ([link](https://arxiv.org/abs/2208.14207))
 - [ ] Predictably Unpredictable: A Look at Autocorrelation in Market Variables (VolQ vault)
+- [ ] [Avoid Equity Bear Markets with a Market Timing Strategy](obsidian://open?vault=Akul's%20Notebook&file=Library%2Fjournals%2Cmagazines%2FSSRN%20Papers%2FWifeyAlpha%20papers%2FAvoid%20Equity%20Bear%20Markets%20with%20a%20Market%20Tiing%20Strategy.pdf)
+- [ ] 

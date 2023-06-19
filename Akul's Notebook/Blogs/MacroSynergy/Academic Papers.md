@@ -9,6 +9,7 @@
 # <u>Equities</u>
 - [ ] [Avoid Equity Bear Markets with a Market Timing Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4397638)
 - [ ] [The Response of Equity Yields to Long-Run Shock](obsidian://open?vault=Akul's%20Notebook&file=Library%2Fjournals%2Cmagazines%2FSSRN%20Papers%2FThe%20Response%20of%20Equity%20Yields%20to%20a%20Long-Run%20Shock%20(2023).pdf)
+- [ ] [Factor Momentum Versus Stock Price Momentum A Revisit](obsidian://open?vault=Akul's%20Notebook&file=Library%2Fjournals%2Cmagazines%2FMacroSynergy%2FFactor%20Momentum%20Versus%20Stock%20Price%20Momentum%20A%20Revisit.pdf)
 
 
 # <u>Foreign Exchange</u>
