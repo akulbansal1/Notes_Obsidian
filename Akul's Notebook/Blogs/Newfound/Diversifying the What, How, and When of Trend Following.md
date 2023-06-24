@@ -1,5 +1,5 @@
 
-Published: 2 April, 2018
+Published: 20180402
 Tags: #Trend_Following 
 [Link](https://blog.thinknewfound.com/2018/04/diversifying-the-what-how-and-when-of-trend-following/)
 

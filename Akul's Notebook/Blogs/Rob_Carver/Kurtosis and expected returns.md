@@ -1,5 +1,5 @@
 
-Published: 12 Nov, 2019
+Published: 20191112
 Tags: #idea #Rob_Carver 
 [Link](https://qoppac.blogspot.com/2019/11/kurtosis-and-expected-returns.html)
 

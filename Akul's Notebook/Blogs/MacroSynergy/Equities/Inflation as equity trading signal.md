@@ -1,5 +1,5 @@
 
-Published: May, 2022
+Published: 20220501
 Tags: #Equities #MacroSynergy #Global_Macro 
 [Link](obsidian://open?vault=Akul's%20Notebook&file=Library_Personal%2Fjournals%2Cmagazines%2FMacroSynergy%2FInflation%20as%20equity%20trading%20signal%20%7C%20Macrosynergy%20Research.pdf)
 

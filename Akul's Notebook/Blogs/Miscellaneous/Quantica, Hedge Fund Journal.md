@@ -1,6 +1,6 @@
 [Article](https://thehedgefundjournal.com/quantica-capital-a-differentiated-trend-following-cta/) on Quantica, the Swiss quantitative fund
 #idea_trend_following 
-Published on 1 June 2021
+Date published: 20210601
 
 - "Quantica's return profile is recognizably that of a trend following CTA, with a long-term correlation of around 0.70 to the SG Trend Index"
 - "Its outperformance of larger trend following peers present in the SG Trend Index has averaged almost 5% p.a. since inception 16 years ago and has been almost 10% p.a. over the past five years - a period that was lacklustre for some trend following approaches that have been approximately flat"![[Screenshot 2023-05-26 at 8.27.04 PM.png]]

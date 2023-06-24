@@ -1,6 +1,6 @@
 
 [Podcast Link](https://podcasts.apple.com/us/podcast/kevin-cole-systematic-multi-strategy-from-100-models-s5e12/id1402620531?i=1000577627685)
-Recording Date: 29 August, 2022
+Recording Date: 20220829
 
 #multi-strat_practitioner
 

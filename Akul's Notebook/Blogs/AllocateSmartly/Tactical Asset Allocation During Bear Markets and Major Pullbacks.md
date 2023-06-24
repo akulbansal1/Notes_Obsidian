@@ -1,5 +1,5 @@
 
-Published: 23 Jan, 2022
+Published: 20220123
 Tags: #idea_tactical_asset_allocation 
 [Link](https://allocatesmartly.com/tactical-asset-allocation-during-bear-markets-and-major-pullbacks/?aff=634) 
 

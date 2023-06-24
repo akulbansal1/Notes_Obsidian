@@ -1,5 +1,5 @@
 
-Published: 18 Jan, 2022
+Published: 20220118
 Tags: #Risk_Management #Rob_Carver 
 [Link](https://qoppac.blogspot.com/2016/08/trend-following-and-correlation.html)
 

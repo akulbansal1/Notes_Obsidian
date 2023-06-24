@@ -1,5 +1,5 @@
 
-Published: August 2022
+Published: 20220801
 Tags: #idea_tactical_asset_allocation #Global_Macro 
 [Link](https://insights.finominal.com/research-long-volatility-versus-tactical-asset-allocation/)
 

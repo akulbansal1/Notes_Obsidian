@@ -1,6 +1,6 @@
 
 [Podcast Link](https://podcasts.apple.com/in/podcast/moritz-seibert-moritz-heiden-from-cta-to-web3-s5e3/id1402620531?i=1000566185846)
-Recording Date: 13 Jun, 2022
+Recording Date: 20220613
 Tags: #Trend_Following
 
 

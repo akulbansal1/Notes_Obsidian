@@ -1,6 +1,6 @@
 
 [Podcast Link](https://podcasts.apple.com/in/podcast/flirting-with-models/id1402620531?i=1000571046135)
-Recording Date: 25 July, 2022
+Recording Date: 20220725
 Tags: #Trend_Following 
 
 - All the fundamental hedge fund managers are just trying to get the factor rotation right.

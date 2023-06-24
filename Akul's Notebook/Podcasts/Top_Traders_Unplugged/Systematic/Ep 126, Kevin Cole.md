@@ -1,6 +1,6 @@
 
 [Podcast Link](https://podcasts.apple.com/in/podcast/top-traders-unplugged/id888420325?i=1000596857036)
-Recording Date: 27 January, 2023
+Recording Date: 20230127
 
 #multi-strat_practitioner #trend_following_podcast 
 

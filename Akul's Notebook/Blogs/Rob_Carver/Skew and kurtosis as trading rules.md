@@ -1,5 +1,5 @@
 
-Published: 13 Jan, 2020
+Published: 20200113
 Tags:
 [Link](https://qoppac.blogspot.com/2020/01/skew-and-kurtosis-as-trading-rules.html)
 

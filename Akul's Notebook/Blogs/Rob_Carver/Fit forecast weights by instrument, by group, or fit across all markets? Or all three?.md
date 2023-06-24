@@ -1,6 +1,6 @@
 
 
-Published: 27 May, 2021
+Published: 20210527
 Tags: #Portfolio_Construction #Optimisation #Rob_Carver 
 [Link](https://qoppac.blogspot.com/2021/05/fit-forecast-weights-by-instrument-by.html)
 

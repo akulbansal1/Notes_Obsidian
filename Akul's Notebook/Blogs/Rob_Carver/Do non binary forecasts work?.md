@@ -1,5 +1,5 @@
 
-Published: 3 July, 2020
+Published: 20200703
 Tags: #Forecasting #Rob_Carver 
 [Link](https://qoppac.blogspot.com/2020/07/do-non-binary-forecasts-work.html)
 

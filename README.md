@@ -19,11 +19,17 @@ A lot of the notes in the folder will be empty, because either:
 
 ## FAQs
 
-1. Some texts are highlighted `like this. Are these typos?`
+1. Why create/maintain your personal notes/research resources and share them publicly?
+	- <u>Why take extensive notes</u>: I think there will be a ChatGPT-like software in the not so distant future that will take note-taking a searching through your personal notes to the next level. It's not so difficult to (and very exciting to) imagine an AI searching through your notes. It's as close to 'Building a Second Brain' as one can imagine. Keeping this in mind, I try to keep my notes 'programming-friendly'. As to <u>why share it publicly</u>: all the stuff that I read/listen usually come from some other researcher who is sharing the research resources, which I find VERY helpful. This repository came into existence because I want to be able to help others the same way I have been helped by others.
+
+2. Some texts are highlighted `like this. Are these typos?`
 	- No, they are not. Although backticks are used to denote `code` in Markdown, I use them to denote my thoughts. I have tried to keep the notes as unbiased as possible and so `texts that look like this` denote my annotations.
 
-2. There are a lot of links that I am unable to open. How do I open those?
+3. There are a lot of links that I am unable to open. How do I open those?
 	- I save PDFs of most papers/books I read and insert a link to them in the notes file. Unfortunately, my "Library" is 5 Gigabytes therefore, difficult to upload on GitHub since GitHub doesn't allow single push of >2 Gb. Also, I don't want to get sued by Wiley!
 
-3. How do I get in touch with you, if I need any help or just to chat?
+4. Why are the dates in a weird 8-digit number?
+	- The 8-digit number is YYYYMMDD, the reason being it is easier to sort the dates when it is in this format.
+
+5. How do I get in touch with you, if I need any help or just to chat?
 	- [Twitter](https://twitter.com/AkulBansal1) | [LinkedIn](https://www.linkedin.com/in/akul-bansal-6b4952177/)

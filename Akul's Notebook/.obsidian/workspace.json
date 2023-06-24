@@ -42,12 +42,12 @@
             }
           },
           {
-            "id": "0e8ac718ae6a0750",
+            "id": "bde92a44b192649a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Podcasts/Miscellaneous/Eric Crittenden, Blockworks Macro.md",
+                "file": "Podcasts/Flirting_With_Models/S5E12, Kevin Cole.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Podcasts/Miscellaneous/Eric Crittenden, Blockworks Macro.md",
+                "file": "Podcasts/Flirting_With_Models/S5E12, Kevin Cole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Podcasts/Miscellaneous/Eric Crittenden, Blockworks Macro.md",
+                "file": "Podcasts/Flirting_With_Models/S5E12, Kevin Cole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Podcasts/Miscellaneous/Eric Crittenden, Blockworks Macro.md"
+                "file": "Podcasts/Flirting_With_Models/S5E12, Kevin Cole.md"
               }
             }
           },
@@ -192,53 +192,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e8ac718ae6a0750",
+  "active": "bde92a44b192649a",
   "lastOpenFiles": [
-    "Podcasts/Market_Huddle/Ep.213, Jim Leitner.md",
-    "Podcasts/Market_Huddle/Ep.179, Jim Leitner.md",
-    "Podcasts/Market_Huddle/Ep.164, Jim Leitner.md",
-    "Podcasts/Market_Huddle/Ep.101 Nick Givanovic.md",
-    "Podcasts/Miscellaneous/Eric Crittenden, Blockworks Macro.md",
     "Courses/Programming/IITM Programming in Python.md",
-    "Podcasts/Miscellaneous",
-    "Blogs/MacroSynergy/Commodities/Forecasting energy markets with macro data.md",
     "Library/journals,magazines/MacroSynergy/Forecasting energy markets with macro data | Macrosynergy Research.pdf",
-    "Python notes.md",
+    "Podcasts/Flirting_With_Models/S5E12, Kevin Cole.md",
+    "Podcasts/Flirting_With_Models/S5E11, Hari Krishnan.md",
+    "Podcasts/Flirting_With_Models/S5E9, Andrew Beer.md",
+    "Podcasts/Flirting_With_Models/S5E8, Anti Illmanen.md",
+    "Podcasts/Flirting_With_Models/S5E5, David Sun.md",
+    "Podcasts/Flirting_With_Models/S5E3, Moritz Seibert & Moritz Heiden.md",
+    "Podcasts/Flirting_With_Models/S4E15, Russel Korgaonkar.md",
+    "Podcasts/Top_Traders_Unplugged/Systematic/Ep 126, Kevin Cole.md",
+    "Podcasts/Miscellaneous/Eric Crittenden, Blockworks Macro.md",
+    "Podcasts/Miscellaneous/Appendix/Screenshot 2023-06-19 at 5.04.42 PM.png",
+    "Podcasts/Miscellaneous/Appendix/Pasted image 20230619123919.png",
+    "Podcasts/Miscellaneous/Appendix",
+    "Blogs/Rob_Carver/Using random data.md",
+    "Blogs/Rob_Carver/Skew and trend following.md",
+    "Blogs/Rob_Carver/Skew and kurtosis as trading rules.md",
+    "Blogs/Rob_Carver/Skew and expected returns.md",
+    "Blogs/Rob_Carver/Should I run my trading system at a fixed expected volatility target?.md",
+    "Blogs/Rob_Carver/Kurtosis and expected returns.md",
+    "Blogs/Rob_Carver/Forecasting linearity and forecasting mean reverting volatility.md",
+    "Blogs/Rob_Carver/Fit forecast weights by instrument, by group, or fit across all markets? Or all three?.md",
+    "Blogs/Rob_Carver/Exogenous risk management.md",
+    "Blogs/Rob_Carver/Dynamic Trend Following.md",
+    "Blogs/Rob_Carver/Does it make sense to change you trading behaviour in different periods of volatility?.md",
+    "Blogs/Rob_Carver/Do non binary forecasts work?.md",
+    "Blogs/Rob_Carver/Diversification and small account size.md",
+    "Blogs/Rob_Carver/Clustering and Correlations.md",
+    "Blogs/Rob_Carver/Capital Correction.md",
+    "Podcasts/Top_Traders_Unplugged/Appendix/Screenshot 2023-04-16 at 5.06.50 PM.png",
+    "Podcasts/Miscellaneous",
     "Courses/Programming",
     "Courses/Programming/IITM Python",
-    "Blogs/AQR/Is Value Just an Interest Rate Bet?.md",
-    "Research_Papers/Factor_Investing/How Do Factor Premia Vary Over Time? A Century of Evidence.md",
-    "Twitter/WifeyAlpha/Un-'threaded'.md",
     "Library/journals,magazines/SSRN Papers/WifeyAlpha papers/Optimal Trend-Following With Transaction Costs.pdf",
     "Library/journals,magazines/SSRN Papers/WifeyAlpha papers/Long-only multi-asset momentum searching for absolute returns.pdf",
     "Library/journals,magazines/AQR/International Diversification Still Not Crazy after All These Years.pdf",
     "Library/journals,magazines/SSRN Papers/WifeyAlpha papers/The Complementarity of Trend Following and Relative Sentiment.pdf",
-    "Blogs/MacroSynergy/Academic Papers.md",
     "Library/journals,magazines/SSRN Papers/WifeyAlpha papers/Avoid Equity Bear Markets with a Market Tiing Strategy.pdf",
-    "Library/journals,magazines/MacroSynergy/Factor Momentum Versus Stock Price Momentum A Revisit.pdf",
-    "Blogs/MacroSynergy/Commodities/Predicting base metal futures returns with economic data.md",
-    "Notebook_Personal/Newsletter/Annual Newsletter Rough Draft.md",
-    "Courses/GitHub.md",
-    "Twitter/WifeyAlpha/AQR Macro Research.md",
-    "Research_Papers/Macro/Macro Trends and Factor Timing.md",
-    "Research_Papers/Momentum_Trend_Following/Understanding Momentum and Reversals.md",
-    "Podcasts/Flirting_With_Models/S5E8, Anti Illmanen.md",
-    "Research_Papers/Asset_Allocation/Factor Investing and Asset Allocation A Business Cycle Perspective.md",
-    "Blogs/AQR/Is (Systematic) Value Investing Dead?.md",
-    "Research_Papers/Factor_Investing/The Quant Cycle.md",
-    "Blogs/AQR/We Are Not Just Value! Except, You Know, When We Are....md",
-    "Twitter/WifeyAlpha/Gold.md",
-    "Podcasts/Flirting_With_Models/S5E12, Kevin Cole.md",
-    "Podcasts/Top_Traders_Unplugged/Systematic/Ep 141, Douglas Greenig.md",
     "Notebook_Personal copy/Newsletter/Appendix/Screenshot 2023-04-04 at 10.57.38 PM.png",
     "Notebook_Personal copy/Newsletter/Appendix/Pasted image 20230403115701.png",
     "Notebook_Personal copy/Newsletter/Appendix/Pasted image 20230403114902.png",
     "Notebook_Personal copy/Appendix/Screenshot 2023-05-18 at 1.36.55 PM.png",
     "Library copy/journals,magazines/TAoS&C/Screenshot (117).png",
     "Library copy/Fintwit_Personal/VolqVault/Asset Class Returns vs The Vix.png",
-    "Library copy/Fintwit_Personal/VolqVault/Predictably Unpredictable A Look at Autocorrelation in Market Variables/2.jpeg",
-    "Library copy/Fintwit_Personal/VolqVault/Predictably Unpredictable A Look at Autocorrelation in Market Variables/1.jpeg",
-    "Library copy/Fintwit_Personal/VolqVault/Wifey Investment Structure.png",
-    "Library copy/Fintwit_Personal/VolqVault/The Stock-Bond Correlation.jpeg"
+    "Library copy/Fintwit_Personal/VolqVault/Predictably Unpredictable A Look at Autocorrelation in Market Variables/2.jpeg"
   ]
 }

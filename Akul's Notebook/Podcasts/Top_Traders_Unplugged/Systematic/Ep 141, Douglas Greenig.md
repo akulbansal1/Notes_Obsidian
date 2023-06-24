@@ -1,6 +1,6 @@
 
 [Podcast Link](https://podcasts.apple.com/in/podcast/top-traders-unplugged/id888420325?i=1000607131433)
-Recording Date: 3 April, 2023
+Recording Date: 20230403
 
 #trend_following_podcast
 

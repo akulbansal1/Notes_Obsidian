@@ -1,6 +1,6 @@
 
 [Podcast Link](https://podcasts.apple.com/in/podcast/flirting-with-models/id1402620531?i=1000567789971)
-Recording Date: 27 June, 2022
+Recording Date: 20220627
 Tags: #Options
 
 - Focuses on selling options that capture the volatility risk premium.

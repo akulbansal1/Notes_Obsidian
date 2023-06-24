@@ -1,7 +1,7 @@
 
 
 [Podcast Link](https://www.youtube.com/watch?v=c2hAd8ZV3xo&ab_channel=TheMarketHuddle)
-Recording Date: October 2020
+Recording Date: 20201001
 Tags: #Fixed_Income #Global_Macro 
 
 

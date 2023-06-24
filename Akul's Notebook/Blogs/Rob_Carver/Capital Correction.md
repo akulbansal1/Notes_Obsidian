@@ -1,5 +1,5 @@
 
-Published: 8 June, 2016
+Published: 20160608
 Tags: #Portfolio_Management #Rob_Carver 
 [Link](https://qoppac.blogspot.com/2016/06/capital-correction-pysystemtrade.html)
 

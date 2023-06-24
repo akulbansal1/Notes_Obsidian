@@ -1,6 +1,6 @@
 
 [Podcast Link](https://podcasts.apple.com/in/podcast/the-market-huddle/id1444520320?i=1000613739446)
-Recording Date: 19 May, 2023
+Recording Date: 20230519
 Tags: #Global_Macro 
 
 - The last time Jim was on this [podcast](obsidian://open?vault=Akul's%20Notebook&file=Podcasts%2FMarket%20Huddle%2FEp.179%2C%20Jim%20Leitner)

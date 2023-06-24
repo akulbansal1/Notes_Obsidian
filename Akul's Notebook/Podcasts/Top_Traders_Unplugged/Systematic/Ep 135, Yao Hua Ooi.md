@@ -1,6 +1,6 @@
 
 [Podcast Link](https://podcasts.apple.com/in/podcast/top-traders-unplugged/id888420325?i=1000601764314)
-Recording Date: 27 February, 2023
+Recording Date: 20230227
 
 #trend_following_podcast #AQR 
 

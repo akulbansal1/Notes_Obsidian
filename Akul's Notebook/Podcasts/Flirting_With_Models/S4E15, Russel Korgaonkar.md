@@ -1,6 +1,6 @@
 
 [Podcast Link](https://www.youtube.com/watch?v=05lb_Un2QsI)
-Recording Date: 9 August, 2021
+Recording Date: 20210809
 Tags: #multi-strat_practitioner #Trend_Following 
 
 - CIO of Man AHL

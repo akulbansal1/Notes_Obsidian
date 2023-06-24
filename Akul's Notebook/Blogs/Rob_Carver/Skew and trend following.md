@@ -1,5 +1,5 @@
 
-Published: 28 Feb, 2019
+Published: 20190228
 Tags: #Trend_Following #Rob_Carver 
 [Link](https://qoppac.blogspot.com/2019/02/skew-and-trend-following.html)
 

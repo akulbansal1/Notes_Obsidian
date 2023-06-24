@@ -1,6 +1,6 @@
 
 
-Published: 4 Dec, 2020
+Published: 20201204
 Tags: #Trend_Following #Rob_Carver 
 [Link](https://qoppac.blogspot.com/2020/12/dynamic-trend-following.html)
 

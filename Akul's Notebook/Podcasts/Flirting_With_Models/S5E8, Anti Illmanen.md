@@ -1,6 +1,6 @@
 
 [Podcast Link](https://podcasts.apple.com/in/podcast/flirting-with-models/id1402620531?i=1000570263809)
-Recording Date: 18 July, 2022
+Recording Date: 20220718
 Tags: #Factor_Investing #AQR 
 
 - Corey: "Anyone entering quantitative investing has to read that book [[Expected Returns]]". It is an absolute bible for all the stuff that used to work in quantitative investing.

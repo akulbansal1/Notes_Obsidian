@@ -1,5 +1,5 @@
 
-Recorded: 6 September, 2022
+Recorded: 20220906
 Tags: #AQR 
 [Link](https://www.goldmansachs.com/insights/talks-at-gs/cliff-asness.html)
 

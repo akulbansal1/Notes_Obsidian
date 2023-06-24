@@ -1,5 +1,5 @@
 
-Published: 11 August, 2022
+Published: 20220811
 Tags: #Equities #Value #Factor_Investing #Global_Macro #AQR 
 [Link](obsidian://open?vault=Akul's%20Notebook&file=Library_Personal%2Fjournals%2Cmagazines%2FAQR%2FValue%20is%20Just%20Not%20an%20Interest%20Rate%20Bet_.pdf)
 
