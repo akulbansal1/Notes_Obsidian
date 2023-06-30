@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blogs/MacroSynergy/Academic Papers.md",
+                "file": "Books/Asset_Allocation,Portfolio_Management/Beyond Diversification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "383c701b34c6e1c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogs/MacroSynergy/Academic Papers.md",
+                "file": "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogs/MacroSynergy/Academic Papers.md",
+                "file": "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blogs/MacroSynergy/Academic Papers.md"
+                "file": "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md"
               }
             }
           },
@@ -157,11 +170,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68aa7f6f6f0b1efa",
+  "active": "383c701b34c6e1c7",
   "lastOpenFiles": [
+    "Books/Asset_Allocation,Portfolio_Management/Beyond Diversification.md",
+    "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
+    "Blogs/MacroSynergy/Fixed_Income/Merchandise import as predictor of duration returns.md",
+    "Blogs/MacroSynergy/Fixed_Income",
+    "Untitled.md",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Table_3.1_List_of_Equity_Asset_Classes_and_Relative_Bets.png",
+    "Blogs/MacroSynergy/Academic Papers.md",
     "Research_Papers/Macro/Economic Trend.md",
     "Library/journals,magazines/AQR/Economic Trend_.pdf",
-    "Blogs/MacroSynergy/Academic Papers.md",
     "Blogs/MacroSynergy/Nowcasting for financial markets.md",
     "Blogs/MacroSynergy/Alternative Risk Premia Primer.md",
     "Blogs/MacroSynergy/Equities/Inflation as equity trading signal.md",
@@ -169,7 +188,6 @@
     "Library/journals,magazines/MacroSynergy/Forecasting energy markets with macro data | Macrosynergy Research.pdf",
     "Notebook_Personal/Important Links/Idea Sourcing.md",
     "Blogs/MacroSynergy/Commodities/Predicting base metal futures returns with economic data.md",
-    "Merchandise import as predictor of duration returns.md",
     "Library/journals,magazines/MacroSynergy/Merchandise import as predictor of duration returns.pdf",
     "Podcasts/Market_Huddle/Ep.213, Jim Leitner.md",
     "Library/journals,magazines/MacroSynergy/Alternative Risk Premia Primer.pdf",
@@ -180,7 +198,6 @@
     "Podcasts/Flirting_With_Models/S6E9, Asif Noor.md",
     "Library/journals,magazines/MacroSynergy/Nowcasting for financial markets.pdf",
     "Notebook_Personal/Important Links/Ideas.md",
-    "Books/Asset_Allocation,Portfolio_Management/Beyond Diversification.md",
     "Twitter/WifeyAlpha/Bear Market Rallies.md",
     "Courses/Programming/IITM Programming in Python.md",
     "Podcasts/Flirting_With_Models/S6E5, Macrocephalopod.md",
@@ -188,21 +205,17 @@
     "Podcasts/Flirting_With_Models/S5E13, Adam Butler.md",
     "Podcasts/Flirting_With_Models/S5E12, Kevin Cole.md",
     "Podcasts/Flirting_With_Models/S5E11, Hari Krishnan.md",
-    "Podcasts/Flirting_With_Models/S5E9, Andrew Beer.md",
-    "Podcasts/Flirting_With_Models/S5E8, Anti Illmanen.md",
     "Podcasts/Miscellaneous/Appendix/Screenshot 2023-06-19 at 5.04.42 PM.png",
     "Podcasts/Miscellaneous/Appendix/Pasted image 20230619123919.png",
     "Podcasts/Miscellaneous/Appendix",
     "Podcasts/Top_Traders_Unplugged/Appendix/Screenshot 2023-04-16 at 5.06.50 PM.png",
     "Podcasts/Miscellaneous",
     "Courses/Programming",
-    "Courses/Programming/IITM Python",
     "Notebook_Personal copy/Newsletter/Appendix/Screenshot 2023-04-04 at 10.57.38 PM.png",
     "Notebook_Personal copy/Newsletter/Appendix/Pasted image 20230403115701.png",
     "Notebook_Personal copy/Newsletter/Appendix/Pasted image 20230403114902.png",
     "Notebook_Personal copy/Appendix/Screenshot 2023-05-18 at 1.36.55 PM.png",
     "Library copy/journals,magazines/TAoS&C/Screenshot (117).png",
-    "Library copy/Fintwit_Personal/VolqVault/Asset Class Returns vs The Vix.png",
-    "Library copy/Fintwit_Personal/VolqVault/Predictably Unpredictable A Look at Autocorrelation in Market Variables/2.jpeg"
+    "Library copy/Fintwit_Personal/VolqVault/Asset Class Returns vs The Vix.png"
   ]
 }
