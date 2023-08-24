@@ -8,7 +8,7 @@ Macrocephalopod is an anonymous user on [FinTwitter](https://twitter.com/macroce
 - Began career with slow-frequency style premia in a hedge fund. The built a prop desk that trades mid-to-high frequency strategies in crypto.
 - Earlier in the 2010s, he was "implementing longer frequency futures strategies, a lot of them in the vein of style-premia". 
 	- "Looking back, they were very naïve and [he's] surprised that they worked in the first place"
-	- Trading the most liquid futures, rebalancing daily and typically holding the trades for weeks/months and "not doing a whole ton of modelling around the details and the microstructure". "The kind of strategies that I was thinking about: CTA trend following (spent quite a bit of my early career as a quant researcher working on that strategy), carry strategies, strategies which now people like to call macro momentum" ([[Economic Trend]]; [[A Half Century of Macro Momentum]]).
+	- Trading the most liquid futures, rebalancing daily and typically holding the trades for weeks/months and "not doing a whole ton of modelling around the details and the microstructure". "The kind of strategies that I was thinking about: CTA trend following (spent quite a bit of my early career as a quant researcher working on that strategy), carry strategies, strategies which now people like to call macro momentum" ([[Economic Trend]]; [[Research_Papers/Momentum_Trend_Following/A Half Century of Macro Momentum]]).
 	- They worked in the first place because over the long-term, they work (at least in the backtest). "I think they work because of two reasons":
 		1. Risk premium; there are risks in these strategies that people are not so willing to take.
 		2. Historically, these strategies had a big component of inefficiencies in them.

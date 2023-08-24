@@ -1,6 +1,6 @@
 
 Published: 20220501
-Tags: #Equities #MacroSynergy #Global_Macro 
+Tags: #Equities #MacroSynergy #Global_Macro #Quant_Macro 
 [Link](obsidian://open?vault=Akul's%20Notebook&file=Library_Personal%2Fjournals%2Cmagazines%2FMacroSynergy%2FInflation%20as%20equity%20trading%20signal%20%7C%20Macrosynergy%20Research.pdf)
 
 - "A fresh analysis of 17 international markets since 2000 confirms an ongoing pervasive negative relation between published CPI dynamics and subsequent equity returns"

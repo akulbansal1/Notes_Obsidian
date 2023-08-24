@@ -5,7 +5,7 @@
 	- Quick Clips: When Stock-Bond Diversification Fails ([link](https://www.aqr.com/Insights/Quick-Clips/When-Stock-Bond-Diversification-Fails-Managing-inflation-risk-in-investor-portfolios))
 	- [ ] [[Inflation Outlook the Macro the Micro the Transitory]]
 - [ ] [[2022 Capital Market Assumptions for Major Asset Classes]]
-- [ ] [[A Half Century of Macro Momentum]]
+- [ ] [[Research_Papers/Momentum_Trend_Following/A Half Century of Macro Momentum]]
 - [ ] [[Building a Better Commodities Portfolio]]
 - [ ] [[Carry Trades and Currency Crashes]]
 - [ ] [[Optimal Currency Hedging for International Equity Portfolios]]

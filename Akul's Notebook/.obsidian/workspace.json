@@ -13,26 +13,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Asset_Allocation,Portfolio_Management/Beyond Diversification.md",
+                "file": "Twitter/Bookmarks/@Vertox_DF.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "383c701b34c6e1c7",
+            "id": "9b88b804578113a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
+                "file": "Podcasts/Flirting_With_Models/S6E8, Roberto Croce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "767621bc8f3e9b75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Factor_Investing/Factor Investing From Traditional to Alternative Risk Premia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fb4e0c32179725b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Twitter/Bookmarks/@quant_arb.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,10 +84,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "idea sourcing",
+                "query": "",
                 "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -82,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 215.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "fa0e6ffcf73d5e3b",
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
+                "file": "Twitter/Bookmarks/@Vertox_DF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
+                "file": "Twitter/Bookmarks/@Vertox_DF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md"
+                "file": "Twitter/Bookmarks/@Vertox_DF.md"
               }
             }
           },
@@ -150,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,52 +193,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "383c701b34c6e1c7",
+  "active": "68aa7f6f6f0b1efa",
   "lastOpenFiles": [
-    "Books/Asset_Allocation,Portfolio_Management/Beyond Diversification.md",
-    "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
-    "Blogs/MacroSynergy/Fixed_Income/Merchandise import as predictor of duration returns.md",
-    "Blogs/MacroSynergy/Fixed_Income",
-    "Untitled.md",
-    "Books/Asset_Allocation,Portfolio_Management/Appendix/Table_3.1_List_of_Equity_Asset_Classes_and_Relative_Bets.png",
-    "Blogs/MacroSynergy/Academic Papers.md",
-    "Research_Papers/Macro/Economic Trend.md",
-    "Library/journals,magazines/AQR/Economic Trend_.pdf",
-    "Blogs/MacroSynergy/Nowcasting for financial markets.md",
-    "Blogs/MacroSynergy/Alternative Risk Premia Primer.md",
-    "Blogs/MacroSynergy/Equities/Inflation as equity trading signal.md",
-    "Blogs/MacroSynergy/Commodities/Forecasting energy markets with macro data.md",
-    "Library/journals,magazines/MacroSynergy/Forecasting energy markets with macro data | Macrosynergy Research.pdf",
-    "Notebook_Personal/Important Links/Idea Sourcing.md",
-    "Blogs/MacroSynergy/Commodities/Predicting base metal futures returns with economic data.md",
-    "Library/journals,magazines/MacroSynergy/Merchandise import as predictor of duration returns.pdf",
-    "Podcasts/Market_Huddle/Ep.213, Jim Leitner.md",
-    "Library/journals,magazines/MacroSynergy/Alternative Risk Premia Primer.pdf",
-    "Blogs/MacroSynergy/ForEx/FX trend following and macro headwinds.md",
-    "Library/journals,magazines/MacroSynergy/FX trend following and macro headwinds | Macrosynergy Research.pdf",
-    "Blogs/MacroSynergy/ForEx/An Integrated Approach to Currency Factor Investing.md",
-    "Twitter/WifeyAlpha/Macro Indicators.md",
-    "Podcasts/Flirting_With_Models/S6E9, Asif Noor.md",
-    "Library/journals,magazines/MacroSynergy/Nowcasting for financial markets.pdf",
-    "Notebook_Personal/Important Links/Ideas.md",
-    "Twitter/WifeyAlpha/Bear Market Rallies.md",
-    "Courses/Programming/IITM Programming in Python.md",
-    "Podcasts/Flirting_With_Models/S6E5, Macrocephalopod.md",
     "Podcasts/Flirting_With_Models/S6E8, Roberto Croce.md",
-    "Podcasts/Flirting_With_Models/S5E13, Adam Butler.md",
+    "Twitter/Bookmarks/@Vertox_DF.md",
+    "Podcasts/Flirting_With_Models/S6E5, Macrocephalopod.md",
+    "Books/Factor_Investing/Factor Investing From Traditional to Alternative Risk Premia.md",
+    "Twitter/Bookmarks/@quant_arb.md",
+    "Podcasts/Flirting_With_Models/S6E4, Roni Isrealov.md",
+    "Podcasts/Flirting_With_Models/S6E9, Asif Noor.md",
+    "Library/HangukQuant/2023_08/Alpha Report 08_16.pdf",
+    "Library/HangukQuant/2023_08/Alpha Report 08_07.pdf",
+    "Courses/Programming/IITM Programming in Python.md",
+    "Library/books_Personal/quant/Econometrics/Wooldridge J.M - Introductory econometrics. A modern approach-Cengage Learning (2016).pdf",
+    "Library/books_Personal/quant/Econometrics",
+    "Library/books_Personal/quant/untitled folder",
+    "Library/books_Personal/quant/Mathematics/untitled folder",
+    "Library/HangukQuant/2023_07/Alpha Report 07_30.pdf",
+    "Library/HangukQuant/2023_07/Alpha Report 07_22.pdf",
+    "Library/HangukQuant/2023_07/Alpha Report 07_12.pdf",
+    "Library/HangukQuant/2023_07/Alpha Report 07_05.pdf",
+    "Twitter/Quantseeker/Paper recommendations.md",
+    "Books/System_Designing/Professional Automated Trading.md",
+    "().md",
+    "Courses/Math/Essence of Linear Algebra.md",
+    "Blogs/MacroSynergy/Broad/Fundamental Value Estimates.md",
+    "Podcasts/Miscellaneous/Cliff Asness, Masters in Business, Bloomberg.md",
+    "Books/Factor_Investing/Appendix/Screenshot 2023-08-16 at 6.32.51 PM.png",
+    "Books/Factor_Investing/Appendix/Screenshot 2023-08-16 at 5.45.52 PM.png",
+    "Books/Factor_Investing/Appendix/Screenshot 2023-08-16 at 5.33.35 PM.png",
+    "Books/Factor_Investing/Appendix/Screenshot 2023-08-16 at 5.21.12 PM.png",
+    "Books/Factor_Investing/Appendix/Screenshot 2023-08-16 at 5.10.42 PM.png",
+    "Books/Factor_Investing/Appendix/Screenshot 2023-08-16 at 4.34.03 PM.png",
+    "Books/Factor_Investing/Appendix/Screenshot 2023-08-16 at 3.40.24 PM.png",
+    "Research_Papers/Factor_Investing/A Census of the Factor Zoo.md",
+    "Books/Factor_Investing/Appendix/Screenshot 2023-08-07 at 3.18.00 PM.png",
+    "Books/Factor_Investing/Appendix/Screenshot 2023-08-07 at 2.37.06 PM.png",
+    "Books/Factor_Investing/Appendix/Screenshot 2023-08-07 at 2.29.11 PM.png",
+    "Blogs/AQR/Seven Thoughts On Running Big Money For the Long-Term.md",
+    "Notebook_Personal/Important Links/Ideas.md",
+    "Notebook_Personal/Important Links/Idea Sourcing.md",
+    "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
     "Podcasts/Flirting_With_Models/S5E12, Kevin Cole.md",
-    "Podcasts/Flirting_With_Models/S5E11, Hari Krishnan.md",
-    "Podcasts/Miscellaneous/Appendix/Screenshot 2023-06-19 at 5.04.42 PM.png",
-    "Podcasts/Miscellaneous/Appendix/Pasted image 20230619123919.png",
-    "Podcasts/Miscellaneous/Appendix",
-    "Podcasts/Top_Traders_Unplugged/Appendix/Screenshot 2023-04-16 at 5.06.50 PM.png",
-    "Podcasts/Miscellaneous",
-    "Courses/Programming",
-    "Notebook_Personal copy/Newsletter/Appendix/Screenshot 2023-04-04 at 10.57.38 PM.png",
-    "Notebook_Personal copy/Newsletter/Appendix/Pasted image 20230403115701.png",
-    "Notebook_Personal copy/Newsletter/Appendix/Pasted image 20230403114902.png",
-    "Notebook_Personal copy/Appendix/Screenshot 2023-05-18 at 1.36.55 PM.png",
-    "Library copy/journals,magazines/TAoS&C/Screenshot (117).png",
-    "Library copy/Fintwit_Personal/VolqVault/Asset Class Returns vs The Vix.png"
+    "Books/Factor_Investing/Asset Management A Systematic Approach to Factor Investing.md",
+    "Podcasts/Flirting_With_Models/S5E13, Adam Butler.md",
+    "Podcasts/Flirting_With_Models/S6E11, Doug Greenig.md",
+    "Podcasts/Top_Traders_Unplugged/Systematic/Ep 141, Douglas Greenig.md",
+    "Notebook_Personal/Personal/message to Parth for grad.md"
   ]
 }

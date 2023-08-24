@@ -86,4 +86,57 @@ print(new_word)
 
 
 
-# <u>Week 3</u>
+# <u>Week 6</u>
+- sets take up more space than list.
+- searching in sets is faster than list.
+- sets are not subscriptable.
+	- cannot iterate over the elements.
+- if the values inside a tuple are also immutable, the the tuple is considered hashable.
+	- if the values inside a tuple are mutable, the the tuple is considered non-hashable.
+
+
+# <u>Week 8</u>
+- Sorting a list using recursive function:
+```Python
+def mini(mylist): # returns the minimum element
+	mini = mylist[0]
+	for x in mylist:
+		if x < mini:
+			mini = x
+	return mini
+
+def sortlist(L):
+	if L == [] or len(L) ==1:
+		return L
+	
+	m = mini(L) # find the minimum element
+	L.remove(m) # remove the minimum element
+	return [m] + sortlist(L)
+```
+- Binary Search:
+```Python
+def binarysearch(L,k): # return 1 if k exist in L, return 0 otherwise
+	begin = 0
+	end = len(L) - 1
+	
+
+	while (end-begin) > 0:
+		mid = (begin + end) // 2
+
+		if (k == L[mid]) or (k == L[begin]) or (k == L[end]):
+			return 1
+		if k > L[mid]:
+			begin = mid + 1
+		if k < L[mid]:
+			end = mid - 1
+
+	return 0
+```
+
+
+# <u>Week 9</u>
+- To open a file:
+```Python
+f = open(filename, "r") # to open in Read-only format
+f = open(filename, "w") # to open in Write-only format
+```

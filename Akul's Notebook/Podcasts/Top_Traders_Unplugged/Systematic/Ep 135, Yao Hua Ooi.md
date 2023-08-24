@@ -18,7 +18,7 @@ Recording Date: 20230227
 	- Looking at past prices is one way of measuring underreaction "but looking the economic data itself that drives prices could be another way to measure it"
 	- Example: starting of 2022, there was a big divergence between price trend following and economic trend following signals in the equity space. Price trends wanted to be long equities however, rising inflationary and tigher monetary policy trends that had been forming throughout the last half of 2021. Economic trend signals were saying these economic conditions tend to be bad for equity markets (and bond markets, too).
 
-- [[A Half Century of Macro Momentum]] talks about economic trend following.
+- [[Research_Papers/Momentum_Trend_Following/A Half Century of Macro Momentum]] talks about economic trend following.
 	- "we are planning to put out a new piece in the next few months that specifically looks at economic trend following as a standalone strategy"
 
 - "In the futures space, we find that mean reversion and valuation metrics tend to be more useful when it comes to applying them in a relative value context"

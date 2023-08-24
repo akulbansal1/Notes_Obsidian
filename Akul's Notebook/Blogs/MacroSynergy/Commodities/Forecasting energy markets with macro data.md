@@ -1,6 +1,6 @@
 
 Published: 20201107
-Tags: #Commodities #Global_Macro #MacroSynergy 
+Tags: #Commodities #Global_Macro #MacroSynergy #Quant_Macro 
 [Link](obsidian://open?vault=Akul's%20Notebook&file=Library%2Fjournals%2Cmagazines%2FMacroSynergy%2FForecasting%20energy%20markets%20with%20macro%20data%20%7C%20Macrosynergy%20Research.pdf)
 
 - valid macro indicators: #idea_macro_trading  

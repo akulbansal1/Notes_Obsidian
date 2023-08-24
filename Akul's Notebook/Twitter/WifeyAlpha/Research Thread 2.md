@@ -95,7 +95,7 @@
 - [ ] The Myth of Diversification Reconsidered (2021) ([link](https://www.statestreet.com/content/dam/statestreet/documents/Articles/jpm-the-myth-of-diversification-reconsidered.pdf))
 - [ ] Tips Scorecard: Are tips Accomplishing What They Were Supposed to Accomplish? Can They be Improved? (2010) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1520569))
 - [ ] Do TIPS Work? (2009) ([link](https://www.cxoadvisory.com/economic-indicators/do-tips-work/))
-- [ ] Beyond Diversification by Sebastien Page (2020) ([notes](onenote:..\Books\Asset%20Allocation.one#Beyond%20Diversification&section-id={45A4A5C5-5E29-974C-84B8-8D22C57BB1C2}&page-id={F347796D-741B-EC48-860B-BD54A26E4832}&end&base-path=https://d.docs.live.net/6d94afbf51158917/Documents/Markets))
+- [x] [[Beyond Diversification]]
 - [ ] When Diversification Fails (2018) ([link](https://www.tandfonline.com/doi/full/10.2469/faj.v74.n3.3))
 - [ ] Diversifying Diversification: Downside Risk Management with Portfolio of Insurance Securities (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740222))
 - [ ] A Safe Haven Index (2020) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641589))

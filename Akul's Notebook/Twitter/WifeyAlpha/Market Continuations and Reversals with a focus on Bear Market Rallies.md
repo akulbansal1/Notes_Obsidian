@@ -3,7 +3,7 @@
 #WifeyAlpha 
 
 - [[Momentum and trend following thread]]
-- [ ] Understanding Momentum and Reversals (2020) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3610814))
+- [ ] [[Understanding Momentum and Reversals]]
 - [ ] Short Term Trading Models – Mean Reversion Trading Strategies and the Black Swan Events (2020) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3538891))
 	- "traders must also look for a general trend direction"
 - [ ] Dario Villani on managing a hedge fund with machine learning (2020) ([link](https://www.risk.net/cutting-edge/7661806/podcast-dario-villani-on-managing-a-hedge-fund-with-machine-learning)) ([notes](onenote:..\Podcasts\Miscellaneous.one#Dario%20Villani,%20Quantcast&section-id={012B5E8E-572D-42AE-B223-E532FBEDF89E}&page-id={7AC67F77-E4C7-49A8-ABE5-84D76B2CF793}&end&base-path=https://d.docs.live.net/6d94afbf51158917/Documents/Markets))

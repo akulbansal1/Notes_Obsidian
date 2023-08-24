@@ -1,5 +1,4 @@
 
-
 [Podcast Link](https://www.youtube.com/watch?v=NUzw5L196q8&ab_channel=MotilalOswalPrivateWealth)
 Recording Date: 20230625
 Tags: #multi-strat_practitioner 
