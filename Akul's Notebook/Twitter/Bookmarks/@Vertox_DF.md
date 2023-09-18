@@ -48,7 +48,7 @@
 6. <u>Portfolio Management</u>
 	- [ ] [[Advanced Portfolio Management]]
 	- [ ] [[Quantitative Portfolio Management]]
-	- [ ] [[Advances in Active Portfolio Management]]
+	- [ ] [[Books/Asset_Allocation,Portfolio_Management/Advances in Active Portfolio Management]]
 
 - "This should give you the basic knowledge of the topics you come across the most in quant.
 	- From here you can specialise even more. You mostly do this by reading, implementing and improving research papers and then working on coming up with your own ideas"

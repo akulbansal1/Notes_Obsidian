@@ -86,7 +86,36 @@ By: Marie Brière and Ariane Szafarz
 
 ## <u>Chapter 3: Peering Under the Hood of Rules-Based Portfolio Construction: The Impact of Security Selection and Weighting Decisions</u>
 By Jennifer Bender, Xialoe Sun and Taie Wang
-- 
+- Framework
+	- "weight of each security in the portfolio is written as:"![[Screenshot 2023-08-25 at 2.44.52 PM.png]] "where z is a multiplier applied to a starting set of security weights, e.g. market cap weight or equal weight"
+	- "Larger multipliers can be given to the stocks that deliver more exposure to the factor. Smaller multipliers can be given to the stocks that deliver negative exposure to the factor."
+- Security selection and weighting
+	- "the fewer stocks chosen, the higher the tracking error will be. [...] the higher the exposure to the targeted factor will generally also be, and if the return to the factor is positive, the higher the return will generally be."
+	- "as more stocks are screened out, the stock-specific component becomes and increasingly greater driver of returns and risk. At the same time, systematic sources of risk and return becomes less important, including the target factor itself."
+	- A way to quantify the aggressiveness of a weighting scheme: the MEM. "The MEM is the largest effective multiplier in the portfolio, i.e. the weight of the security in the portfolio with the largest weight (relative to its market cap weight), divided by its market cap weight."
+		- "increasing the MEM is associated with an increase in the tracking error, factor exposure and excess return"![[Screenshot 2023-08-29 at 4.53.47 PM.png]]
+	- "Figure 3.8 illustrates two types of portfolio as we successively remove securities from the universe. In one portfolio, we market cap weight the remaining securities and in the other, we apply a fixed moderate tilt toward value in the remaining securities."![[Screenshot 2023-08-25 at 3.12.57 PM.png]]
+- MEM: Maximum Effective Multiplier
+	- "As long as the starting weights are equal weights weights, the set of weights sums to 100% and the multipliers are linearly interpolated, then the MEM will always be 2." [[Factor Investing From Traditional to Alternative Risk Premia#^18bf8e|Appendix B]]
+	- ![[Screenshot 2023-09-12 at 12.01.48 PM.png]]
+	- There is a perfect linear relation between the multipliers and effective multipliers. This is basically multiplier of each stock (Z) divided by the sum(of multipliers multiplied by starting weights). Since sum(of multipliers multiplied by starting weights) is a constant, Z and E are linearly related. ![[Screenshot 2023-09-12 at 12.02.40 PM.png]]
+	- "One clear case [of E > Z] occurs when all multipliers in the vector Z are greater than 1. But for typical weighting schemes, we observe that Z is centered around 1. (...) For instance, if the starting weights are market cap weights, this relationship would hold if larger cap securities generally receive higher multipliers as in a factor such as quality"                           ![[Screenshot 2023-09-12 at 12.03.44 PM.png]]
+- Analysing the MEM for several popular cases
+	- 
+
+- Appendix B: Proof behind the limit to the MEM ^18bf8e
+	- conditions:
+		1. starting weights are equal weights;
+		2. starting weights sum to 100%;
+		3. the multipliers are linearly interpolated between the minimum and maximum multipliers.
+	- a sample of set of weights:![[Screenshot 2023-08-29 at 5.18.06 PM.png]]
+	- ...mathematical calculations for showing why the limit of MEM is, in fact, 2 under those conditions.
+	- "By extension, in order to increase the MEM of a factor index, it must be the case that we:"
+		1. use non-equal weights as a starting point;
+		2. use a nonlinear multiplier scheme;
+		3. use security selection such that we are not holding the entire universe.
+- Appendix C: Deriving a general relationship between the initial multipliers and effective multipliers
+	- 
 
 ## <u>Chapter 4: Diversify and Purify Factor Premium in Equity Markets</u>
 By Raul Leotte De Carvalho, Xiao Lu, François Soupe and Patrick Dugnolle

@@ -45,4 +45,4 @@ Praveen Kumar's background:
 	3. Execution
 		- time diversification: what Corey Hoffstein calls "tranching" or "rebalancing luck"
 
-- $100million current capacity of the fund.
+- $100M current capacity of the fund.

@@ -136,7 +136,118 @@ def binarysearch(L,k): # return 1 if k exist in L, return 0 otherwise
 
 # <u>Week 9</u>
 - To open a file:
+	```Python
+	f = open(filename, "r") # to open in Read-only format
+	f = open(filename, "w") # to open in Write-only format
+	```
+
+
+# <u>Week 10</u>
+- using *super().* to execute a parent function:
 ```Python
-f = open(filename, "r") # to open in Read-only format
-f = open(filename, "w") # to open in Write-only format
+class Person(): # Parent class
+	def __init__(self, name, age):
+		self.name = name
+		self.age = age
+
+	def display(self):
+		print(self.name, self.age)
+
+class Student(Person):
+	def __init__(self, name, age, marks):
+		super().__init__(name, age)
+		self.marks = marks
+
+	def display(self):
+		super().display()
+		print(self.marks)
+```
+
+
+# <u>Week 11</u>
+- Exception Handling:
+```Python
+# Dividing by Zero
+a = int(input())
+b = int(input())
+try:
+	f = open("abc.txt", "r")
+	c = a/b
+	print(c)
+except ZeroDivisionError: # this will run if the c=a/b throws "ZeroDivisionError"
+	print("Invalid input, divisor cannot be zero")
+finally: # this block runs regardless of whether we get an exception or not
+	f.close()
+```
+
+- How to create Exception conditions of your own:
+```Python
+# Throw an error if age is less than 25
+age = int(input())
+if age < 25:
+	raise Exception("You cannot consume alcohol")
+```
+- Custom example:
+```Python
+# {"name":age}
+friends = {"Preeti": 23,
+           "Sanyam": 27,
+           "Mayank": 34
+           }
+
+entry_in_club = []
+
+for p in friends.keys():
+    try:
+        if friends[p] < 25:
+            raise Exception("Underage")
+        
+        entry_in_club.append(p)
+    
+    except:
+        print(f"{p} is not allowed to drink")
+```
+
+- Iterator
+```Python
+mylist = ['apple', 'orange', 'pear', 'banana', 'watermelon']
+basket = iter(mylist) # basket is now an iterator of the list 'mylist'
+print(next(basket)) # will print the FIRST element
+print(next(basket)) # will print the SECOND element
+print(next(basket)) # will print the THIRD element
+```
+
+- Lambda function:
+```Python
+def add(x,y):
+	return x + y
+# add function can be written as a function without having to define the function
+add = lambda x,y: x + y
+division = lambda x,y: x/y
+```
+
+- Enumerate:
+```Python
+mylist = ['apple', 'orange', 'pear', 'banana', 'watermelon']
+
+for i,fruit in enumerate(mylist):
+	print(f"index of {fruit} in mylist is {i})
+```
+
+- Zip:
+```Python
+mylist = ['apple', 'orange', 'pear', 'banana', 'watermelon']
+size = [5, 6, 4, 6, 10] # length of each element in "mylist"
+print(list(zip(mylist, size))) # returns a list of tuples in format: (ith element mylist, ith element size)
+print(dict(zip(mylist, size))) # {"ith element of mylist": "ith element of size"}
+```
+
+- Map:
+```Python
+a = [10, 20, 30, 40, 50, 60]
+b = [5, 10, 15, 20, 25, 30]
+# we want a list c, where ith element of c = (ith element of a) - (ith element of b)
+subtract = lambda x,y: x - y
+
+c = list(map(subtract, a, b)) # c is a mapping function
 ```
