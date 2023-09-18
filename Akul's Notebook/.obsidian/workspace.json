@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Podcasts/Miscellaneous/Will England, Invest Like the Best.md",
+                "file": "Podcasts/Miscellaneous/Paul Mulvaney, Michael Covel.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factor Long-Short Project.md",
+                "file": "Notebook_Personal/Projects/Factor Long-Short Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,13 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zerodha LLP documents.md",
+                "file": "Notebook_Personal/Personal/Zerodha LLP documents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5995fba18fe68df7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notebook_Personal/Personal/Zerodha LLP documents.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -129,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.50390243530273,
-    "collapsed": true
+    "width": 215.50390243530273
   },
   "right": {
     "id": "fa0e6ffcf73d5e3b",
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Podcasts/Miscellaneous/Will England, Invest Like the Best.md",
+                "file": "Notebook_Personal/Personal/Zerodha LLP documents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Podcasts/Miscellaneous/Will England, Invest Like the Best.md",
+                "file": "Notebook_Personal/Personal/Zerodha LLP documents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Podcasts/Miscellaneous/Will England, Invest Like the Best.md"
+                "file": "Notebook_Personal/Personal/Zerodha LLP documents.md"
               }
             }
           },
@@ -217,15 +229,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1734323635f45852",
+  "active": "2adedcb865912155",
   "lastOpenFiles": [
-    "Books/Factor_Investing/Factor Investing From Traditional to Alternative Risk Premia.md",
-    "Books/Asset_Allocation,Portfolio_Management/Advances in Active Portfolio Management.md",
-    "Research_Papers/Factor_Investing/Will Your Factor Deliver.md",
-    "Factor Long-Short Project.md",
+    "Notebook_Personal/Projects",
+    "Notebook_Personal/Projects/Factor Long-Short Project.md",
+    "Notebook_Personal/Personal/Zerodha LLP documents.md",
+    "Podcasts/Flirting_With_Models/S6E4, Roni Isrealov.md",
+    "Research_Papers/Factor_Investing/Give Credit Where Credit is Due What Explains Corporate Bond Returns?.md",
+    "Podcasts/Flirting_With_Models/S5E5, David Sun.md",
+    "Podcasts/Flirting_With_Models/S6E8, Roberto Croce.md",
+    "Podcasts/Flirting_With_Models/S6E9, Asif Noor.md",
+    "Podcasts/Flirting_With_Models/S6E11, Doug Greenig.md",
     "Podcasts/Flirting_With_Models/S6E15, Gerald Rushton.md",
-    "Zerodha LLP documents.md",
+    "Podcasts/Flirting_With_Models/S4E15, Russel Korgaonkar.md",
+    "Research_Papers/Factor_Investing/Will Your Factor Deliver.md",
     "Podcasts/Miscellaneous/Paul Mulvaney, Michael Covel.md",
+    "Books/Asset_Allocation,Portfolio_Management/Advances in Active Portfolio Management.md",
+    "Podcasts/Miscellaneous/Will England, Invest Like the Best.md",
+    "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
+    "Podcasts/Miscellaneous/Eric Crittenden, Blockworks Macro.md",
+    "Podcasts/Miscellaneous/Cliff Asness, Masters in Business, Bloomberg.md",
+    "Books/Factor_Investing/Factor Investing From Traditional to Alternative Risk Premia.md",
     "Podcasts/Miscellaneous/Appendix/Screenshot 2023-09-18 at 11.51.11 AM.png",
     "Library/books_Personal/quant/Edward O. Thorp - A Man for All Markets_ From Las Vegas to Wall Street, How I Beat the Dealer and the Market-Random House (2017).epub",
     "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-14 at 7.03.52 PM.png",
@@ -236,18 +260,7 @@
     "Research_Papers/Factor_Investing/The Death of Diversification Has Been Greatly Exaggerated.md",
     "Research_Papers/Factor_Investing/Portfolio of Risk Premia A New Approach to Diversification.md",
     "Research_Papers/Factor_Investing/How Do Factor Premia Vary Over Time? A Century of Evidence.md",
-    "Research_Papers/Factor_Investing/Facts about Factors.md",
-    "Research_Papers/Factor_Investing/Factor-Based Allocation vs. Asset-Class-Based Allocation.md",
-    "Research_Papers/Factor_Investing/Alternative Risk Premia Primer.md",
     "Library/journals,magazines/MacroSynergy/Alternative Risk Premia Primer.pdf",
-    "Research_Papers/Factor_Investing/Betting Against Beta.md",
-    "Research_Papers/Factor_Investing/A Census of the Factor Zoo.md",
-    "Books/Factor_Investing/Expected Returns.md",
-    "Podcasts/Flirting_With_Models/S6E5, Macrocephalopod.md",
-    "Podcasts/Miscellaneous/Will England, Invest Like the Best.md",
-    "Podcasts/Flirting_With_Models/S6E11, Doug Greenig.md",
-    "Books/Asset_Allocation,Portfolio_Management/Advances in Active Portfolio Management 1.md",
-    "Books/Asset_Allocation,Portfolio_Management/Advanced Portfolio Management.md",
     "Library/books_Personal/quant/factor investing/Emmanuel Jurczenko (editor) - Factor Investing_ From Traditional to Alternative Risk Premia-ISTE Press, Elsevier (2017).pdf",
     "Books/Factor_Investing/Appendix/Screenshot 2023-09-12 at 12.03.44 PM.png",
     "Books/Factor_Investing/Appendix/Screenshot 2023-09-12 at 12.02.40 PM.png",

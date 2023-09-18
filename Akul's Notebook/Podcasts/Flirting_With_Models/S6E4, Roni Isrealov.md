@@ -14,3 +14,5 @@ Tags:
 
 - "I think it's difficult to allocate to a stand-alone Variance Risk Premia fund"
 	- "I think a good candidate for VRP allocations is as an individual sleeve of a multi-strat fund or as an overlay on other exposures"
+
+- wrote a paper on factor exposures of corporate bonds [[Give Credit Where Credit is Due What Explains Corporate Bond Returns?]]
