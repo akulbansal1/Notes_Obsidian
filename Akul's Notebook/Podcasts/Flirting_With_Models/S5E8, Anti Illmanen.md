@@ -45,5 +45,5 @@ Tags: #Factor_Investing #AQR
 	- "absolutely expect to see patterns like value, momentum, and low risk effects there".
 - Corey: "what would make you give up on style premia? Is there anything that would make you say the evidence is clear, either empirically or theoretically, that I need to walk away from these" #idea_factor_investing 
 	- "I'm not gonna lose my conviction with a few bad years".
-	- "the diversification argument, how you cane double you Sharpe ratios by combining a few styles if they are uncorrelated and double again if you apply them in many asset classes, so those thing they are strong rooted convictions".
+	- "the diversification argument, how you can double you Sharpe ratios by combining a few styles if they are uncorrelated and double again if you apply them in many asset classes, so those thing they are strong rooted convictions".
 	- "for me to give up on this […] would require a combination of economic rationale, why the time is up, and some compelling empirical evidence which could be in sort of embarrassingly long time of disappointing performance, or higher transaction costs eroding the opportunity, or maybe correlations becoming less friendly".

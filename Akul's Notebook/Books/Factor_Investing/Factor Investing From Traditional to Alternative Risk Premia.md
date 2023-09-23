@@ -125,7 +125,7 @@ By Raul Leotte De Carvalho, Xiao Lu, François Soupe and Patrick Dugnolle
 - Factors
 	- [[A Census of the Factor Zoo]] "list more than 200 factors that have been proposed in papers published in top academic journals to explain the cross-section of equity returns."
 		- "many of these factors can be grouped into styles since they capture similar types of stock exposure"
-	- #idea_factor_investing "the list of factors we used:"![[Screenshot 2023-08-16 at 3.40.24 PM.png]]
+	- #idea_factor_investing "the list of factors we used:"![[Screenshot 2023-08-16 at 3.40.24 PM.png]] ^42c917
 - Results #idea_factor_investing 
 	- "a z-score transformation is usually applied in the cross-section of factors to center and reduce them to a common scale." z-score of a stock for a factor is based on the distribution of all cross-sectional values for all the factors. "In practice, we use a more sophisticated, but robust robust version of this definition that relies on the cross-sectional median rather then average of factor [values] and removes the outliers from the distribution of z-scores."
 	- **portfolio construction**

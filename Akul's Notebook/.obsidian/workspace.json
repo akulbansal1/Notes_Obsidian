@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Podcasts/Miscellaneous/Paul Mulvaney, Michael Covel.md",
+                "file": "Research_Papers/Asset_Allocation/The Best of Strategies for the Worst of Times.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c55e3864295c203b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Podcasts/Flirting_With_Models/S6E7, Michele Aghassi.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,6 +38,18 @@
               "type": "markdown",
               "state": {
                 "file": "Books/Factor_Investing/Factor Investing From Traditional to Alternative Risk Premia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb6454ffb0832809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Asset_Allocation,Portfolio_Management/Beyond Diversification.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,38 +85,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notebook_Personal/Projects/Factor Long-Short Project.md",
+                "file": "Podcasts/Miscellaneous/Will England, Invest Like the Best.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4458a0fbf4d02f4f",
+            "id": "f2cab94bbc983e7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notebook_Personal/Personal/Zerodha LLP documents.md",
+                "file": "Podcasts/Miscellaneous/Porter Collins and Vincent Daniel, Capital Allocators.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5995fba18fe68df7",
+            "id": "cef61d2e0628aef4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notebook_Personal/Personal/Zerodha LLP documents.md",
+                "file": "Courses/Programming/IIT Modern Application Development, Theory 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1677ce97f8e4a98b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -142,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.50390243530273
+    "width": 215.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "fa0e6ffcf73d5e3b",
@@ -158,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook_Personal/Personal/Zerodha LLP documents.md",
+                "file": "Courses/Programming/IIT Modern Application Development, Theory 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook_Personal/Personal/Zerodha LLP documents.md",
+                "file": "Courses/Programming/IIT Modern Application Development, Theory 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook_Personal/Personal/Zerodha LLP documents.md"
+                "file": "Courses/Programming/IIT Modern Application Development, Theory 1.md"
               }
             }
           },
@@ -229,53 +266,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2adedcb865912155",
+  "active": "cef61d2e0628aef4",
   "lastOpenFiles": [
-    "Notebook_Personal/Projects",
+    "Courses/Programming/IITM Programming in Python.md",
+    "Courses/Programming/IIT Modern Application Development, Theory 1.md",
+    "Podcasts/Miscellaneous/Porter Collins and Vincent Daniel, Capital Allocators.md",
+    "Podcasts/Miscellaneous/Will England, Invest Like the Best.md",
+    "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
+    "Podcasts/Miscellaneous/Paul Mulvaney, Michael Covel.md",
+    "Podcasts/Miscellaneous/Eric Crittenden, Blockworks Macro.md",
+    "Podcasts/Miscellaneous/Cliff Asness, Masters in Business, Bloomberg.md",
     "Notebook_Personal/Projects/Factor Long-Short Project.md",
+    "Notebook_Personal/Important Links/Ideas.md",
+    "Books/Asset_Allocation,Portfolio_Management/Advances in Active Portfolio Management.md",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 6.05.31 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 5.58.24 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 5.51.30 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 2.53.29 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 2.46.30 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 2.45.58 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 2.45.16 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 2.40.19 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 2.39.07 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 2.31.44 PM.png",
+    "Podcasts/Flirting_With_Models/S6E7, Michele Aghassi.md",
+    "Research_Papers/Asset_Allocation/The Best of Strategies for the Worst of Times.md",
+    "Books/Factor_Investing/Factor Investing From Traditional to Alternative Risk Premia.md",
+    "Research_Papers/Options_Vol_trading/A New Option Momentum Compensation for Risk.md",
+    "Research_Papers/Factor_Investing/Will Your Factor Deliver.md",
+    "Notebook_Personal/Important Links/Idea Sourcing.md",
+    "Notebook_Personal/Important Links/General.md",
+    "Library/journals,magazines/Factor/Datasheet - Barra Global Total Market Equity Trading Model.pdf",
+    "Library/journals,magazines/Factor/Barra_handbook_US.pdf",
+    "Library/journals,magazines/Factor",
+    "Library/journals,magazines/untitled folder",
+    "Library/untitled folder",
+    "Books/Asset_Allocation,Portfolio_Management/Beyond Diversification.md",
+    "Research_Papers/Risk_Management/The Impact of Volatility Targeting.md",
+    "Podcasts/Flirting_With_Models/S5E8, Anti Illmanen.md",
     "Notebook_Personal/Personal/Zerodha LLP documents.md",
+    "Notebook_Personal/Projects",
     "Podcasts/Flirting_With_Models/S6E4, Roni Isrealov.md",
     "Research_Papers/Factor_Investing/Give Credit Where Credit is Due What Explains Corporate Bond Returns?.md",
     "Podcasts/Flirting_With_Models/S5E5, David Sun.md",
     "Podcasts/Flirting_With_Models/S6E8, Roberto Croce.md",
-    "Podcasts/Flirting_With_Models/S6E9, Asif Noor.md",
-    "Podcasts/Flirting_With_Models/S6E11, Doug Greenig.md",
-    "Podcasts/Flirting_With_Models/S6E15, Gerald Rushton.md",
-    "Podcasts/Flirting_With_Models/S4E15, Russel Korgaonkar.md",
-    "Research_Papers/Factor_Investing/Will Your Factor Deliver.md",
-    "Podcasts/Miscellaneous/Paul Mulvaney, Michael Covel.md",
-    "Books/Asset_Allocation,Portfolio_Management/Advances in Active Portfolio Management.md",
-    "Podcasts/Miscellaneous/Will England, Invest Like the Best.md",
-    "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
-    "Podcasts/Miscellaneous/Eric Crittenden, Blockworks Macro.md",
-    "Podcasts/Miscellaneous/Cliff Asness, Masters in Business, Bloomberg.md",
-    "Books/Factor_Investing/Factor Investing From Traditional to Alternative Risk Premia.md",
-    "Podcasts/Miscellaneous/Appendix/Screenshot 2023-09-18 at 11.51.11 AM.png",
     "Library/books_Personal/quant/Edward O. Thorp - A Man for All Markets_ From Las Vegas to Wall Street, How I Beat the Dealer and the Market-Random House (2017).epub",
-    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-14 at 7.03.52 PM.png",
-    "Research_Papers/Asset_Allocation/The Best of Strategies for the Worst of Times.md",
-    "Research_Papers/Factor_Investing/Value and Momentum Everywhere.md",
-    "Research_Papers/Factor_Investing/The Quant Cycle.md",
-    "Research_Papers/Factor_Investing/The Link Between Macro-economic Factors and Style Returns.md",
-    "Research_Papers/Factor_Investing/The Death of Diversification Has Been Greatly Exaggerated.md",
-    "Research_Papers/Factor_Investing/Portfolio of Risk Premia A New Approach to Diversification.md",
-    "Research_Papers/Factor_Investing/How Do Factor Premia Vary Over Time? A Century of Evidence.md",
     "Library/journals,magazines/MacroSynergy/Alternative Risk Premia Primer.pdf",
     "Library/books_Personal/quant/factor investing/Emmanuel Jurczenko (editor) - Factor Investing_ From Traditional to Alternative Risk Premia-ISTE Press, Elsevier (2017).pdf",
-    "Books/Factor_Investing/Appendix/Screenshot 2023-09-12 at 12.03.44 PM.png",
-    "Books/Factor_Investing/Appendix/Screenshot 2023-09-12 at 12.02.40 PM.png",
-    "Books/Factor_Investing/Appendix/Screenshot 2023-09-12 at 12.01.48 PM.png",
-    "Books/Factor_Investing/Appendix/Screenshot 2023-08-29 at 5.18.06 PM.png",
-    "Books/Factor_Investing/Appendix/Screenshot 2023-08-29 at 4.53.47 PM.png",
-    "Library/books_Personal/options/Colin Bennett - Trading Volatility, correlation, term structure, and skew 2014 (2014).pdf",
-    "Courses/Programming/IITM Programming in Python.pdf",
-    "Courses/Statistics/IITM Stats 2 Formula Sheet.pdf",
-    "Courses/Math/IITM Math 2 Formula Sheet.pdf",
-    "Books/Factor_Investing/Appendix/Screenshot 2023-08-25 at 3.12.57 PM.png",
-    "Books/Factor_Investing/Appendix/Screenshot 2023-08-25 at 2.44.52 PM.png",
-    "Books/Factor_Investing/Appendix/Screenshot 2023-08-25 at 2.44.26 PM.png",
-    "Courses/Math/Stats 2 Notes.pdf",
-    "Library/HangukQuant/2023_08/Alpha Report 08_16.pdf",
-    "Library/HangukQuant/2023_08/Alpha Report 08_07.pdf"
+    "Library/books_Personal/options/Colin Bennett - Trading Volatility, correlation, term structure, and skew 2014 (2014).pdf"
   ]
 }
