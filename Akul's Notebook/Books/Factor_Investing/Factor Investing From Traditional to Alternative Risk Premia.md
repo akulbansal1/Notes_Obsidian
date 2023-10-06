@@ -87,7 +87,7 @@ By: Marie Brière and Ariane Szafarz
 ## <u>Chapter 3: Peering Under the Hood of Rules-Based Portfolio Construction: The Impact of Security Selection and Weighting Decisions</u>
 By Jennifer Bender, Xialoe Sun and Taie Wang
 - Framework
-	- "weight of each security in the portfolio is written as:"![[Screenshot 2023-08-25 at 2.44.52 PM.png]] "where z is a multiplier applied to a starting set of security weights, e.g. market cap weight or equal weight"
+	- "weight of each security in the portfolio is written as:"![[Screenshot 2023-08-25 at 2.44.52 PM.png]] "where $z$ is a multiplier applied to a starting set of security weights, e.g. market cap weight or equal weight"
 	- "Larger multipliers can be given to the stocks that deliver more exposure to the factor. Smaller multipliers can be given to the stocks that deliver negative exposure to the factor."
 - Security selection and weighting
 	- "the fewer stocks chosen, the higher the tracking error will be. [...] the higher the exposure to the targeted factor will generally also be, and if the return to the factor is positive, the higher the return will generally be."
@@ -127,7 +127,7 @@ By Raul Leotte De Carvalho, Xiao Lu, François Soupe and Patrick Dugnolle
 		- "many of these factors can be grouped into styles since they capture similar types of stock exposure"
 	- #idea_factor_investing "the list of factors we used:"![[Screenshot 2023-08-16 at 3.40.24 PM.png]] ^42c917
 - Results #idea_factor_investing 
-	- "a z-score transformation is usually applied in the cross-section of factors to center and reduce them to a common scale." z-score of a stock for a factor is based on the distribution of all cross-sectional values for all the factors. "In practice, we use a more sophisticated, but robust robust version of this definition that relies on the cross-sectional median rather then average of factor [values] and removes the outliers from the distribution of z-scores."
+	- "a z-score transformation is usually applied in the cross-section of factors to center and reduce them to a common scale." z-score of a stock for a factor is based on the distribution of all cross-sectional values for all the factors. "In practice, we use a more sophisticated, but robust version of this definition that relies on the cross-sectional median rather then average of factor [values] and removes the outliers from the distribution of z-scores."
 	- **portfolio construction**
 		- simplest strategy: "ranking stocks by factor scores and then build a long-short portfolio every month, changing the allocation according to changes in those ranking. [...]  [retain a number of highest and lowest ranked stocks] Equal weighting or market capitalisation weighting of each of the retained stocks is common".
 		- slightly more sophisticated: weight of each stock proportional to the respective z-score.![[Screenshot 2023-08-16 at 4.34.03 PM.png]]

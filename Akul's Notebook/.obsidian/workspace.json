@@ -4,33 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "a367bdac02799b16",
+        "id": "38eb4e6f7fa79612",
         "type": "tabs",
+        "dimension": 47.944078947368425,
         "children": [
           {
-            "id": "1734323635f45852",
+            "id": "e55e8ad3077d63db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Research_Papers/Asset_Allocation/The Best of Strategies for the Worst of Times.md",
-                "mode": "source",
-                "source": false
+                "file": "Library/books_Personal/portfolio management/Ludwig B Chincarini, Daehwan Kim - Quantitative Equity Portfolio Management_ An Active Approach to Portfolio Construction and Management (McGraw-Hill Library of Investment and Finance)-McGraw-Hill Edu.pdf"
               }
             }
-          },
-          {
-            "id": "c55e3864295c203b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Podcasts/Flirting_With_Models/S6E7, Michele Aghassi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "a367bdac02799b16",
+        "type": "tabs",
+        "dimension": 52.05592105263158,
+        "children": [
           {
             "id": "767621bc8f3e9b75",
             "type": "leaf",
@@ -44,24 +38,24 @@
             }
           },
           {
-            "id": "fb6454ffb0832809",
+            "id": "7f5d90cac6db568d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Asset_Allocation,Portfolio_Management/Beyond Diversification.md",
+                "file": "Notebook_Personal/Projects/Factor Long-Short Project.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e1aeebe46828a35e",
+            "id": "7d424918fc5e2fff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Asset_Allocation,Portfolio_Management/Advances in Active Portfolio Management.md",
+                "file": "Books/Asset_Allocation,Portfolio_Management/Quantitative Equity Portfolio Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,42 +67,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research_Papers/Factor_Investing/Will Your Factor Deliver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d52d380854e37d83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Podcasts/Miscellaneous/Will England, Invest Like the Best.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2cab94bbc983e7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Podcasts/Miscellaneous/Porter Collins and Vincent Daniel, Capital Allocators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cef61d2e0628aef4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Courses/Programming/IIT Modern Application Development, Theory 1.md",
                 "mode": "source",
                 "source": false
@@ -116,19 +74,19 @@
             }
           },
           {
-            "id": "1677ce97f8e4a98b",
+            "id": "47cbaf3ed40ea1de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
+                "file": "Research_Papers/Factor_Investing/'Long' Factors, not 'Short' Change Long Only Factor Portfolios in India.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,12 +153,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Programming/IIT Modern Application Development, Theory 1.md",
+                "file": "Research_Papers/Factor_Investing/'Long' Factors, not 'Short' Change Long Only Factor Portfolios in India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
+                "showSearch": true,
+                "searchQuery": "adva",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Programming/IIT Modern Application Development, Theory 1.md",
+                "file": "Research_Papers/Factor_Investing/'Long' Factors, not 'Short' Change Long Only Factor Portfolios in India.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Programming/IIT Modern Application Development, Theory 1.md"
+                "file": "Research_Papers/Factor_Investing/'Long' Factors, not 'Short' Change Long Only Factor Portfolios in India.md"
               }
             }
           },
@@ -247,7 +205,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -266,53 +225,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cef61d2e0628aef4",
+  "active": "47cbaf3ed40ea1de",
   "lastOpenFiles": [
-    "Courses/Programming/IITM Programming in Python.md",
-    "Courses/Programming/IIT Modern Application Development, Theory 1.md",
-    "Podcasts/Miscellaneous/Porter Collins and Vincent Daniel, Capital Allocators.md",
-    "Podcasts/Miscellaneous/Will England, Invest Like the Best.md",
-    "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
-    "Podcasts/Miscellaneous/Paul Mulvaney, Michael Covel.md",
-    "Podcasts/Miscellaneous/Eric Crittenden, Blockworks Macro.md",
-    "Podcasts/Miscellaneous/Cliff Asness, Masters in Business, Bloomberg.md",
+    "Books/Asset_Allocation,Portfolio_Management/Quantitative Equity Portfolio Management.md",
+    "Library/books_Personal/portfolio management/Ludwig B Chincarini, Daehwan Kim - Quantitative Equity Portfolio Management_ An Active Approach to Portfolio Construction and Management (McGraw-Hill Library of Investment and Finance)-McGraw-Hill Edu.pdf",
+    "Library/books_Personal/Coding/python/Eryk Lewinson - Python for Finance Cookbook_ Over 50 recipes for applying modern Python libraries to quantitative finance to analyze data-Packt Publishing (2020).pdf",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-10-05 at 1.20.00 PM.png",
+    "Courses/Programming/IIT PDSA.md",
     "Notebook_Personal/Projects/Factor Long-Short Project.md",
-    "Notebook_Personal/Important Links/Ideas.md",
-    "Books/Asset_Allocation,Portfolio_Management/Advances in Active Portfolio Management.md",
-    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 6.05.31 PM.png",
-    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 5.58.24 PM.png",
-    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 5.51.30 PM.png",
-    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 2.53.29 PM.png",
-    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 2.46.30 PM.png",
-    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 2.45.58 PM.png",
-    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 2.45.16 PM.png",
-    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 2.40.19 PM.png",
-    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 2.39.07 PM.png",
-    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-09-22 at 2.31.44 PM.png",
-    "Podcasts/Flirting_With_Models/S6E7, Michele Aghassi.md",
-    "Research_Papers/Asset_Allocation/The Best of Strategies for the Worst of Times.md",
-    "Books/Factor_Investing/Factor Investing From Traditional to Alternative Risk Premia.md",
-    "Research_Papers/Options_Vol_trading/A New Option Momentum Compensation for Risk.md",
-    "Research_Papers/Factor_Investing/Will Your Factor Deliver.md",
-    "Notebook_Personal/Important Links/Idea Sourcing.md",
-    "Notebook_Personal/Important Links/General.md",
-    "Library/journals,magazines/Factor/Datasheet - Barra Global Total Market Equity Trading Model.pdf",
-    "Library/journals,magazines/Factor/Barra_handbook_US.pdf",
-    "Library/journals,magazines/Factor",
-    "Library/journals,magazines/untitled folder",
-    "Library/untitled folder",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix 4A, QEPM Factor Definition Tables.md",
+    "Courses/Programming/IIT Modern Application Development, Theory 1.md",
+    "Untitled",
+    "Podcasts/Miscellaneous/Dmitry Balyasny, Capital Allocators.md",
+    "Library/books_Personal/Econometrics/Wooldridge J.M - Introductory econometrics. A modern approach-Cengage Learning (2016).pdf",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-10-04 at 5.31.22 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-10-04 at 5.31.09 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-10-04 at 5.30.45 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-10-04 at 5.30.23 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-10-04 at 5.30.06 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-10-04 at 5.29.49 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-10-04 at 5.29.36 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-10-04 at 5.29.19 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2023-10-04 at 5.29.05 PM.png",
+    "Podcasts/Miscellaneous/Will England, Invest Like the Best.md",
+    "Research_Papers/Factor_Investing/'Long' Factors, not 'Short' Change Long Only Factor Portfolios in India.md",
+    "Courses/Programming/Appendix",
+    "Twitter/WifeyAlpha/Research Thread 1.md",
     "Books/Asset_Allocation,Portfolio_Management/Beyond Diversification.md",
-    "Research_Papers/Risk_Management/The Impact of Volatility Targeting.md",
-    "Podcasts/Flirting_With_Models/S5E8, Anti Illmanen.md",
-    "Notebook_Personal/Personal/Zerodha LLP documents.md",
-    "Notebook_Personal/Projects",
-    "Podcasts/Flirting_With_Models/S6E4, Roni Isrealov.md",
-    "Research_Papers/Factor_Investing/Give Credit Where Credit is Due What Explains Corporate Bond Returns?.md",
-    "Podcasts/Flirting_With_Models/S5E5, David Sun.md",
-    "Podcasts/Flirting_With_Models/S6E8, Roberto Croce.md",
-    "Library/books_Personal/quant/Edward O. Thorp - A Man for All Markets_ From Las Vegas to Wall Street, How I Beat the Dealer and the Market-Random House (2017).epub",
-    "Library/journals,magazines/MacroSynergy/Alternative Risk Premia Primer.pdf",
-    "Library/books_Personal/quant/factor investing/Emmanuel Jurczenko (editor) - Factor Investing_ From Traditional to Alternative Risk Premia-ISTE Press, Elsevier (2017).pdf",
-    "Library/books_Personal/options/Colin Bennett - Trading Volatility, correlation, term structure, and skew 2014 (2014).pdf"
+    "Books/Asset_Allocation,Portfolio_Management/Advanced Portfolio Management.md",
+    "Books/Asset_Allocation,Portfolio_Management/Advances in Active Portfolio Management.md",
+    "Books/Asset_Allocation,Portfolio_Management/Quantitative Portfolio Management.md",
+    "Twitter/WifeyAlpha/Momentum and trend following thread.md",
+    "Twitter/WifeyAlpha/Normie Starter Pack.md",
+    "Twitter/WifeyAlpha/Un-'threaded'.md",
+    "Twitter/WifeyAlpha/Trend, Momo & Reversals.md",
+    "Twitter/WifeyAlpha/Trend.md",
+    "Twitter/WifeyAlpha/Trading Videos.md",
+    "Twitter/WifeyAlpha/Research Thread 3.md",
+    "Twitter/WifeyAlpha/Research Thread 2.md",
+    "Courses/Programming/IITM Programming in Python.md",
+    "Books/Factor_Investing/Factor Investing From Traditional to Alternative Risk Premia.md",
+    "Research_Papers/Factor_Investing/Appendix",
+    "Blogs/AlphaArchitect/Factor_Investing/How a Multi-Factor Portfolio is Constructed Matters.md",
+    "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
+    "Blogs/AlphaArchitect/Factor_Investing",
+    "Library/journals,magazines/Factor/'Long' Factors, not 'Short' Change Long Only Factor Portfolios in India.pdf",
+    "Library/HangukQuant/2023_09/Alpha Report 09_20.pdf",
+    "Library/HangukQuant/2023_09/Alpha Report 09_10.pdf"
   ]
 }

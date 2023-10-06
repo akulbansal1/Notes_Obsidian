@@ -188,7 +188,7 @@
 - [ ] [Tail Risk Hedging Performance: Measuring What Counts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962552)
 - [ ] [Drawdown Measures: Are They All the Same?](https://www.cfr-cologne.de/download/workingpaper/cfr-19-04.pdf)
 - [ ] [Diversifying Diversification: Downside Risk Management with Portfolios of Insurance Securities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740222)
-- [ ] [An Introductino to Tail Risk Parity: Balancing Risk to Achieve Downside Protection](https://www.alliancebernstein.com/research-publications/cma-created-content/investments_us/instrumentation/anewversionofriskparity.pdf)
+- [ ] [An Introduction to Tail Risk Parity: Balancing Risk to Achieve Downside Protection](https://www.alliancebernstein.com/research-publications/cma-created-content/investments_us/instrumentation/anewversionofriskparity.pdf)
 - [ ] [Tail Connectedness Measuring the Network Connectedness of Equity Market During Crises](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4294472)
 - [ ] [An Unintended Consequence of Holding Dollar Assets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4012879)
 - [ ] Tail Risk and Asset Prices (2021) ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2318278))
