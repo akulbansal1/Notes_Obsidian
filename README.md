@@ -24,6 +24,7 @@ A lot of the notes in the folder will be empty, because either:
 
 2. Some texts are highlighted `like this. Are these typos?`
 	- No, they are not. Although backticks are used to denote `code` in Markdown, I use them to denote my thoughts. I have tried to keep the notes as unbiased as possible and so `texts that look like this` denote my annotations.
+	- Sometimes, though, they denote the a code block. It's quite clear by the context of the notes, I promise.
 
 3. There are a lot of links that I am unable to open. How do I open those?
 	- I save PDFs of most papers/books I read and insert a link to them in the notes file. Unfortunately, my "Library" is 5 Gigabytes therefore, difficult to upload on GitHub since GitHub doesn't allow single push of >2 Gb. Also, I don't want to get sued by Wiley!
