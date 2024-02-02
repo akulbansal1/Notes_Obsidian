@@ -1,0 +1,54 @@
+
+# <u>Week 1</u>
+- #### Intro
+	- `pwd` - present working directory
+	- `ls` - list folder/files in the directory
+	- `ps` - processes that are running in that particular shell
+	- `uname` - current OS
+	- Anatomy of command prompt![[Screenshot 2024-01-27 at 7.41.01 PM.png]]
+	- `ls -a` lists all the hidden files too
+	- `ls -l` lists in the long form
+	- `man -ls` is the manual page for the `ls` command
+	- File system hierarchy![[Screenshot 2024-01-27 at 7.45.39 PM.png]]
+	- files in the root folder ![[Screenshot 2024-01-27 at 7.51.48 PM.png]] [[Screenshot 2024-01-27 at 7.56.39 PM.png]]
+	- /bin: essential command binaries; sometimes a link to usr/bin
+	- /boot: boot loader
+	- /dev: every device that is connected to the computer is actually a file
+	- /etc: configuration of various services w.r.t. to the particular machine
+	- /lib: shared libraries and kernel modules
+	- /media: folders which are created when you insert a removable device into the computer
+	- /mnt: mount points; directories which are available to traverse the file system of the hardware
+	- /opt: application software packages are installed
+	- /run: data relevant for running processes
+	- /sbin: executables meant for system administration are kept; essential system libraries
+	- /srv: data for ftp or http services
+	- /tmp: temporary files
+	- /usr: secondary hierarchy![[Screenshot 2024-01-27 at 8.03.38 PM.png]]
+	- /var: variable data such as log files for various system services running in the background![[Screenshot 2024-01-27 at 8.04.41 PM.png]]
+
+- ### Simple commands
+	- `date`: to know date and time
+	- `cal`: calendar of a month
+	- `free`: memory statistics
+	- `groups`: groups to which user belongs
+	- `file`: what type of a file is it?
+	- Typical output of `ls -l` ![[Screenshot 2024-01-27 at 8.21.24 PM.png]]
+	- ##### File types![[Screenshot 2024-01-27 at 8.24.03 PM.png]]
+	- Permission string `r` for read ; `w` for write ; `x` for executable![[Screenshot 2024-01-27 at 8.27.20 PM.png]]Read(r):4 ; Write(w): 2 ; Execute(x): 1     ;   rw = 4+2=6   ;  wx = 2+1=3
+	- `mkdir` create a new folder 
+	- to change permissions
+		- `chmod g-r <directory_name>` for group read permission
+		- `chmod u-w <directory_name>` for user write permission
+		- `chmod o-x <directory_name>` for others executable permission
+		- `chmod 700 <directory_name>` will give read/write/executable for owner and no permission for group or others
+	- `touch <file_name>` to create a new file
+	- `cp <file_1> <file_2>` copies the first file into a new file by the name `file_2`
+	- `mv file_2 ..` will move `file_2` to one level up
+	- `mv file_2 file_2a` will change the name of `file_2` to `file_2a`
+	- `rm <file_name>` to remove the file
+	- `ls -li` will give the inode number
+	- `ls -lia` will give the inode number with every file (even hidden ones)
+	- `less <file_name>` lets you read a file page by page
+	- some important commands![[Screenshot 2024-01-27 at 11.06.02 PM.png]]
+
+# <u>Week 2</u>

@@ -33,7 +33,7 @@ Recording Date: 20220829
 	- Parallel to that, we started trading quant equity in 2001.
 	- In 2009, started making an approach to short term trading. Intraday data, statistical models with about a holding period of 1 week.
 	- In the early 2000s, even CAR had a 60% allocation to trend.
-	- Summer of 2014, "we actually made a strategic shift in the allocation within CAR to be roughly equally balanced between the four investment styles [i.e., trend-following, quant macro, quant equity market neutral, short term trading]"
+	- Summer of 2014, "we actually made a strategic shift in the allocation within CAR to be roughly equally balanced between the four investment styles", i.e., trend-following, quant macro, quant equity market neutral, short term trading.
 	- "In any given year, we typically add about 5-10 new models to portfolio and that's what gets us to 130 alphas and CAR today".
 - "we can take advantage of the embedded in these markets we trade to really create a portfolio that […] can actually get a lot of the upside benefits of trend but also have some of the benefits other approaches".
 	- "We wrote a paper a few years back on using the idea of embedded leverage"

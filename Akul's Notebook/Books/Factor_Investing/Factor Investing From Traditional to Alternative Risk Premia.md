@@ -57,6 +57,7 @@ By: Inigo Fraser-Jenkins
 		- Dynamic allocation: "one of the key aims of many fundamental fund managers"
 		- Stock picking: "many people who think they picking stocks are really just running a strategy, but those who can [pick stocks], will be able to charge a premium"
 
+
 ## <u>Chapter 2: Factor Investing: The Rocky Road from Long-Only to Long-Short</u>
 By: Marie Brière and Ariane Szafarz
 - "Factor investing exhibits a remarkable propensity to beat the market in terms of enhancing expected returns a given level of volatility"

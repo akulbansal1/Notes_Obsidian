@@ -14,7 +14,7 @@ Tags: #Factor_Investing #Indian_Factor_Investing
 
 ## <u>Literature Review</u>
 - "[Blitz et al. (2020)](https://www.tandfonline.com/doi/full/10.1080/0015198X.2020.1779560) found that most of the value-add from long-short factor strategies comes from the long legs"
-- "Israel et al. (2017) argue that '*skillful targeting and capturing of style premia may constitute a form of alpha on its own — one we refer to as craftsmanship alpha*'"
+- "[[Craftsmanship Alpha An Application to Style Investing|Israel et al. (2017)]] argue that '*skillful targeting and capturing of style premia may constitute a form of alpha on its own — one we refer to as craftsmanship alpha*'"
 - "Bender and Wang (2016) [[How a Multi-Factor Portfolio is Constructed Matters|related blog]] analyse this and find that interaction between individual factors impacts portfolio performance significantly. They conclude '*both intuition and empirical evidence favour bottom-up multi-factor portfolio construction*'"
 
 ## <u>Methodology and Data</u>
