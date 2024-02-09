@@ -107,21 +107,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c420d3704979195e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Programming/GitHub.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.50390243530273
+    "width": 215.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "fa0e6ffcf73d5e3b",
@@ -187,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Programming/GitHub.md",
+                "file": "Notebook_Personal/Projects/Factor Long-Short Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Programming/GitHub.md",
+                "file": "Notebook_Personal/Projects/Factor Long-Short Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Programming/GitHub.md"
+                "file": "Notebook_Personal/Projects/Factor Long-Short Project.md"
               }
             }
           },
@@ -264,20 +253,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "6b888e7b8e427e05",
+        "id": "fe0c2972b8d345e9",
         "type": "window",
         "children": [
           {
-            "id": "a0ab5d8c0ba315bf",
+            "id": "c84b12f6936f3e26",
             "type": "tabs",
             "children": [
               {
-                "id": "97aff722e0d90a11",
+                "id": "56ca7a20349cc39f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Podcasts/RCM_Alternatives/Jae-Min Hyun.md",
+                    "file": "Courses/Programming/IITM MAD, Theory 2.md",
                     "mode": "source",
                     "source": false
                   }
@@ -287,17 +276,21 @@
           }
         ],
         "direction": "vertical",
-        "x": 564,
+        "x": 448,
         "y": 38,
-        "width": 948,
-        "height": 879,
+        "width": 1064,
+        "height": 871,
         "maximize": false,
         "zoom": 1
       }
     ]
   },
-  "active": "c420d3704979195e",
+  "active": "fcae95c2f835ff4f",
   "lastOpenFiles": [
+    "Courses/Programming/IITM MAD, Theory 2.md",
+    "Notebook_Personal/Projects/Factor Long-Short Project.md",
+    "Courses/Programming/GitHub.md",
+    "Podcasts/RCM_Alternatives/Jae-Min Hyun.md",
     "Templates/Blogpost.md",
     "Twitter/WifeyAlpha/Macro Indicators.md",
     "Twitter/WifeyAlpha/Normie Starter Pack.md",
@@ -305,7 +298,6 @@
     "Twitter/WifeyAlpha/Collection of Threads for learning.md",
     "Twitter/Bookmarks/@quant_arb.md",
     "Twitter/Bookmarks/@Vertox_DF.md",
-    "Podcasts/RCM_Alternatives/Jae-Min Hyun.md",
     "Podcasts/RCM_Alternatives/Appendix/Screenshot 2024-01-31 at 1.58.05 PM.png",
     "Podcasts/RCM_Alternatives/Appendix/Screenshot 2024-01-31 at 1.57.37 PM.png",
     "Podcasts/RCM_Alternatives/Appendix",
@@ -323,12 +315,9 @@
     "Twitter/Volswan/Resources for beginners interested in options, vol trading.md",
     "Twitter/Volswan/How to hedge your tails efficiently.md",
     "Twitter/Volswan/How to build a successful VRP harvesting strategy.md",
-    "Notebook_Personal/Projects/Factor Long-Short Project.md",
-    "Courses/Programming/IITM MAD, Theory 2.md",
     "Books/Asset_Allocation,Portfolio_Management/Quantitative Equity Portfolio Management.md",
     "Books/Factor_Investing/Investing Amid Low Expected Returns.md",
     "Library/books_Personal/quant/factor investing/Antti Ilmanen - Expected Returns_ An Investor's Guide to Harvesting Market Rewards-Wiley (2011).pdf",
-    "Courses/Programming/IITM System Commands.md",
     "Courses/Programming/Appendix/Screenshot 2024-01-27 at 11.06.02 PM.png",
     "Courses/Programming/Appendix/Screenshot 2024-01-27 at 8.27.20 PM.png",
     "Courses/Programming/Appendix/Screenshot 2024-01-27 at 8.24.03 PM.png",

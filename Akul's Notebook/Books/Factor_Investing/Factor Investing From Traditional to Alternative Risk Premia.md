@@ -2,7 +2,7 @@
 [Book Link](obsidian://open?vault=Akul's%20Notebook&file=Library%2Fbooks_Personal%2Fquant%2Ffactor%20investing%2FEmmanuel%20Jurczenko%20(editor)%20-%20Factor%20Investing_%20From%20Traditional%20to%20Alternative%20Risk%20Premia-ISTE%20Press%2C%20Elsevier%20(2017).pdf)
 Author(s): multiple, different for each chapter
 Publish Year: 2017
-Tags: #Factor_Investing 
+Tags: #Factor_Investing #Quant 
 
 ## <u>Introduction</u>
 - "Factors are *traditional*: they results from economic rationales of a reward for bearing risk, a structural impediment, or investors' behaviour biases. [[Asset Management A Systematic Approach to Factor Investing]]"

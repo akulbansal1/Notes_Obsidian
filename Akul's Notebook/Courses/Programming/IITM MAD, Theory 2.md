@@ -347,4 +347,317 @@
 	y.length = 10; // can change the length of an array without inserting elements
 	console.log(`${typeof(y)}: ${y} with length = ${y.length}`);
 	```
-- 
+
+- ### Iterations
+	```js  
+	// Iteration
+	let x = [1,'b',a=> a+1];
+	x.length = 5;
+	for (let i=0; i<x.length;i++) {
+		console.log(`x: ${x[i]} of type ${typeof(x[i])}`); 
+	} // will print all 5 elements, including the 2 undefined elements
+	for (const i in x) {
+		console.log(`x: ${x[i]} of type ${typeof(x[i])}`); 
+	} // will ignore the undefined elements and only print 3 elements
+	for (const i of x) {
+		console.log(`x: ${i} of type ${typeof(i)}`); 
+	} // will print all 5 elements, including the 2 undefined elements
+	
+	let x = {'a':1, 'b':'alpha', 'c':[3,2,1]};
+	for (const i in x) {
+		console.log(x[i]);
+	} // prints all the values because the key index values are iterable
+	for (const i of x) {
+		console.log(i);
+	} // fails because the object x is not iterable
+	for (const [k,v] of Object.entries(x)) {
+		console.log(v)
+	} // Object.entries generates a list of [key,value] pairs
+	
+	
+	// Create arrays with holes
+	let x = new Array(5);
+	x[1] = 10;
+	x[3] = 'hello';
+	for (const [k,v] of x.entries()) {
+		console.log(`Index ${k}, value: ${v} of type ${typeof(v)}`);
+	}
+	for (const i in x) {
+		console.log(`Index ${i}, value: ${x[i]} of type ${typeof(x[i])}`);
+	}
+	
+	// Spreading 
+	let x = [1,2,3];
+	let y = [0,...x, 4]; // ... is a spreading operator
+	console.log(x); // > [1, 2, 3]
+	console.log(y); // > [0, 1, 2, 3, 4]
+	
+	
+	// Iteration and Transformation
+	let x = [1,-2,3,-4,5,6,-7,8];
+	let y = x.find(t => t<0);
+	console.log(x); // > [1, -2, 3, -4, 5, 6, -7, 8]
+	console.log(y); // > -2  (returns the first value that it found)
+	console.log(x.filter(t => t<0)); // [ -2, -4, -7 ]
+	console.log(x.map(t => t>0 ? '+' : '-')); // > [ '+' , '-' , '+' , '-' , '+' , '+' , '-' , '+' ]
+	console.log(x.reduce((a,i) => a+i,0)); // > 10   (returns the cumulative output, takes 0 first and add repeatedly)
+	console.log(x.reduce((a,i) => a*i,1)); // > -40320
+	console.log(x.sort()); // > [-2, -4, -7, 1, 3, 5, 6, 8]
+	console.log(x.sort((a,b) => a-b)); // > [-7, -4, -2, 1, 3, 5, 6, 8] (when given a comparison func)
+	
+	
+	// Destructuring
+	let x = [1,2,3];
+	let [a,b] = x;
+	console.log(a); // > 1
+	console.log(b); // > 2
+	
+	// Object destructuring
+	const person = {
+		firstName: 'Albert',
+		lastName: 'Einstein',
+		age: 25,
+		city: 'Bombay'
+	};
+	const {firstName: fn, city: c} = person;
+	console.log(person);
+	console.log(fn); // > Albert
+	console.log(c); // > Bombay
+	const {lastName, age} = person;
+	console.log(lastName); // > Einstein
+	console.log(age); // > 25
+	
+	const {firstName , ...rem} = person;
+	console.log(firstName); // > Albert
+	console.log(rem); // > {lastName: 'Einstein' , age: 25 , city: 'Bombay'}
+	```
+
+- #### Modules
+	- Collect related functions, objects, values together
+	- "export" values for use by other scripts
+	- "import" values from other scripts, packages
+	- ##### Ways of implementing
+		- script — direct include script inside browser
+		- CommonJS — introduced for server side modules
+			- synchronous load: server blocks till module loaded (makes the user experience bad)
+		- AMD — asynchronous module deifinition
+			- browser side modules
+		- ES6 Modules
+			- both servers and browsers
+			- Asynchronous load
+	- Node Package Manager: npm
+		- Node:
+			- command line interface for JS
+			- for backend code
+	- *look at the 'module' code files in `Week\ 2/` for example code. They need to be run by creating a local server (run this command from terminal `python -m http.server 8000` when in the folder `Week\ 2/` and then go to http://localhost:8000/index.html )*
+
+- ### Class
+	- Better syntax — still prototype based inheritance
+	- constructor must explicitly call super()
+- ### Objects
+	- Everything is an object
+	- Object literals — used to assign values to names parameters in the object
+	- Object methods — used to assign function that can be called on object
+	- Special variable `this` (works like `self` in Python)
+	- Function methods — call() , apply() , bind()
+	- `Object.keys()` , `Object.values()` , `Object.entries()` — use as dictionary
+	- ##### Prototype based inheritance
+		- Object can have a "prototype"
+		- much like 'inheriting' a class in Python
+		- Automatically get properties of parent
+		- Single inheritance track — always one direct parent relationship, unlike other programming languages
+	```js
+	let xx = {'a':5 , 'b':'hello'};
+	console.log(xx);
+	xx.add = function(x,y){ 
+		return x+y;
+	} // method of xx
+	console.log(`xx is of type ${typeof(xx)}`);
+	console.log(`xx.add is of type ${typeof(xx.add)}`);
+	console.log(`Evaluate the function xx.add(3,4) gives ${xx.add(3,4)}`);
+	
+	xx.f = function(x) {
+		return this.a + x;
+	}
+	console.log(xx.f(10));
+	
+	// Copying
+	let x = {'a':5 , 'b':2};
+	let y = x;
+	console.log(x);
+	console.log(y);
+	x.a = 500;
+	console.log(x);
+	console.log(y); // y will also change with x because y is just a pointer to x
+	
+	let z = {...x};
+	x.a = 3000;
+	console.log(x);
+	console.log(y); 
+	console.log(z); // z will not change with x because z was made as a copy of x
+	
+	
+	// get and set properties
+	let user = {
+		first: 'Alberto',
+		last: 'Pinto',
+		
+		get full() {
+			return this.first + ' ' + this.last;
+		},
+		
+		set full(f) {
+			const parts = f.split(' ');
+			this.first = parts[0];
+			this.last = parts[1];
+		}
+	}
+	console.log(user.full);
+	user.full = 'Gabbar Singh';
+	console.log(`Now ${user.first} and ${user.last}`);
+	
+	
+	// Function Methods
+	let xx = {'a':5,
+			 'b':'hello',
+			 'add': function (x,y) {
+					 return x+y+this.a;
+				 }
+			 }
+	console.log(xx.add(3,4)); // > 12
+	let z = xx.add;
+	// call() operator
+	console.log(z.call("",3,4)); // z.call takes an additional parameter "" gives the context    Returns NaN
+	console.log(z.call(xx,3,4)); // > 12
+	// apply() — spreads the arguments — extra ignored
+	console.log(z.apply(xx,[1,2,3,4])); // will take 1 + 2 + {xx.a}  and return 8
+	// bind() — closure
+	let z2 = z.bind(xx,2); // one of the parameters of z is binded to '2'
+	console.log(z2(3)); // > 10
+	
+	
+	// Prototypes
+	const x = {a:1 , inc: function() {this.a++}};
+	console.log(x);
+	const y = {__proto__:x , b:2};
+	console.log(y);
+	console.log(y.a);
+	y.inc();
+	console.log(x.a);
+	console.log(y.a);
+	
+	
+	// Classes
+	class Animal {
+		constructor(name) {
+			this.name = name;
+		}
+		describe() {
+			return `${this.name} makes a sound ${this.sound}`
+		}
+	}
+	let x = new Animal('Jerry');
+	console.log(x.describe()); // > Jerry makes a sound undefined
+	
+	class Dog extends Animal {
+		constructor(name) {
+			super(name);
+			this.sound = 'woof';
+		}
+	}
+	let d = new Dog('Messi');
+	console.log(d.describe());
+	```
+
+- ### Asynchrony
+	- #### Function calls
+		- Function is like a 'branch' but must save present state so we can return
+		- Call stack
+			- Keep track of chain of functions called up to now
+			- Pop back up out of stack
+	- #### Event Loop and Task Queue
+		- Task Queue: Tasks are pushed into queue by events (clicks, input, network, etc.)
+		- Event Loop: Wait for call stack to become empty; Pop take out of queue and push it into stack, stack, start executing
+		- Run-to-completion: Guarantee from JavaScript runtime; Each task will run to completion before next task is invoked
+	- ##### Callback
+		- Long running code: will block execution till it finishes
+		- Push long running code into a separate "thread" or "task"
+			- Let main code proceed
+			- Call back when completed
+
+- ### JSON
+	- Object notations — for serialisation, communication
+	- Notation is frozen — means even problem cases will remain
+	- usage through JSON API
+	- #### JSON API
+		- Global namespace object JSON
+		- Main methods: `JSON.stringify()` , `JSON.parse()`
+```js
+// JSON API
+class Animal {
+	constructor(name) {
+		this.name = name;
+	}
+	describe() {
+		return `${this.name} makes a sound ${this.sound}`
+	}
+}
+
+class Cat extends Animal {
+	constructor(name) {
+		super(name);
+		this.sound = "Meow";
+	}
+	static fromJson(o) {
+		c = new Cat(o.name);
+		c.sound = o.sound;
+		return c;
+	} // created a new Cat using the object passed into it
+}
+let c = new Cat('Tom');
+console.log(c.describe());
+
+let p = JSON.stringify(c);
+console.log(c); // > Cat { name: 'Tom', sound: 'Meow' }
+console.log(p); // > {"name":"Tom","sound":"Meow"}
+
+let cc = Cat.fromJson(JSON.parse(p));
+console.log(JSON.parse(p)); // > { name: 'Tom', sound: 'Meow' }
+console.log(cc.describe()); // > Tom makes a sound Meow
+```
+
+
+# <u>Week 3</u>
+- Frontend
+	- User Interface (UI) and User Experience (UX)
+	- Requirements
+		- avoid complex logic — logic to be placed in backend
+		- No data storage; risk of data loss
+		- Work with stateless nature of HTTP
+	- Desirable
+		- Aesthetically pleasing
+		- Responsive – no lag/latency
+		- Adaptive to different types/sizes of screens
+	- Programming styles
+		- Imperative: sequence of actions to achieve final result ; draw boxes for navigation, main text, fill in text; functions for each step, composition of functions
+		- Declarative: specify desired result; compiler / interpreter knows how to achieve result; function integration automated
+- #### State
+	- Internal details of the system: memory
+	- Given a 'system state', the system should always respond the same way to input
+	- <u>System state</u>
+		- Complete database of amazon.in, flipkart.com : stocks of available items, prices, logged in/registered users
+		- All new articles ever published on hindu.com
+		- Typically huge, but comprehensive
+		- Completely independent of the user interface
+	- <u>Application state</u>
+		- System as seen by an individual user/session
+		- Includes interactivity, session management
+		- E.g.: shopping cart, theme, dashboard displays, followed news items
+	- <u>UI State</u> (Ephemeral State)
+		- part of application actually seen/interacted with
+		- Ephemeral — 'lasting for a very short time'
+		- E.g.: Loading icons, currently selected tab in multi-tab document
+	- Application and UI management
+		- HTTP is stateless
+		- Client maintains state – sends requests to server for specific items
+		- Server maintains state – only specific requests allowed to client
