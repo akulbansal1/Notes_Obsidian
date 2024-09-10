@@ -6,50 +6,27 @@
       {
         "id": "38eb4e6f7fa79612",
         "type": "tabs",
-        "dimension": 50.6578947368421,
+        "dimension": 48.35526315789473,
         "children": [
           {
-            "id": "0e1d95cf0429bf6a",
+            "id": "f8429454a513d707",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Library/books_Personal/quant/factor investing/Antti Ilmanen - Investing Amid Low Expected Returns_ Making the Most When Markets Offer the Least-Wiley (2022).pdf"
-              }
-            }
-          },
-          {
-            "id": "52948715bfb4772f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Library/books_Personal/quant/factor investing/Antti Ilmanen - Expected Returns_ An Investor's Guide to Harvesting Market Rewards-Wiley (2011).pdf"
+                "file": "Library/books_Personal/portfolio management/(Chapman and Hall_CRC Financial Mathematics Series) Edward E. Qian, Ronald H. Hua, Eric H. Sorensen - Quantitative Equity Portfolio Management_ Modern Techniques and Applications-Chapman and Hall_CRC .pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a367bdac02799b16",
         "type": "tabs",
-        "dimension": 49.34210526315789,
+        "dimension": 51.64473684210527,
         "children": [
           {
-            "id": "767621bc8f3e9b75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Factor_Investing/Factor Investing From Traditional to Alternative Risk Premia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d03d9aa77dff8f4",
+            "id": "4895a6efb9a16b43",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,57 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "84c87403aaa9ef89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Factor_Investing/Investing Amid Low Expected Returns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc5f61144df1252c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research_Papers/Factor_Investing/Betting Against Beta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcae95c2f835ff4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notebook_Personal/Projects/Factor Long-Short Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6989c19573bb7c2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factors Added.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook_Personal/Projects/Factor Long-Short Project.md",
+                "file": "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook_Personal/Projects/Factor Long-Short Project.md",
+                "file": "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook_Personal/Projects/Factor Long-Short Project.md"
+                "file": "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management.md"
               }
             }
           },
@@ -253,20 +181,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "fe0c2972b8d345e9",
+        "id": "5ab3937e55688bf2",
         "type": "window",
         "children": [
           {
-            "id": "c84b12f6936f3e26",
+            "id": "032284f233c18f49",
             "type": "tabs",
             "children": [
               {
-                "id": "56ca7a20349cc39f",
+                "id": "9cd2eaf7d8398017",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Courses/Programming/IITM MAD, Theory 2.md",
+                    "file": "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management.md",
                     "mode": "source",
                     "source": false
                   }
@@ -276,62 +204,62 @@
           }
         ],
         "direction": "vertical",
-        "x": 448,
-        "y": 38,
-        "width": 1064,
-        "height": 871,
+        "x": 0,
+        "y": 37,
+        "width": 1512,
+        "height": 945,
         "maximize": false,
         "zoom": 1
       }
     ]
   },
-  "active": "fcae95c2f835ff4f",
+  "active": "9cd2eaf7d8398017",
   "lastOpenFiles": [
-    "Courses/Programming/IITM MAD, Theory 2.md",
-    "Notebook_Personal/Projects/Factor Long-Short Project.md",
-    "Courses/Programming/GitHub.md",
-    "Podcasts/RCM_Alternatives/Jae-Min Hyun.md",
-    "Templates/Blogpost.md",
-    "Twitter/WifeyAlpha/Macro Indicators.md",
-    "Twitter/WifeyAlpha/Normie Starter Pack.md",
-    "Twitter/WifeyAlpha/Research Thread 1.md",
-    "Twitter/WifeyAlpha/Collection of Threads for learning.md",
-    "Twitter/Bookmarks/@quant_arb.md",
-    "Twitter/Bookmarks/@Vertox_DF.md",
-    "Podcasts/RCM_Alternatives/Appendix/Screenshot 2024-01-31 at 1.58.05 PM.png",
-    "Podcasts/RCM_Alternatives/Appendix/Screenshot 2024-01-31 at 1.57.37 PM.png",
-    "Podcasts/RCM_Alternatives/Appendix",
-    "Podcasts/Miscellaneous/Capital Allocators, Dmitry Balyasny.md",
-    "Podcasts/Miscellaneous/Capital Allocators, Porter Collins and Vincent Daniel.md",
-    "Podcasts/Miscellaneous/Odd Lots, Kris Sidial.md",
-    "Podcasts/Miscellaneous/Eric Crittenden, Blockworks Macro.md",
-    "Podcasts/Miscellaneous/Cliff Asness, Masters in Business, Bloomberg.md",
-    "Podcasts/Miscellaneous/Paul Mulvaney, Michael Covel.md",
-    "Podcasts/Miscellaneous/Will England, Invest Like the Best.md",
-    "Podcasts/Miscellaneous/Praveen Kumar, AlphaGrep.md",
-    "Podcasts/RCM_Alternatives",
-    "Twitter/Quantseeker/Paper recommendations.md",
-    "Twitter/Quantseeker/Big Data Asset Pricing.md",
-    "Twitter/Volswan/Resources for beginners interested in options, vol trading.md",
-    "Twitter/Volswan/How to hedge your tails efficiently.md",
-    "Twitter/Volswan/How to build a successful VRP harvesting strategy.md",
+    "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management Appendix/Chapter 3.pdf",
     "Books/Asset_Allocation,Portfolio_Management/Quantitative Equity Portfolio Management.md",
-    "Books/Factor_Investing/Investing Amid Low Expected Returns.md",
-    "Library/books_Personal/quant/factor investing/Antti Ilmanen - Expected Returns_ An Investor's Guide to Harvesting Market Rewards-Wiley (2011).pdf",
-    "Courses/Programming/Appendix/Screenshot 2024-01-27 at 11.06.02 PM.png",
-    "Courses/Programming/Appendix/Screenshot 2024-01-27 at 8.27.20 PM.png",
-    "Courses/Programming/Appendix/Screenshot 2024-01-27 at 8.24.03 PM.png",
-    "Courses/Programming/Appendix/Screenshot 2024-01-27 at 8.21.24 PM.png",
-    "Courses/Programming/Appendix/Screenshot 2024-01-27 at 8.04.41 PM.png",
-    "Courses/Programming/Appendix/Screenshot 2024-01-27 at 8.03.38 PM.png",
-    "Courses/Programming/Appendix/Screenshot 2024-01-27 at 7.56.39 PM.png",
-    "Courses/Programming/Appendix/Screenshot 2024-01-27 at 7.51.48 PM.png",
-    "Library/books_Personal/quant/factor investing/Antti Ilmanen - Investing Amid Low Expected Returns_ Making the Most When Markets Offer the Least-Wiley (2022).pdf",
-    "Research_Papers/Pairs_Trading,Stat_Arb",
-    "Research_Papers/AMC_Industry",
-    "Library/journals,magazines/Factor/Net_Buybacks_and_the_Seven_Dwarfs.pdf",
-    "Library/books_Personal/quant/factor investing/Appendix",
-    "Library/journals,magazines/Factor/Unconfirmed 332637.crdownload",
-    "Library/books_Personal/portfolio management/Ludwig B Chincarini, Daehwan Kim - Quantitative Equity Portfolio Management_ An Active Approach to Portfolio Construction and Management (McGraw-Hill Library of Investment and Finance)-McGraw-Hill Edu.pdf"
+    "Library/books_Personal/portfolio management/(Chapman and Hall_CRC Financial Mathematics Series) Edward E. Qian, Ronald H. Hua, Eric H. Sorensen - Quantitative Equity Portfolio Management_ Modern Techniques and Applications-Chapman and Hall_CRC .pdf",
+    "Library/books_Personal/portfolio management/Advanced Portfolio Management_ A Quant′s Guide for Fundamental Investors-Wiley (2021).pdf",
+    "Library/books_Personal/quant/Statistics/Trevor Hastie,  Robert Tibshirani, Jerome Friedman - The Elements of  Statistical Learning_  Data Mining, Inference, and Prediction.-Springer (2013).pdf",
+    "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management.md",
+    "Notebook_Personal/Personal/Shreeya.md",
+    "Courses/Programming/IITM JAVA.md",
+    "Books/Asset_Allocation,Portfolio_Management/Quantitative Portfolio Management.md",
+    "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management Appendix/Chapter 2.pdf",
+    "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management Appendix",
+    "Books/Asset_Allocation,Portfolio_Management/untitled folder",
+    "Books/Asset_Allocation,Portfolio_Management/Quantitative Equity Portfolio Management.1.md",
+    "Library/books_Personal/portfolio management/Ludwig B Chincarini, Daehwan Kim - Quantitative Equity Portfolio Management_ An Active Approach to Portfolio Construction and Management (McGraw-Hill Library of Investment and Finance)-McGraw-Hill Edu.pdf",
+    "Books/Asset_Allocation,Portfolio_Management/Advances in Active Portfolio Management.md",
+    "Books/Asset_Allocation,Portfolio_Management/Smart Portfolios.md",
+    "Library/books_Personal/portfolio management/Richard Grinold, Ronald Kahn - Active Portfolio Management_ A Quantitative Approach for Producing Superior Returns and Controlling Risk-McGraw-Hill (1999).epub",
+    "Library/books_Personal/quant/Richard Grinold, Ronald Kahn - Active Portfolio Management_ A Quantitative Approach for Producing Superior Returns and Controlling Risk-McGraw-Hill (1999).pdf",
+    "Books/Asset_Allocation,Portfolio_Management/Advanced Portfolio Management.md",
+    "Books/Factor_Investing/Factor Investing From Traditional to Alternative Risk Premia.md",
+    "Courses/Programming/Appendix/Screenshot 2024-08-14 at 11.26.52 PM.png",
+    "Library/HangukQuant/2023_08/Notes on Asynchronous Python Programming/Screenshot 2023-09-25 at 6.33.04 PM.png",
+    "Library/HangukQuant/2023_08/Notes on Asynchronous Python Programming/Screenshot 2023-09-25 at 6.33.15 PM.png",
+    "Library/HangukQuant/2023_08/Notes on Asynchronous Python Programming/Market_Notes_743_757.pdf",
+    "Courses/Programming/Appendix/Screenshot 2024-08-14 at 10.54.14 PM.png",
+    "Courses/Programming/Appendix/Screenshot 2024-08-14 at 10.51.30 PM.png",
+    "Courses/Programming/Appendix/Screenshot 2024-08-14 at 10.47.08 PM.png",
+    "Books/Statistics/The Elements of Statistical Learning.md",
+    "Books/Statistics/An Introduction to Statistical Learning.md",
+    "Courses/Programming/IITM MAD, Theory 2.md",
+    "Blogs/Quantymacro/Book Recommendations.md",
+    "Notebook_Personal/Personal/Potential Investors.md",
+    "Courses/Programming/Appendix/Screenshot 2024-04-12 at 7.28.24 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2024-04-12 at 1.33.29 PM.png",
+    "Notebook_Personal/Personal/Potential clients.md",
+    "Notebook_Personal/Miscellaneous/Tbilisi Trip.md",
+    "Books/Statistics/Data-Driven Science and Engineering.md",
+    "Second Leg Down.md",
+    "Options Futures & Other Derivatives.md",
+    "Books/Global_Macro/Efficiently Inefficient.md",
+    "Courses/Programming/IITM System Commands.md",
+    "Research_Papers/Factor_Investing/Facts about Factors.md",
+    "Research_Papers/Factor_Investing/Betting Against Beta.md",
+    "Notebook_Personal/Important Links/Resources for Stat-Arb.md",
+    "Courses/Programming/Appendix/Screenshot 2024-04-02 at 2.50.21 PM.png",
+    "Courses/Programming/Appendix/Screenshot 2024-03-31 at 7.53.48 PM.png"
   ]
 }

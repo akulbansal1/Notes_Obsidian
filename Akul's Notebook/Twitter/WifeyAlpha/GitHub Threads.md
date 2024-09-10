@@ -5,7 +5,7 @@
 1. [AwesomeQuant](https://github.com/wilsonfreitas/awesome-quant)
 2. [DataScience]([https://github.com/wilsonfreitas/awesome-quant](https://github.com/r0f1/datascience))
 3. [QuantStats]([https://github.com/wilsonfreitas/awesome-quant](https://github.com/ranaroussi/quantstats))
-4. [Quantopia](https://gist.github.com/ih2502mk/50d8f7feb614c8676383431b056f4291)
+4. [Quantopian](https://gist.github.com/ih2502mk/50d8f7feb614c8676383431b056f4291)
 5. [MachineLearningAssetManagement](https://github.com/firmai/machine-learning-asset-management/blob/master/README.md)
 6. [HandsOnML2](https://github.com/ageron/handson-ml2)
 7. [MLFinLab](https://github.com/hudson-and-thames/mlfinlab)
