@@ -39,7 +39,7 @@ Macrocephalopod is an anonymous user on [FinTwitter](https://twitter.com/macroce
 - You moved from operating in hedge fund to operating in a prop fund. Differences?
 	- Biggest difference: "in a prop trading firm, you have more freedom in how trading revenues can be used". In a prop fund, providers of capital and the owners are generally the same people so a lot of the arguments around 'how well do we pay our traders or how much of our trading revenue do we re-invest into tech/infrastructure' go away. "You end up with everyone feeling a lot more ownership in what's going on inside the prop firm"
 
-- "started building a crypto desk [from scratch] in first half of 2021"
+- "started building a crypto desk \[from scratch] in first half of 2021"
 	- "traditional markets are much more intermediated than crypto markets are". In crypto markets: exchange, clearing house, prime brokers, financing providing etc. will tend to be the same firm.
 - adjusting for other factors (such as quality, value, size) when measuring momentum makes the momentum more persistent.
 - "You've gone from focusing on longer-term strategies to what you would call mid-frequency strategies. What are the key differentiators between high/mid/low frequency alphas?"

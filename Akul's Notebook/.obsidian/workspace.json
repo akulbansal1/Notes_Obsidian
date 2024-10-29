@@ -17,8 +17,21 @@
                 "file": "Library/books_Personal/portfolio management/(Chapman and Hall_CRC Financial Mathematics Series) Edward E. Qian, Ronald H. Hua, Eric H. Sorensen - Quantitative Equity Portfolio Management_ Modern Techniques and Applications-Chapman and Hall_CRC .pdf"
               }
             }
+          },
+          {
+            "id": "d9cfac398087d9e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Factor_Investing/Factor Investing From Traditional to Alternative Risk Premia.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a367bdac02799b16",
@@ -66,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "|",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management.md",
+                "file": "Courses/Programming/IITM TDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management.md",
+                "file": "Courses/Programming/IITM TDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management.md"
+                "file": "Courses/Programming/IITM TDS.md"
               }
             }
           },
@@ -189,12 +202,55 @@
             "type": "tabs",
             "children": [
               {
-                "id": "9cd2eaf7d8398017",
+                "id": "29c6f51535d646b5",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management.md",
+                    "file": "Courses/Programming/IITM TDS.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4f61d2d371c4879e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Courses/Machine_Learning/IITM MLP.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1716,
+        "y": 25,
+        "width": 1512,
+        "height": 875,
+        "maximize": false,
+        "zoom": 1
+      },
+      {
+        "id": "f9d6e6b5354c7fcb",
+        "type": "window",
+        "children": [
+          {
+            "id": "23fa39763cf53644",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7319691e377c35c0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notebook_Personal/Personal/Meetings/Target Meetings.md",
                     "mode": "source",
                     "source": false
                   }
@@ -213,53 +269,52 @@
       }
     ]
   },
-  "active": "9cd2eaf7d8398017",
+  "active": "29c6f51535d646b5",
   "lastOpenFiles": [
-    "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management Appendix/Chapter 3.pdf",
-    "Books/Asset_Allocation,Portfolio_Management/Quantitative Equity Portfolio Management.md",
-    "Library/books_Personal/portfolio management/(Chapman and Hall_CRC Financial Mathematics Series) Edward E. Qian, Ronald H. Hua, Eric H. Sorensen - Quantitative Equity Portfolio Management_ Modern Techniques and Applications-Chapman and Hall_CRC .pdf",
-    "Library/books_Personal/portfolio management/Advanced Portfolio Management_ A Quant′s Guide for Fundamental Investors-Wiley (2021).pdf",
-    "Library/books_Personal/quant/Statistics/Trevor Hastie,  Robert Tibshirani, Jerome Friedman - The Elements of  Statistical Learning_  Data Mining, Inference, and Prediction.-Springer (2013).pdf",
-    "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management.md",
-    "Notebook_Personal/Personal/Shreeya.md",
-    "Courses/Programming/IITM JAVA.md",
-    "Books/Asset_Allocation,Portfolio_Management/Quantitative Portfolio Management.md",
-    "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management Appendix/Chapter 2.pdf",
-    "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management Appendix",
-    "Books/Asset_Allocation,Portfolio_Management/untitled folder",
-    "Books/Asset_Allocation,Portfolio_Management/Quantitative Equity Portfolio Management.1.md",
-    "Library/books_Personal/portfolio management/Ludwig B Chincarini, Daehwan Kim - Quantitative Equity Portfolio Management_ An Active Approach to Portfolio Construction and Management (McGraw-Hill Library of Investment and Finance)-McGraw-Hill Edu.pdf",
-    "Books/Asset_Allocation,Portfolio_Management/Advances in Active Portfolio Management.md",
-    "Books/Asset_Allocation,Portfolio_Management/Smart Portfolios.md",
-    "Library/books_Personal/portfolio management/Richard Grinold, Ronald Kahn - Active Portfolio Management_ A Quantitative Approach for Producing Superior Returns and Controlling Risk-McGraw-Hill (1999).epub",
-    "Library/books_Personal/quant/Richard Grinold, Ronald Kahn - Active Portfolio Management_ A Quantitative Approach for Producing Superior Returns and Controlling Risk-McGraw-Hill (1999).pdf",
-    "Books/Asset_Allocation,Portfolio_Management/Advanced Portfolio Management.md",
+    "Courses/Machine_Learning/IITM MLP.md",
+    "Notebook_Personal/Personal/Meetings/Target Meetings.md",
     "Books/Factor_Investing/Factor Investing From Traditional to Alternative Risk Premia.md",
-    "Courses/Programming/Appendix/Screenshot 2024-08-14 at 11.26.52 PM.png",
-    "Library/HangukQuant/2023_08/Notes on Asynchronous Python Programming/Screenshot 2023-09-25 at 6.33.04 PM.png",
-    "Library/HangukQuant/2023_08/Notes on Asynchronous Python Programming/Screenshot 2023-09-25 at 6.33.15 PM.png",
-    "Library/HangukQuant/2023_08/Notes on Asynchronous Python Programming/Market_Notes_743_757.pdf",
-    "Courses/Programming/Appendix/Screenshot 2024-08-14 at 10.54.14 PM.png",
-    "Courses/Programming/Appendix/Screenshot 2024-08-14 at 10.51.30 PM.png",
-    "Courses/Programming/Appendix/Screenshot 2024-08-14 at 10.47.08 PM.png",
+    "Library/books_Personal/portfolio management/(Chapman and Hall_CRC Financial Mathematics Series) Edward E. Qian, Ronald H. Hua, Eric H. Sorensen - Quantitative Equity Portfolio Management_ Modern Techniques and Applications-Chapman and Hall_CRC .pdf",
+    "Notebook_Personal/Personal/Meetings/Appendix/Screenshot 2024-10-21 at 3.14.35 PM.png",
+    "Notebook_Personal/Personal/Meetings/Appendix",
+    "Courses/Machine_Learning/Appendix/Screenshot 2024-10-19 at 10.26.44 PM.png",
+    "Courses/Programming/IITM TDS.md",
+    "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management.md",
+    "Books/Asset_Allocation,Portfolio_Management/Quantitative Equity Portfolio Management.md",
+    "Books/Asset_Allocation,Portfolio_Management/Quantitative Equity Portfolio Management.1.md",
+    "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management Appendix/Chapter 12.pdf",
+    "Courses/Machine_Learning/Appendix/Screenshot 2024-10-11 at 8.17.55 PM.png",
+    "Notebook_Personal/Personal/Shreeya.md",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2024-10-11 at 12.56.00 PM.png",
+    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2024-10-11 at 12.53.59 PM.png",
+    "Courses/Programming/IITM JAVA.md",
+    "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management Appendix/Chapter 11.pdf",
+    "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management Appendix/Chapter 10.pdf",
+    "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management Appendix/Chapter 7.pdf",
+    "Notebook_Personal/Projects/Factor Long-Short Project.md",
+    "Opinion/Appendix/Rolling 24-month correlation between Nifty and Gold (INR).png",
+    "Opinion/Simple Asset Allocation Portfolio.md",
+    "Research_Papers/Asset_Allocation/The Best of Strategies for the Worst of Times.md",
+    "Research_Papers/Asset_Allocation/The Best Strategies for Inflationary Times.md",
+    "Books/Miscellaneous/Bear Market Investing Strategies.md",
+    "Research_Papers/Factor_Investing/'Long' Factors, not 'Short' Change Long Only Factor Portfolios in India.md",
+    "Books/Factor_Investing/Barra Risk Model.md",
+    "Books/Asset_Allocation,Portfolio_Management/Smart Portfolios.md",
+    "Courses/Machine_Learning/Appendix/Screenshot 2024-10-05 at 4.00.10 PM.png",
+    "Courses/Machine_Learning/Appendix/Screenshot 2024-10-05 at 4.00.00 PM.png",
+    "Courses/Machine_Learning/Appendix/Screenshot 2024-10-05 at 3.58.14 PM.png",
+    "Courses/Machine_Learning/Appendix/Screenshot 2024-10-05 at 3.56.59 PM.png",
+    "Courses/Machine_Learning/Appendix",
+    "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management Appendix/Chapter 5.pdf",
+    "Podcasts/Flirting_With_Models/S6E5, Macrocephalopod.md",
+    "Courses/Programming/GitHub.md",
+    "Courses/Programming/IITM MAD, Theory 1.md",
+    "Courses/Machine_Learning/ML Foundation.pdf",
+    "Books/Asset_Allocation,Portfolio_Management/Active Portfolio Management Appendix/Chapter 4.pdf",
+    "Books/Asset_Allocation,Portfolio_Management/Quantitative Portfolio Management.md",
+    "Books/Asset_Allocation,Portfolio_Management/Advances in Active Portfolio Management.md",
+    "Books/Asset_Allocation,Portfolio_Management/Advanced Portfolio Management.md",
     "Books/Statistics/The Elements of Statistical Learning.md",
-    "Books/Statistics/An Introduction to Statistical Learning.md",
-    "Courses/Programming/IITM MAD, Theory 2.md",
-    "Blogs/Quantymacro/Book Recommendations.md",
-    "Notebook_Personal/Personal/Potential Investors.md",
-    "Courses/Programming/Appendix/Screenshot 2024-04-12 at 7.28.24 PM.png",
-    "Books/Asset_Allocation,Portfolio_Management/Appendix/Screenshot 2024-04-12 at 1.33.29 PM.png",
-    "Notebook_Personal/Personal/Potential clients.md",
-    "Notebook_Personal/Miscellaneous/Tbilisi Trip.md",
-    "Books/Statistics/Data-Driven Science and Engineering.md",
-    "Second Leg Down.md",
-    "Options Futures & Other Derivatives.md",
-    "Books/Global_Macro/Efficiently Inefficient.md",
-    "Courses/Programming/IITM System Commands.md",
-    "Research_Papers/Factor_Investing/Facts about Factors.md",
-    "Research_Papers/Factor_Investing/Betting Against Beta.md",
-    "Notebook_Personal/Important Links/Resources for Stat-Arb.md",
-    "Courses/Programming/Appendix/Screenshot 2024-04-02 at 2.50.21 PM.png",
-    "Courses/Programming/Appendix/Screenshot 2024-03-31 at 7.53.48 PM.png"
+    "Books/Statistics/An Introduction to Statistical Learning.md"
   ]
 }

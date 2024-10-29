@@ -133,4 +133,318 @@ Tags: #Quant #Stat_Arb #Portfolio_Management #Factor_Investing
 	- Residual return and risk are $$ \theta_P = r_P - \beta_P \cdot r_B  \tag{4.17} $$$$ \omega_P = \text{Std}\{\theta_P\} \tag{4.18} $$
 	- Active return and risk are $$ r_{PA} = r_P - r_B = \theta_P + \beta_{PA} \cdot r_B \tag{4.19} $$$$ \psi_P = \text{Std}\{r_{PA}\} = \sqrt{\omega^2_P + \beta^2_{PA} \cdot \sigma^2_B} \tag{4.20} $$
 	- "As long as the manager avoids benchmark timing and sets $\beta_P=1$, active and residual returns (and risks) are identical"
-- #### Problems and Appendix:
+- #### Problems and Appendix: ![[Chapter 4.pdf]]
+
+## <u>Chapter 5: Residual Risk and Return: The Information Ratio</u>
+- "The ex ante information ratio is an indication of the opportunities available to the active manager"
+- Ex ante alpha is a forecast of residual return; ex post alpha is the average of the realised residual returns
+- Excess return of the portfolio $$ r_P(t) = \alpha_P + \beta_P \cdot r_B(t) + \epsilon_P(t) \tag{5.1} $$Estimates of $\beta_P$ and $\alpha_P$ obtained from the regression are the realised or historical beta and alpha. Residual returns for portfolio $P$ are $$ \theta_P(t) = \alpha_P + \epsilon_P(t) \tag{5.2} $$where $\alpha_P$ is average residual return and $\epsilon_P(t)$ is mean zero random component
+- Realised alphas are for keeping score.
+- When we are looking to the future, alpha is a forecast of residual return. $\theta_n$ is the residual return on stock $n$ $$ \alpha_n = \mathbb{E}\{\theta_n\} \tag{5.3} $$
+- #### Ex post Information Ratio: Measure of achievement
+	- *IR* is a ratio of (annualised) residual return to (annualised) residual risk
+	- ex-post information ratio is related to the *t* statistic one obtains for the alpha in the regression. If the data in the regression cover Y years, then the information ratio is approximately alpha's *t* statistic divided by the square root of Y
+- #### Ex ante Information Ratio: Measure of opportunity
+	- "before-fee information ratios typically fall close to the distribution in Table 5.1"                   ![[Screenshot 2024-09-27 at 4.22.50 PM.png]]
+	- an example with four stocks![[Screenshot 2024-09-27 at 4.30.10 PM.png]]
+		- alpha of the portfolio $P$ is 0.84 (Alpha $\times$ Active Weight) and the risk of active position is 2.04 percent (using the covariance matrix and active weight $\Psi^2_P = h_{PA}^T \cdot V \cdot h_{PA}$)
+		- The active holdings of portfolio $L$ are 50 percent greater than active holdings of portfolio $P$ so alpha and risk of residual return also increase by 50 percent
+- #### The Residual Frontier: The Manager's Opportunity Set
+	- Information Ratio indicates opportunity. "The manager with an information ratio of 0.75 has choices that are not available to the manager with an information ratio of 0.5" ![[Screenshot 2024-09-27 at 5.12.04 PM.png]]
+	- "budget constraint" for the active manager $$ \alpha_P = IR \cdot \omega_P \tag{5.7} $$
+- #### The Active Management Objective
+	- maximise the value added from residual return, where value added is $$ VA[P] = \alpha_P - \lambda_R \cdot \omega^2_P \tag{5.8} $$
+	- The loss in alpha for different levels of residual risk. ![[Screenshot 2024-09-27 at 5.13.35 PM.png]]
+	- With $\lambda_R = 0.10$, three parabolas for value added of 2.5 percent, 1.4 percent, and 0.625 percent![[Screenshot 2024-09-27 at 5.15.20 PM.png]]
+- #### Preferences Meet Opportunities
+	- residual frontier corresponds to an information ratio of 0.75 and a residual risk aversion of $\lambda_R=0.10$ ![[Screenshot 2024-09-27 at 5.29.45 PM.png]]
+	- The 1.4 percent value added curve is tangent to the residual frontier at portfolio $P^*$. We can't do any better, since every higher-value added line is outside the opportunity set
+- Using "budget constraint" (Eq 5.7) in the manager's objective (Eq 5.8) we find $$ VA[\omega_P] = \omega_P \cdot IR - \lambda \cdot \omega^2_P \tag{5.9} $$Figure 5.6 plots the Value added in terms of risk using the median case with $IR=0.75$ and $\lambda_R=0.10$ ![[Screenshot 2024-09-27 at 5.40.31 PM.png]]
+- The optimal of residual risk, $\omega^*$, which maximises $VA[\omega_P]$ is $$ \omega^* = \frac{IR}{2 \lambda_R} \tag{5.10} $$ ^010a83
+- Table 5.3 shows how the residual risk will vary for reasonable values of the information ratio and residual risk aversion![[Screenshot 2024-09-27 at 5.49.52 PM.png]]
+- #### Forecast Alphas Directly
+	- "it isn't very hard to produce a rudimentary set of alphas with a small amount of work"
+		- "One way to get these alphas is to start with expected returns and then go through the complicated procedure described in Chapter 4"
+		- An alternative is to forecast the alphas directly.
+		- For example: converting a simple ranking of stocks into alphas forecasts: Sort the assets into five bins: strong buy, buy, hold, sell and strong sell. Assign them respective alphas of 2.00%, 1.00%, 0.00%, -1.00%, and -2.00%. Then find the benchmark average alpha. If it isn't zero, modify the alphas by subtracting the benchmark average times the stock's beta from each original alpha.
+- #### Problems and Appendix: ![[Chapter 5.pdf]]
+
+## <u>Chapter 6: The Fundamental Law of Active Management</u>
+- #### The Fundamental Law
+	- $BR$ is the strategy's *breadth*, number of independent forecasts of exceptional return we make per year
+	- $IC$ is the manager's *information coefficient*, correlation of each forecast with the actual outcomes
+	- (Approximately): $$IR = IC \cdot \sqrt{BR} \tag{6.1}$$
+	- Using [Eq. (5.10)]![[Active Portfolio Management#^010a83]] $$ \omega^* = \frac{IC \cdot \sqrt{BR}}{2 \lambda_R} \tag{6.2} $$
+		- desired level of aggressiveness will increase with skill level and square root of the breadth
+	- The value a manager can add $$VA^* = \frac{IR^2}{4 \lambda_R} = \frac{IC^2 \cdot BR}{4 \lambda_R} \tag{6.3}$$
+- Example where we are trying to forecast the market direction
+	- market direction as a variable $x(t) = \pm 1$ with mean $0$ and standard deviation $1$
+	- our forecast as a variable $y(t) = \pm 1$ with mean $0$ and standard deviation $1$
+	- Information coefficient $$IC = \text{Cov} \{x(t), y(t)\} \tag{6.5} $$
+	- If we correctly forecast market direction $(x=y)$ $N_1$ times and incorrectly as $N - N_1$ times, then $$IC = \frac{1}{N} \cdot [N_1 - (N - N_1)] = 2 \cdot \bigg(\frac{N_1}{N}\bigg) - 1 \tag{6.6} $$
+	- Eq. (6.6) shows how little information one needs in order to be highly successful
+	- "an information coefficient of 0.02 between forecasted stock return and realised return over 200 stocks each quarter (with an implied accuracy of only 51% according to Eq. (6.6)) will produce a highly respected information ratio of 0.56"
+- Information ratios are additive $$IR^2 = BR_1 \cdot C_1^2 + BR_2 \cdot IC^2_2 \tag{6.7} $$
+- The forecasts should be independent. Forecast 2 should not be based on a source of information that is correlated with the sources of forecast 1.
+	- "If you reassess your industry bets on the basis of new information each year, but rebalance your portfolios monthly, you shouldn't think that you make 12 industry bets per year. You just make the same bet 12 times."
+- If $\gamma$ is the correlation between the two information sources, then the skill level of the combined sources, $IC(com)$ will $$ IC(com) = IC \cdot \sqrt{\frac{2}{1 + \gamma}} \tag{6.9} $$
+- #### Problems and Appendix: 
+ 
+
+# Part Two: Expected Returns and Valuation
+
+## <u>Chapter 7: Expected Returns and the Arbitrage Pricing Theory</u>
+- The APT states that each stock's expected excess return is determined by the stock's factor exposures.
+	- "For each factor, there is a weight (called a factor forecast) such that the stock's expected excess return is the sum over all the factors of the stock's factor exposures times the factor forecasts"
+- The APT assumes that there are $K$ factors such that the excess returns can be expressed as $$ r_n = \sum_{k=1}^K X_{n,k} \cdot b_k + \mu_n  \tag{7.1} $$where,
+  $X_{n,k}$ is the exposure of stock $n$ to factor $k$ 
+  $b_k$ is the factor return for factor $k$ 
+  $u_n$ is the stock $n$'s specific return (a.k.a idiosyncratic return)
+- APT formula for expected excess return is $$ f_n = E\{r_n\} = \sum_{k=1}^K X_{n,k} \cdot m_k \tag{7.2} $$where,
+  $m_k$ is the factor forecast for factor $k$
+	- "The theory says that a correct factor forecast will exist. It doesn't say how to find it"
+- #### Examples
+	- "We first classify stocks by their industry membership, then look at four other attributes of the companies":
+		1. Growth: A forecast of earnings growth based on the IBES consensus forecast and past realised earning growth.
+		2. Bond beta: response of the stock to returns on an index of government bonds
+		3. Size: natural logarithm of equity capitalisation
+		4. Return on equity (ROE): earnings divided by book
+	- These attributes are standardised by subtracting the cross-sectional mean and dividing by the standard deviation.
+	- "The factor forecasts are 2.0% for growth, 2.5% for bond beta, -1.5% for size, and 0.0% for ROE. (These forecasts are for illustration only)" 8% for the chemical industry and 6% for all other industries.
+	- "By putting in different expectations for the various factors, we could automatically generate mountains of research"
+- #### The APT rationale
+	- If we have a returns model like Eq. (7.1) and the APT relationship Eq. (7.2) failed to hold, "we could find and active active position with zero exposure to all of the factors and expected excess return of 1%"
+- #### Portfolio $Q$ and The APT
+	- Portfolio $Q$ has the highest reward-to-risk ratio (Sharpe ratio). Knowledge of portfolio $Q$ is sufficient to calculate all expected returns. Portfolio $Q$ plays the same role as the market portfolio does in the CAPM; in fact, the CAPM is another way of saying that portfolio $Q$ is the market portfolio.
+	- "The expected excess return on any stock will be proportional to that stock's beta with respect to portfolio $Q$"
+	- Two issues:
+		- Defining a qualified model
+		- Finding the correct set of factor forecasts
+- #### The Easy Part: Finding a Qualified Model
+	- "A factor model of the type described in Eq. (7.1) is qualified, i.e., will hold for some factor forecasts $m_k$, if and only if portfolio $Q$ is *diversified with respect to that factor model*" meaning "among all portfolio with the same factor exposures as portfolio $Q$, portfolio $Q$ has minimum risk"
+	- Table 7.3 shows the percentage of risk that is not explained by the BARRA U.S. Equity Model. 
+	  This is why we look at the % 'explained variance' by a factor model. "It may be possible to find a portfolio that has the same factor exposures as the Frank Russell 3000 index and less risk. However, the two portfolios would have the same factor risk, and so they can differ only in their specific risk. Since 99.82% of the risk is explained by the factor component of return, there is very little margin for improvement"![[Screenshot 2024-09-30 at 10.09.09 PM.png]]
+	  - **Any factor model that is good at explaining the risk of a diversified portfolio should be (nearly) qualified as an APT model**
+  - #### The Hard Part: Factor Forecasts
+	  - "The next step is to find the amount of expected excess return, $m_k$ in Eq. (7.2), to associate with each factor"
+	  - "The simplest approach to forecasting $m_k$ is to calculate a history of factor returns and take their average". Implicitly assuming an element of stationarity in the market.
+	  - Haugen and Baker (1996): "Each factor forecast is then simply the trailing 12-month average of the factor returns"
+	  - "There is no use building the world's greatest (most qualified) APT model is we cannot come up with the factor forecasts"
+- #### Applications
+	- ##### Structural Model 1: Given Exposures, Estimate Factor Returns
+		- The BARRA model takes the factor exposures as given based on current characteristics of the stocks. The factor returns are estimates.
+	- ##### Structural Model 2: Given Factor Returns, Estimate Exposures
+		- take the factor returns as the return on the value-weighted NYSE, gold, a basket of foreign currencies, etc. 
+		- Set the exposure of each stock to the NYSE equal to 1. determine the pas the exposure of the stock to the factor returns by regression the difference between the stock return and the NYSE return on the returns of the other factors.
+		- "We hope that the estimated factor exposures are stable over time"
+	- ##### Structural Model 3: Combine Structural Models 1 and 2
+		- "Start with some primitive factor definitions, estimate the factor exposure as in structural model 2, then attribute returns to the factors as in structural model 1"
+	- ##### Statistical Model 1: Principal Component Analysis
+		- collection of stocks over many months — "say 50 stocks over 200 months"
+		- calculate 50 by 50 covariance matrix.
+		- "Call the principal component returns the factors. These factors are purely statistical constructs"
+		- "will tell us the exposures of the 50 stocks to the factors. It will also give us the returns on those factors over the 200 months"
+		- "To implement this model, we need a forecast of the $m_k$. The obvious forecast is the historical average of the factor returns"
+	- ##### Statistical Model 2: Maximum Likelihood Analysis
+		- perform a massive maximum likelihood estimation over 60 months
+		- assume that the stock's exposures $X_{n,k}$ are constant over the 5-year period
+		- applied to 500 stocks over 60 months and looked for 10 factors, we would be using 30,000 returns to estimate 5000 exposures and 600 factor returns.
+	- ##### Statistical Model 3: The Dual of Statistical Model 2
+		- see Connor and Korajczyk (1998)
+- #### Problems and Appendix: ![[Chapter 7.pdf]]
+
+## <u>Chapter 8: Valuation in Theory</u>
+- Present value of $cf(t)$ dollars in $t$ years is $$ p = \frac{cf(t)}{(1 + i_F)^t} \tag{8.1} $$where $i_F$ is the (annual) return on a risk-free investment
+- With uncertain cash flows $$ p \lt \frac{E\{cf(t)\}}{(1+i_F)^t} = \frac{\sum_s \pi(t,s) \cdot cf(t,s)}{(1+i_F)^t} \tag{8.5} $$where,
+  $\pi(t,s)$ is the probability of outcome $s$ at time $t$
+  $cf(t,s)$ is the uncertain cash flow at time $t$ in state $s$
+- #### Risk-Adjusted Expectations
+	- "introduce a risk-adjusted interest rate" based on the asset's beta and the expected excess return to portfolio $Q$ $$E\bigg\{ \frac{cf(t)}{p} \bigg\} = 1 + i_F + \beta \cdot f_Q \tag{8.6} $$where $cf(t)$ is the stock value in 1 year, and so $$ p = \frac{E\{cf(t)\}}{1 + i_F + \beta \cdot f_Q} \tag{8.7} $$
+	- The term $i_F + \beta \cdot f_Q$ is sometimes called the equity cost of capital
+	- risk-adjustment is obtained by introducing value multiple $v(t,s)$. Modified expectation $$ E^*\{cf(t)\} = E\{ v(t) \cdot cf(t) \} = \sum_s \pi(t,s) \cdot v(t,s) \cdot cf(t,s) \tag{8.8} $$where $v(t,s)$ is positive, with expected value $1$ and a function of the return to portfolio $Q$ and proportional to the total return on a portfolio $S$
+	- valuation formula $$ p = \sum_{t=1}^T \frac{E^* \{cf(t)\}}{(1+i_F)^t} \tag{8.9} $$
+	- --skipped for now---
+
+## <u>Chapter 9: Valuation in Practice</u>
+--skipped for now---
+
+# Part Three: Information Processing
+## <u>Chapter 10: Forecasting Basics</u>
+- #### Naïve, Raw, and Refined Forecasts
+	- *Naïve* forecast: consensus expected return; leads to benchmark holdings
+	- *Raw* forecast: earnings estimate, buy or sell recommendation, etc.; comes in a variety of units and scales, and is not directly a forecast of exceptional return
+	- Basic forecasting formula turns raw forecasts into *refined* forecasts.  $$ E\{\boldsymbol{r}|\boldsymbol{g}\} = E\{\boldsymbol{r}\} + \text{Cov}\{\boldsymbol{r},\boldsymbol{g}\} \cdot \text{Var}^{-1}\{\boldsymbol{g}\} \cdot (\boldsymbol{g} - E\{\boldsymbol{g}\})  \tag{10.1} $$where,
+	  $\boldsymbol{r} =$ excess return vector ($N$ assets)
+	  $\boldsymbol{g}=$ raw forecast vector ($K$ forecasts)
+	  $E\{\boldsymbol{r}\} =$ naïve (consensus) forecast 
+	  $E\{\boldsymbol{g}\} =$ expected forecast
+	  $E\{\boldsymbol{r} | \boldsymbol{g}\} =$ informed expected return: the expected return conditional on $\boldsymbol{g}$
+	- *Refined* forecast: changes in expected return due to observing $\boldsymbol{g}$ $$\phi \equiv E\{\boldsymbol{r}|\boldsymbol{g}\} - E\{\boldsymbol{r}\}=  \text{Cov}\{\boldsymbol{r},\boldsymbol{g}\} \cdot \text{Var}^{-1}\{\boldsymbol{g}\} \cdot (\boldsymbol{g} - E\{\boldsymbol{g}\})  \tag{10.2} $$This is the exceptional return referred to in previous chapters. It can include both residual return forecasts and benchmark timing
+	- Given a benchmark portfolio $B$, the consensus forecast is $$E\{\boldsymbol{r}\} = \boldsymbol{\beta} \cdot \mu_B \tag{10.3}$$where $\mu_B$ is the consensus expected excess return of the benchmark. Historical average returns are a poor alternative to these consensus expected returns for the active manager.
+	- #Stat_Arb #important Equivalently, think about applying basic forecasting formula directly to residual returns $\boldsymbol{\theta}$. Then instead of Eq. (10.3), we have $$E\{\boldsymbol{\theta}\}=0 \tag{10.4}$$and $$\boldsymbol{\alpha} = \text{Cov}\{\boldsymbol{\theta},\boldsymbol{g}\} \cdot \text{Var}^{-1} \{\boldsymbol{g}\} \cdot (\boldsymbol{g} - E\{\boldsymbol{g}\})  \tag{10.5} $$
+- #### Refining Raw Information: One Asset and One Forecast
+	- "Suppose we are forecasting return over one quarter; the expected excess return over the quarter is $E\{r\}=1.5\%$, and the quarterly volatility is $9\%$" $$r = 1.5 + \theta_1 + \theta_2 + \cdots + \theta_{81} \tag{10.6} $$where the 81 random elements $\theta_i$ capture the uncertain component of the return. $\theta_i$ are i.i.d. equally likely to achieve $+1$ or $-1$; thus mean $0$ and variance $1$. Variance of $r$ is $81$; the random component in the return is the sum of these $81$ components. (corresponding to the desired $9\%$ volatility)
+	- suppose our forecast, $g$, has an expected value of $2\%$ and standard deviation of $4\%$ $$g = 2.0 + \theta_1 + \theta_2 + \theta_3 + \eta_1 + \eta_2 + \cdots + \eta_{13} \tag{10.7}$$The forecast is a combination of useful (variables $\theta_1$ through $\theta_3$) and useless (variables $\eta_1$ through $\eta_{13}$) information. $\text{Cov}\{r,g\}=3$
+	- The correlation between $g$ and $r$ is the skill level or $IC$ $$IC = \text{Corr}\{r,g\} = \frac{\text{Cov}\{r,g\}}{\text{Std}\{r\} \cdot \text{Std}\{g\}} = 0.0833 \tag{10.8} $$
+	- The best linear estimate of the return conditional on knowledge of $g$ by using Eq. (10.1) $$ \phi = \text{Std}\{r\} \cdot \text{Corr}\{r,g\} \cdot \bigg( \frac{g - E\{g\}}{\text{Std}\{g\}} \bigg) \tag{10.9} $$
+- #### Forecasting rule of thumb
+	- Eq. (10.9) leads to the rule of thumb $$\text{Refined forecast = volatility} \cdot \text{IC} \cdot \text{score}  \tag{10.11}$$
+	- "In the binary model, we presumed that we knew the structure generating the returns and the forecasts. \[...] Given the data, we will refine the raw forecasts using regression analysis"
+	- Using time series regression $$r(t) = c_0 + c_1 \cdot g(t) + \epsilon(t) \tag{10.12} $$least squares of $c_1$ and $c_0$ are $$ c_1 = \frac{\text{Cov} \{r,g\}}{\text{Var}\{g\}} \tag{10.13} $$ $$c_0 = m_r - c_1 \cdot m_g \tag{10.14} $$where $m_r$ and $m_g$ are sample averages for $r$ and $g$
+	- refined forecast $$ \phi = \text{Std}\{r\} \cdot \text{Corr}\{r,g\} \cdot z(T+1) \tag{10.16} $$ ^55d1fa
+	- This is identical to the result in the binary model, except that we are now using the sample history to estimate the $IC$ and the volatility of $r$ and to standardise the raw forecast.
+	- #important "The average and standard deviation of the times series of scores for a particular stock over time should be close to 0 and 1, respectively. The average and standard deviation of the scores over many stocks at one point in time should also be close to 0 and 1, respectively"
+- #### Refining Forecasts: One Asset and Two Forecasts
+	- Assume we are forecasting the same excess return $r$ with the forecast $g$ from before and a new raw forecast $g'$ $$ g' = 0.5 + \theta_3 + \theta_4 + \theta_5 + \theta_6 + \eta_{10} + \eta_{11} + \cdots + \eta_{30} \tag{10.17} $$Forecasts $g$ and $g'$ share one element of signal and four elements of noise. $\text{Var}\{g'\}=25$, $\text{Cov}\{r,g'\}=4$, $\text{Corr}\{r,g'\}=0.089$, and $\text{Cov}\{g,g'\}=5$
+	- Using only $g'$, we would find $$\phi = 9 \cdot (0.089) \cdot \bigg( \frac{g' - 0.5}{5}\bigg) = (0.16) \cdot (g'-0.5) \tag{10.18} $$but combining $g$ and $g'$, we find $$ \phi = (0.1467) \cdot (g-2.0) + (0.1307) \cdot (g'-0.5) \tag{10.19} $$with an $IC$ for the refined combined forecast of 0.1090
+	- General rule of thumb with one asset, two forecasts $$ \phi = \text{Std}\{r\} \cdot ( IC_g^* \cdot z_g + IC_{g'}^* \cdot z_{g'}) \tag{10.20} $$where the revised skill levels are $$ IC_{g}^* = \frac{IC_{g} - \rho_{g,g'} \cdot IC_{g'}}{1 - \rho^2_{g,g'}} \tag{10.21} $$ $$ IC_{g'}^* = \frac{IC_{g'} - \rho_{g,g'} \cdot IC_{g}}{1 - \rho^2_{g,g'}} \tag{10.22} $$
+	- #important we could repackage the scores instead of the $IC$s by creating orthogonal linear combinations of the original scores. $$ z^*_g = \frac{z_g + z_{g'}}{\sqrt{2 \cdot (1 + \rho_{g,g'})}} \tag{10.23} $$and $$ z^*_{g'} = \frac{z_g - z_{g'}}{\sqrt{2 \cdot (1 + \rho_{g,g'})}} \tag{10.23} $$
+	- --author repeats the exercise with regression analysis for one asset, two forecasts--
+	- "The case of one asset and more than two signals involves more complicated algebra (see appendix)"
+- #### Refining Forecasts: Multiple Assets and Multiple Forecasts
+	- "will treat this topic in the next chapter, although this chapter includes some simple examples"
+	- IC=0.05 is good, IC=0.10 is great, IC=0.15 is world-class and IC>0.20 signals a faulty backtest
+	- ##### Buy and Sell Recommendations
+		- "we give a score of $+1.0$ to the buys and a score of $-1.0$ to the sells"
+	- ##### Fractiles
+		- "If assets have a raw score of 1 through 10 depending on their decile membership, we can turn these into standardised scores by subtracting the average (perhaps value-weighted) raw score and dividing by the standard deviation of the raw scores"
+	- ##### Rankings
+		- "we can, using various degrees of sophistication, transform those rankings into standardised scores"
+- #### Forecasting and Risk
+	- "forecasts of returns have negligible effect on forecasts of volatility and correlation"
+	- "Let $\sigma_{PRIOR}$ and $\sigma_{POST}$ be estimates of volatility without forecast information and with forecast information" $$ \sigma_{POST} = \sigma_{PRIOR} \cdot \sqrt{1 - IC^2} \tag{10.30} $$
+	- "The researcher who tries to forecast returns over the near horizon should ignore the slight impact of those forecasts on the volatility and correlation estimates for the assets"
+- #### Advanced Techniques
+	- ##### Time Series Analysis
+		- The textbook of Box and Jenkins (1976) is standard
+		- AR(q). Autoregressive: $r(t)$ depends on a weighted sum of the variable's past $q$ values $\{r(t-1), r(t-2), \ldots, r(t-q)\}$ plus some random input $$ r(t) = \alpha_0 + \alpha_1 \cdot r(t-1) + \cdots + \alpha_q \cdot r(t-q) + e(r)  $$
+		- MA(p). Moving Average: weighted average of a sum of $p+1$ random (independent) inputs $$ r(t) = e(t) + c_1 \cdot e(t-1) + \cdots + c_p \cdot e(t-p) + c_0 $$
+		- ARMA(q,p). Autoregressive moving average: combination of AR(q) and MA(p)
+		- ARIMA: ARMA applied to first differences i.e., instead of looking at returns, look at changes in returns
+		- VARMA: ARMA applied to more than one variable at a time
+	- ##### ARCH, GARCH, etc.
+		- ARCH: Autoregressive Conditional Heteroscedasticity and GARCH is Generalised ARCH
+		- These methods apply when volatility changes in some predictable fashion, e.g., periods of high volatility tend to follow large negative or positive returns
+	- ##### Kalman Filters
+		- --skipped for now--
+	- ##### Chaos
+		- --skipped for now--
+	- ##### Neural Nets
+		- --skipped for now--
+	- ##### Genetic Algorithms
+		- --skipped for now--
+- #### Problems and Appendix: ![[Chapter 10.pdf]]
+
+## <u>Chapter 11: Advanced Forecasting</u>
+- #### Multiple Assets
+	- Eq. (10.1) applies in the case of multiple assets and multiple signals $$ E\{\boldsymbol{r}|\boldsymbol{g}\} = E\{\boldsymbol{r}\} + \text{Cov}\{\boldsymbol{r},\boldsymbol{g}\} \cdot \text{Var}^{-1}\{\boldsymbol{g}\} \cdot (\boldsymbol{g} - E\{\boldsymbol{g}\}) \tag{11.1} $$we can treat both $\boldsymbol{r}$ and $\boldsymbol{g}$ as vectors of length $N$ and $K$
+	- In the case of one signal per asset $$ \phi_n = \omega_n \cdot IC \cdot z_{TS,n} \tag{11.2} $$subscript "TS" is to signify the score as a time series score
+- #### Cross-Sectional Scores
+	- ###### Case 1: the time series standard deviation of the (raw) signal is the same for each asset
+		- assuming $$\text{Std}_{TS}\{g_n\} = c_1 \tag{11.5} $$we can estimate $c_1$ via time series or cross-sectional analysis
+		- if the time series standard deviations are identical, then time series scores equal cross-sectional scores $$ z_{TS,n} = \frac{g_n}{\text{Std}_{TS}\{g_n\}} = \frac{g_n}{c_1} = \frac{g_n}{\text{Std}_{CS}\{g_n\}} \tag{11.6} $$ $$ \alpha_n = \omega_n \cdot IC \cdot z_{CS,n} \tag{11.7} $$
+	- ###### Case 2: the time series standard deviations of the (raw) signal are proportional to stock volatility
+		- assuming $$\text{Std}_{TS}\{g_n\} = c_2 \cdot \omega_n \tag{11.8} $$assuming all time series means are 0, we can estimate $c_2$ by $$ c_2 = \text{Std}_{TS}\bigg\{\frac{g_n}{\omega_n}\bigg\} \tag{11.9} $$
+		- assuming forecasts are uncorrelated across assets $$ c_2 = \text{Std}_{CS}\bigg\{\frac{g_n}{\omega_n}\bigg\} \tag{11.10} $$
+		- using cross-sectional estimate of $c_2$, we can restate Eq. (11.2) $$ \phi_n = \omega_n \cdot IC \cdot \bigg( \frac{g_n}{c_2 \cdot \omega_n} \bigg) \tag{11.11} $$ $$ \phi_n = IC \cdot \frac{g_n}{\text{Std}_{CS}\bigg\{\frac{g_n}{\omega_n}\bigg\}} \tag{11.12} $$
+		- rewriting this terms of cross-sectional scores $$ \phi = IC \cdot \frac{\text{Std}_{CS}\{g_n\}}{\text{Std}_{CS}\bigg\{\frac{g_n}{\omega_n}\bigg\}} \cdot \frac{g_n}{\text{Std}_{CS}\{g_n\}} \tag{11.13} $$ $$ \phi_n = IC \cdot c_g \cdot z_{CS,n} \tag{11.14} $$
+	- ###### Empirical Evidence
+		- compare the performance of alphas refined according to Eqs. (11.7) and (11.14) by examining U.S. equity signals available from BARRA: 
+			1. Dividend Discount Model: IRR form a 3-stage model (Ch. 9)
+			2. Estimate change: 1-month change in consensus estimated annual earnings, divided by price
+			3. Estimate revision: combines "Estimate change" signal with the 1-month stock return
+			4. Relative strength: combines stock's return over the past 13 months with its returns over the past 1 month
+			5. Residual reversal: 1 month returns, residual to industry and risk index effects
+			6. Sector momentum: 1 month return to capitalisation-weighted sector portfolios
+			- BARRA provides these signals as monthly cross-sectional scores
+		- calculated the 60-month time series signal volatility for the universe and then ran the following cross-sectional regression $$\text{Std}_{TS}\{g_n\} = a + b\cdot \omega_n + \epsilon_n  \tag{11.15} $$to test whether time series signal volatilities vary from stock to stock by residual volatility.
+		- "tested this idea by calculating expected exceptional returns using both Eq. (11.7) and Eq. (11.14). We will describe the methodology in detail in Ch. 12. For each method, we built optimal portfolios based on the refined signal, and looked at information ratios from backtests" (industry-neutralised)
+	- #important Forecasts have the form volatility $\cdot IC \cdot$ score. Sometimes this is simply proportional to $IC \cdot$ cross-sectional score
+- #### Why not Forecast Cross-sectional Alphas directly
+	- In the simple case where we have $N$ asset returns and $N$ signals, all at one time, Eq. (11.1) reduces to $$\phi_n = IC \cdot \text{Std}_{CS}\{\theta_n\} \cdot z_{CS,n} \tag{11.16} $$where $\text{Std}_{CS}\{\theta_n\}$ is cross-sectional volatility of residual returns. For all practical purposes, Eq. (11.16) is equivalent to Eq. (11.14)
+	- In general, we must use both time series and cross-sectional data in Eq. (11.1)
+- #### Multiple Forecasts for each of N Stocks
+	- Each information source $j$ has an information coefficient vector $\boldsymbol{IC}_j$
+		- elements of $\boldsymbol{IC}_j$ describe the information coefficient asset by asset
+		- for each information source, a correlation matrix $\boldsymbol{\rho}_j$ describes the signal correlation across assets
+		- Simplifying assumptions: information coefficient is the same for all assets $$IC_j(n) = IC_j \tag{11.17}$$correlation between every $g_{in}$ and $g_{jn}$ is just $\boldsymbol{\rho}_{ij}$, a constant describing the correlation between signals $i$ and $j$ $$\boldsymbol{\rho}_j = \boldsymbol{\rho} \tag{11.18} $$
+- #### Factor Forecasts
+	- APT states that all return forecasts must assume the form $$\text{E}\{\boldsymbol{r}\} = \boldsymbol{X} \cdot \boldsymbol{m} \tag{11.19} $$where $$\boldsymbol{r} = \boldsymbol{X} \cdot \boldsymbol{b} + \boldsymbol{u} \tag{11.20}$$and $$\boldsymbol{m} = \text{E}\{\boldsymbol{b}\} \tag{11.21} $$
+	- "Typically, the problem of forecasting hundreds, if not thousands, of asset returns reduces to a problem of forecasting a handful of factor returns. Many institutional managers apply just such methods, as we saw in Chap 7"
+	- "some factors may generate consistent returns month after month. We always want portfolios that *tilt* towards these factors"
+	- Assume we have a signal $g_1$ to forecast $b_1$. We can refine $g_1$ to forecast $b_1$ using Eq. (10.16) ![[Active Portfolio Management#^55d1fa]] for factors other than $b_1$, $$\text{E} \{b_j | g_1\} = \text{E}\{b_j\} + \text{Cov} \{b_j,g_1\} \cdot \text{Var}^{-1} \{g_1\} \cdot \{ g_1 - \text{E} \{g_1\}\}  \tag{11.22} $$
+- #### Uncertain Information Coefficients
+- #### Problems and Appendix: ![[Chapter 11.pdf]]
+
+## <u>Chapter 12: Information Analysis</u>
+- "Information analysis occurs before backtesting \[...] looks at the unfettered value of signals. Backtesting then takes those signals that have been identified as containing information and develops investable strategies"
+- Two-step process:
+	1. Turn information into portfolios
+	2. Analyse the performance of those portfolios
+- Active managers are trying to predict alphas, or residual return: beta-adjusted return relative to a benchmark
+- can classify information into:
+	- Primary or processed
+	- Judgemental or impartial
+	- Ordinal or cardinal
+	- Historical, contemporary, or forecast
+- #### Information Analysis
+	- ##### Step 1: Information into portfolios
+		- "Since we have predictions for each time period, we will generate portfolios for each time period"
+		- Methods to generate portfolios from predictions
+			1. With <u>buy and sell recommendations</u>, equal (or value) weight the buy group and the sell group
+			2. With <u>scores</u>, build a portfolio for each score by equal (or value) weighting within each score category
+			3. With <u>straight alphas</u>, split the stocks into two groups, one with higher than average and another with lower than average. Then weight stocks in each group by how far their alpha exceeds (or lies below) the average.
+			4. With <u>straight alphas</u>, group the assets into quintiles and equal (or value) weight within each group
+			5. With any <u>numerical score</u>, build a factor portfolio that bets on the prediction and does not make a market bet. The long and short portfolios have equal value and equal beta, but the long portfolio will have unit bet on the prediction , relative to the short portfolio.
+			6. With any <u>numerical score</u>, build a factor portfolio consisting of a long and a short portfolio designed so that the long and short portfolios are matches on a set of pre-specified control variables. E.g. match on industry, sector, or small-capitalisation stock exposures 
+		- Methods 5 and 6 are recommended as the best approach for analysing the information.
+		- Example A: according to method 2. Rank assets every month according to B/P ratio and divide them into quintiles, where each quintile has equal capitalisation
+		- Example B: according to method 5. Every month, build a long portfolio and a short portfolio. Two portfolios will have equal value and beta. Long portfolio will have B/P ratio one standard deviation above that of the short portfolio.
+	- ##### Step 2: Performance evaluation
+		- Example A: cumulative return of each of the five quintiles![[Screenshot 2024-10-11 at 12.53.59 PM.png]]
+		- Example B: cumulative return of long, short and net (long minus short) portfolios![[Screenshot 2024-10-11 at 12.56.00 PM.png]]
+		- Regression analysis: regress excess portfolio returns against the excess benchmark returns, to decompose into benchmark-related and non-benchmark related $$ r(t) = \alpha + \beta \cdot r_B(t) + \epsilon(t) \tag{12.1} $$
+		- *t* statistic: whether the alpha is significantly different from zero $$\text{t-stat} = \frac{\alpha}{SE(\alpha)} \tag{12.2} $$ratio of estimated alpha to the standard error of the estimate.
+		- ssd
+- #### Problems and Appendix: ![[Chapter 12.pdf]]
+
+## <u>Chapter 13: The Information Horizon</u>
+--skipped for now--
+
+# Part Four: Implementation
+## <u>Chapter 14: Portfolio Construction</u>
+- #### Alphas and Portfolio Construction
+	- "We can replace any portfolio construction process, regardless of its sophistication, by a a process that refines the alphas and then uses a simple unconstrained mean/variance optimisation to determine the active positions."
+- #### Alpha Analysis
+	- ##### Scale the Alphas
+		- Structure of alphas: $\text{volatility} \cdot \text{IC} \cdot \text{score}$
+		- Standard deviation, or *scale*, of alphas: $\text{Std}\{{\alpha\}} \approx \text{volatility} \cdot \text{IC}$
+		- "The scale of the alphas will depend on the information coefficient of the manager. If the alphas input to portfolio construction do not have the proper scale, then rescale them"
+	- ##### Trim Alpha Outliers
+		- "Closely examine all stocks with alphas greater in magnitude than, say, three times the scale of the alphas"
+	- ##### Neutralization
+		- "If out initial alphas imply an alpha for the benchmark, the neutralisation process recenters the alphas to remove the benchmark alpha"
+	- ##### Benchmark-and Cash-Neutral Alphas
+		- Calculate the benchmark alpha (if any), then subtract $\boldsymbol{\beta}_n \cdot \boldsymbol{\alpha}_B$
+	- ##### Risk-Factor-Neutral Alphas
+		- "should neutralize alphas against the risk factors. \[...] Once neutralized, the alphas of the risk factors will be 0"
+		- example of making alphas industry-neutral: Calculate the (cap-weighted) alpha for each industry, subtract the industry average alpha from each alpha in that industry
+- #### Transaction Costs
+	- "The more difficult issues of what determines transactions costs, how to measure them, and how to avoid them, we postpone until Ch. 16"
+	- "must amortise the transactions costs to compare them to the annual rate of gain from the alpha and the annual rate of loss from the active risk"
+	- "The annualised transactions cost is the round-trip cost divided by the holding period in years"
+- #### Practical Details
+	- Optimal active risk aversion $$\lambda_A = \frac{IR}{2 \cdot \Psi_P} \tag{14.3}$$
+	- aversion to specific as opposed to common-factor risk $$U = \alpha_P - (\lambda_{A,CF} \cdot \Psi^2_{P,CF} + \lambda_{A,SP} \cdot \Psi^2_{P,SP}) \tag{14.4}$$
+	- lack of forecast returns in the benchmark. For stock-specific alphas. Let $N_1$ represent the collection of stock with forecasts, and $N_0$ the stocks without forecasts. Value-weighted fraction of stocks with forecasts $$H\{N_1\} = \sum_{n \in N_1} h_{B,n} \tag{14.5} $$Average alpha for group $N_1$ is $$ \alpha\{N_1\} = \frac{\sum_{n \in N_1} h_{B,n} \cdot \alpha_n}{H\{N_1\}} \tag{14.6} $$set $\alpha^*_n = \alpha_n - \alpha\{N_1\}$ for stocks in $N_1$ and $\alpha^*_n = 0$ for stocks in $N_0$
+- #### Portfolio Revisions
+	- Stock $n$'s marginal contribution to value added depends on its alpha and marginal contribution to active risk $$\text{MCVA}_n = \alpha_n - 2 \cdot \lambda_A \cdot \Psi \cdot \text{MCAR}_n \tag{14.7} $$
+	- Let $\text{PC}_n$ be the purchase cost and $\text{SC}_n$ the sales cost for stock $n$ $$-\text{SC}_n \leq \text{MCVA}_n\leq \text{PC}_n \tag{14.8} $$establishes a boundary for when to trade.
+- #### Techniques for Portfolio Construction
+	- figure of merit $$\alpha_P - \lambda_A \cdot \Psi^2_P - \text{TC} \tag{14.10} $$
+	- ##### Screens
+	- ##### Stratification
+	- ##### Linear Programming
+	- ##### Quadratic Programming
+		- "errors in the estimates of covariance lead to inefficient implementation. \[...] it is vital to have good estimates of covariance. Rather than abandon the attempt to try to do a good job"
+- #### Appendix

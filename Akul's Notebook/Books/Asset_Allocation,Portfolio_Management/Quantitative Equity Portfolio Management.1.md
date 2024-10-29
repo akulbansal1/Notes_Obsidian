@@ -1,4 +1,4 @@
-
+ 
 [Book Link](obsidian://open?vault=Akul's%20Notebook&file=Library%2Fbooks_Personal%2Fportfolio%20management%2FLudwig%20B%20Chincarini%2C%20Daehwan%20Kim%20-%20Quantitative%20Equity%20Portfolio%20Management_%20An%20Active%20Approach%20to%20Portfolio%20Construction%20and%20Management%20(McGraw-Hill%20Library%20of%20Investment%20and%20Finance)-McGraw-Hill%20Edu.pdf)
 Author(s): Ludwig and Deahwan
 Publish Year: 2006
